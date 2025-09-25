@@ -1,0 +1,40 @@
+{
+  "name": "star-citizen-data",
+  "version": "1.0.0",
+  "description": "Open source Star Citizen ship and manufacturer data",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "test:coverage": "jest --coverage",
+    "validate": "npm test",
+    "validate:verbose": "jest --verbose",
+    "lint": "eslint src/**/*.ts tests/**/*.ts",
+    "type-check": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.5.14",
+    "@types/node": "^20.0.0",
+    "@typescript-eslint/eslint-plugin": "^6.0.0",
+    "@typescript-eslint/parser": "^6.0.0",
+    "eslint": "^8.0.0",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.2.5",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "zod": "^3.22.0"
+  },
+  "keywords": [
+    "star-citizen",
+    "data",
+    "ships",
+    "gaming",
+    "open-source"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/star-citizen-data.git"
+  }
+}

@@ -1,0 +1,92 @@
+[
+  {
+    "description": "Aegis grew to prominence as a manufacturer of military spacecraft during the First Tevarin War. Favored by Ivar Messer, their orbital bombers grew to public prominence after his infamous victory on Idris IV and became synonymous with the ruthless Messer regime that followed. After the Fall of the Imperator, Aegis' contracts were stripped, their ships fell out of favor with the public, and the company went into a tailspin. They downsized their craft production and turned to manufacturing parts. However, time heals all wounds and today Aegis has risen once again to be a top military contractor of ships and components.",
+    "name": "Aegis Dynamics",
+    "ref": "AEGS"
+  },
+  {
+    "description": "For civilians, Anvil Aerospace produces small fighting craft but with less of the pirate stigma. These ships are more expensive, less spit-and-glue, and built to take more hits than a comparable Drake model. The bulk of Anvil's income is from its military contracts with the UEE to design and build their warships, especially the iconic Hornet.",
+    "name": "Anvil Aerospace",
+    "ref": "ANVL"
+  },
+  {
+    "description": "Though many attributed their elevation to the sole provider of light craft to audacity and daring, Aopoa cemented their position thanks to the innovative dual-vector thruster technology that has revolutionized their ship design.",
+    "name": "Aopoa",
+    "ref": "XNAA"
+  },
+  {
+    "description": "This commercial ship manufacturer focuses on building shuttles, transport vessels and utility vehicles that can be seen around the universe.",
+    "name": "Argo Astronautics",
+    "ref": "ARGO"
+  },
+  {
+    "description": "Banu society combines the Human concepts of family and corporations into a single social unit know as a Souli, a cohabitation focused centered around a specific skillset. These Banu guilds do not control an entire market, rather there are always numerous Souli competing for the same market as the guilds are constantly in flux. \\n\\nBecause of this, the Banu do not market specific brand Soulis. Instead they simply market all their wares to Humans as Banu built.",
+    "name": "Banu",
+    "ref": "BANU"
+  },
+  {
+    "description": "Founded by maverick trillionaire Silas Koerner, Consolidated Outland is an up-and-coming spacecraft concern, the first ever headquartered on a frontier world. Koerner, who made his sizable fortune in jump-communications, founded the company as an attempt to strike back at what he sees as the overly-regulated spacecraft industry. With facilities established as far from possible from the prying eyes of competing corporations, Outland is quickly becoming one to watch.",
+    "name": "Consolidated Outland",
+    "ref": "CNOU"
+  },
+  {
+    "description": "Makers of an extensive fleet of cargo, vehicle and data transport ships, and cutting edge shuttles, Crusader Industries is a titan of the aerospace industry. It is a company so powerful and prominent that it purchased a gas giant in the Stanton system to house its current headquarters.",
+    "name": "Crusader Industries",
+    "ref": "CRUS"
+  },
+  {
+    "description": "Makes affordable, modular ships that have become the go-to manufacturer for anyone looking to get their first ship, but have become associated with criminal elements.",
+    "name": "Drake Interplanetary",
+    "ref": "DRAK"
+  },
+  {
+    "description": "Originally formed as an archive for ship designs, Esperia began to build historically accurate reproductions for collectors, enthusiasts, and even the military.",
+    "name": "Esperia",
+    "ref": "ESPR"
+  },
+  {
+    "description": "Responsible for the design and construction of any ships with commercial or industrial applications, Gatac Manufacture has a long-standing reputation as a ‘knowledge-driven’ corporation producing not only cutting edge ships, but extremely reliable ones.",
+    "name": "Gatac Manufacture",
+    "ref": "GAMA"
+  },
+  {
+    "description": "Kruger Intergalactic started as a custom machined parts manufacturer on Borea in the Magnus system, eventually expanded into weapon development and finally as a manufacturer of short-range ships like the P-52.",
+    "name": "Kruger Intergalatic",
+    "ref": "KRIG"
+  },
+  {
+    "description": "The Mirai design team is dedicated to pairing the craftsmanship of their parent company MISC with Xi’an technology and traditional Saisei aesthetics to create the next generation of cutting-edge vehicles.",
+    "name": "Mirai",
+    "ref": "MRAI"
+  },
+  {
+    "description": "Mass produces very efficient, modular ships, mostly armored freighters of different sizes that make them the preferred brand for traders and larger corporations. Over thirty years ago, MISC signed a lend-lease agreement to establish a tech trade with Xi’An engineers.",
+    "name": "Musashi Industrial & Starflight Concern",
+    "ref": "MISC"
+  },
+  {
+    "description": "Known primarily for high-end ship manufacturing, but also provides some custom parts for their ships - particularly maneuvering thrusters. Sleek and elegant fusion of art and engineering",
+    "name": "Origin Jumpworks",
+    "ref": "ORIG"
+  },
+  {
+    "description": "The original creators of the engine that kickstarted Humanity’s expansion into space, Roberts Space Industries builds a wide range of spaceships that serve all needs, from basic interstellar travel to deep exploration on the outer edges of the galaxy. The tagline is “Roberts Space Industries: Delivering the Stars since 2075”",
+    "name": "Roberts Space Industries",
+    "ref": "RSI"
+  },
+  {
+    "description": "Military designations for the various Vanduul ship components.",
+    "name": "Vanduul",
+    "ref": "VNCL"
+  },
+  {
+    "description": "A trusted manufacturer of industrial tools since 2337, the company’s extensive line of industrial equipment and armor make it one of the most respected brand names around. Greycat has remained a UEE staple for centuries thanks to their streamlined-yet-inventive designs, exacting safety standards, and a diverse product line.",
+    "name": "Greycat Industrial",
+    "ref": "GRIN"
+  },
+  {
+    "description": "Tumbril Land Systems got its start manufacturing ultra-rugged land vehicles built to explore the strange and dangerous landscapes of newly discovered planets. With the onset of the First Tevarin War, Tumbril expanded their operations when they won a government contract to build tanks and other military vehicles for the UPE military. Over the centuries the company eventually folded. Today, the Tumbril brand has been revived to build land vehicles from tanks to exploration vehicles and personal HOVs in both the civilian and military market.",
+    "name": "Tumbril Land Systems",
+    "ref": "TMBL"
+  }
+]
