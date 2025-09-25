@@ -1,6 +1,6 @@
 ## The SC Data Project
 
-Goal: To provide up to date accurate data for ships in Star Citizen
+Goal: To provide up-to-date accurate data for ships in Star Citizen
 
 ## Principles
 
