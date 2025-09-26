@@ -28,9 +28,9 @@ export const ManufacturerSchema = z.object({
 
 // Dimensions Schema
 export const DimensionsSchema = z.object({
-  w: z.number().positive(),
-  l: z.number().positive(),
-  h: z.number().positive()
+  width: z.number().positive(),
+  length: z.number().positive(),
+  height: z.number().positive()
 });
 
 // Hardpoint Schema
