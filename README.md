@@ -2,6 +2,16 @@
 
 **Goal:** To provide up-to-date accurate data for ships in Star Citizen
 
+## Using the Data
+
+There are two primary ways to access the data in this repo.
+
+1. Download the json files located in `src/data/`
+2. Use the limited API..
+    - `https://api.odeck.space/ships` - get all ship data
+    - `https://api.odeck.space/manufacturers` - get all manufacturer data
+
+
 ## Principles
 
 - Quality over Quantity
@@ -21,17 +31,17 @@ There are plenty of ways to contribute, just raising issues and commenting on ot
 
 > Requirements Node and NPM.
 
-**Recommended**: If you are making schema changes raise a PR with your proposed changes to discuss with others in the community before doing the work to prevent unnecessary rework.
+**Recommended**: If you are making schema changes raise a PR with your proposed changes to discuss with others in the community to prevent unnecessary rework.
 
 1. Checkout code and run `npm install`
 2. Try to run `npm run validate` to make sure you can run the tests locally.
 3. Make you changes to the data, update or add to schemas if necessary. You can use `npm run test:watch` to get feedback as you are working.
 4. Raise a PR for your changes.
 
+
 ## Todo
 
 - Set up linting and add to github actions
-- Add actions to publish json to github pages - to act as API for those that need it
 - More tests
 - Add license
 - Release
