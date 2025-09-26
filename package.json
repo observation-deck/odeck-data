@@ -1,6 +1,6 @@
 {
-  "name": "star-citizen-data",
-  "version": "1.0.0",
+  "name": "odeck-data",
+  "version": "0.0.1",
   "description": "Open source Star Citizen ship and manufacturer data",
   "scripts": {
     "test": "jest",
@@ -35,6 +35,6 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/star-citizen-data.git"
+    "url": "https://github.com/observation-deck/odeck-data.git"
   }
 }
