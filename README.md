@@ -1,6 +1,6 @@
-# The SC Data Project
+# ODeck Data - Star Citizen Data for the Community
 
-**Goal:** To provide up-to-date accurate data for ships in Star Citizen
+> Outr goal is to provide up-to-date accurate data for Star Citizen ships (and more)
 
 ## Using the Data
 
