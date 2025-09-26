@@ -1,7 +1,9 @@
 [[redirects]]
   from = "/ships"
   to = "/ships.json"
+  status = 200
 
 [[redirects]]
   from = "/manufacturers"
   to = "/manufacturers.json"
+  status = 200
