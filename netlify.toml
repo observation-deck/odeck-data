@@ -1,0 +1,7 @@
+[[redirects]]
+  from = "/ships"
+  to = "/ships.json"
+
+[[redirects]]
+  from = "/manufacturers"
+  to = "/manufacturers.json"
