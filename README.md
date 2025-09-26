@@ -38,3 +38,8 @@ There are plenty of ways to contribute, just raising issues and commenting on ot
     - Add strict schema rules with new data and use enums if possible
     - If in doubt, add more tests
 
+## Disclaimer
+
+This is an unofficial Star Citizen fan site, not affiliated with the Cloud Imperium group of companies. All content on this site not authored by its host or users are property of their respective owners.
+
+This repository is made and maintained by the community.
