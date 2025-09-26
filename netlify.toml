@@ -7,3 +7,8 @@
   from = "/manufacturers"
   to = "/manufacturers.json"
   status = 200
+
+[[redirects]]
+  from = "/"
+  to = "/ships.json"
+  status = 301
