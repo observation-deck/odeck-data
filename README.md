@@ -8,8 +8,8 @@ There are two primary ways to access the data in this repo.
 
 1. Download the json files located in `src/data/`
 2. Use the hosted version as a limited API..
-    - `https://api.odeck.space/ships` - get all ship data
-    - `https://api.odeck.space/manufacturers` - get all manufacturer data
+    - https://api.odeck.space/ships - get all ship data
+    - https://api.odeck.space/manufacturers - get all manufacturer data
 
 
 ## Principles
