@@ -1,2 +1,2 @@
-/manufacturers  /manufacturers.json
-/ships  /ships.json
+/manufacturers  /src/data/manufacturers.json
+/ships  /src/data/ships.json
