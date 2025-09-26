@@ -1,4 +1,3 @@
-// tests/data-validation.test.ts
 import {
   ManufacturerSchema,
   safeValidateShips

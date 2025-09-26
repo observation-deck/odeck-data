@@ -1,4 +1,3 @@
-// schemas/ship.schemas.ts
 import { z } from 'zod';
 
 // Manufacturer Reference Schema
