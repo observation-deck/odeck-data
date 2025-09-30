@@ -8777,6 +8777,41 @@
     }
   },
   {
+    "ref": "rsi_galaxy",
+    "career": "Modular",
+    "cargo": 64,
+    "maxCrew": 6,
+    "description": "Featuring a fully modular design and an onboard hangar capable of deploying small ships, the cutting-edge Galaxy has versatility built into its DNA with a highly configurable main deck that can be outfitted with comprehensive facilities to support cargo, medical, or refining operations.",
+    "dimensions": {
+      "width": 60,
+      "length": 110,
+      "height": 22
+    },
+    "hp": null,
+    "hydrogenFuel": null,
+    "manufacturer": "RSI",
+    "mass": null,
+    "name": "Galaxy",
+    "qtFuel": null,
+    "role": "Modular",
+    "size": 4,
+    "shields": [
+      {
+        "size": 3,
+        "count": 1,
+        "type": "Shield"
+      }
+    ],
+    "prices": {
+      "pledge": 380,
+      "inGame": null
+    },
+    "conceptDate": "2022-11-24",
+    "state": "In Concept",
+    "minCrew": 1,
+    "flightCharacteristics": null
+  },
+  {
     "ref": "rsi_mantis",
     "career": "Combat",
     "cargo": 0,
