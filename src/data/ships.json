@@ -2529,6 +2529,41 @@
     "minCrew": 1
   },
   {
+    "ref": "anvl_legionnaire",
+    "career": "Combat",
+    "cargo": 0,
+    "maxCrew": 2,
+    "description": "The Anvil Legionnaire presents the civilian market with a military style boarding vessel capable of occupying ships of varying sizes, crews, and capacities. High-performance jump seats safely transport a boarding party of up to ten into the action, while integrated systems let your copilot bypass security protocols on the target vessel, mitigating risk like never before.",
+    "dimensions": {
+      "width": 23,
+      "length": 32,
+      "height": 10
+    },
+    "hp": null,
+    "hydrogenFuel": null,
+    "manufacturer": "ANVL",
+    "mass": null,
+    "name": "Legionnaire",
+    "qtFuel": null,
+    "role": "Boarding",
+    "size": 2,
+    "shields": [
+      {
+        "size": 1,
+        "type": "Shield",
+        "count": 3
+      }
+    ],
+    "prices": {
+      "pledge": 120,
+      "inGame": null
+    },
+    "conceptDate": "2022-05-19",
+    "state": "In Concept",
+    "flightCharacteristics": null,
+    "minCrew": 1
+  },
+  {
     "ref": "anvl_gladiator",
     "career": "Combat",
     "cargo": 0,
