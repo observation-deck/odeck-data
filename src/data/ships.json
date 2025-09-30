@@ -8908,6 +8908,41 @@
     "minCrew": 1
   },
   {
+    "ref": "rsi_perseus",
+    "career": "Militia / Patrol",
+    "cargo": 50,
+    "minCrew": 6,
+    "maxCrew": 6,
+    "description": "Thanks to fringe expansion and the ongoing Vanduul War, security breaches and incidents at high-traffic jump points are more common than ever. When considering a modern solution for civilian and paramilitary operations, we looked to our past; to the historic Perseus gunship. Capable of shredding sub-capital-class goliaths, the mere presence of a Perseus in a blockade or patrol squad is enough to make your most aggressive enemies think twice before engaging… just like its vintage namesake.",
+    "dimensions": {
+      "width": 50,
+      "length": 100,
+      "height": 21
+    },
+    "hp": null,
+    "hydrogenFuel": null,
+    "manufacturer": "RSI",
+    "mass":  null,
+    "name": "Perseus",
+    "qtFuel": null,
+    "role": "Heavy Gunship",
+    "size": 5,
+    "shields": [
+      {
+        "size": 3,
+        "count": 2,
+        "type": "Shield"
+      }
+    ],
+    "prices": {
+      "pledge": 675,
+      "inGame": null
+    },
+    "conceptDate": "2020-11-28",
+    "state": "In Concept",
+    "flightCharacteristics": null
+  },
+  {
     "ref": "rsi_polaris",
     "career": "Militia / Patrol",
     "cargo": 576,
