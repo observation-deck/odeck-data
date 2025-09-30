@@ -444,7 +444,7 @@
     "ref": "aegs_hammerhead",
     "career": "Combat",
     "cargo": 40,
-    "minCrew": 9,
+    "minCrew": 3,
     "maxCrew": 9,
     "description": "A fast patrol ship with multiple turrets designed to combat fighters, the Hammerhead is equally suited to support larger capital ships in a fleet or act as a flagship for fighter groups.",
     "dimensions": {
@@ -494,7 +494,7 @@
     "ref": "aegs_idris_m",
     "career": "Frigate",
     "cargo": 1326,
-    "minCrew": 28,
+    "minCrew": 8,
     "maxCrew": 28,
     "description": "Larger than a bomber but smaller than a ship-of-the-line, frigates occupy an interesting space in the pantheon of Naval warships. While they lack the heavy armor and the capital weaponry of a cruiser, the UEE Navy prizes its frigates as they are maneuverable and can be adapted for use in a wide-range of combat scenarios.",
     "dimensions": {
@@ -551,7 +551,7 @@
     "ref": "aegs_idris_p",
     "career": "Frigate",
     "cargo": 1374,
-    "minCrew": 28,
+    "minCrew": 8,
     "maxCrew": 28,
     "description": "A mark two 'peacekeeper' variant developed for the UEE patrol services, the Idris-P strips the standard ship's ship-to-ship gun and spinal mount in favor of additional cargo capacity and superior speed.",
     "dimensions": {
@@ -608,7 +608,7 @@
     "ref": "aegs_reclaimer",
     "career": "Industrial",
     "cargo": 420,
-    "minCrew": 5,
+    "minCrew": 4,
     "maxCrew": 5,
     "description": "The Aegis Reclaimer is an industrial salvage ship. Equipped with a reinforced cargo bay, a long-range jump drive and launch pods for unmanned drones, the Reclaimer is an ideal ship for taking advantage of deep space wrecks. Tractor beams, floodlights, scanner options and docking ports round out the tools on this capable, utilitarian spacecraft.",
     "dimensions": {
@@ -665,7 +665,7 @@
     "ref": "aegs_redeemer",
     "career": "Combat",
     "cargo": 2,
-    "minCrew": 4,
+    "minCrew": 3,
     "maxCrew": 4,
     "description": "Designed by Aegis Dynamics, the Redeemer is a powerful fighting ship capable of holding its own in combat with a powerful weapons payload. Dotted with turrets and missiles, the Redeemer also doubles as an armored landing craft capable of delivering soldiers to the frontlines.",
     "dimensions": {
@@ -722,7 +722,7 @@
     "ref": "aegs_retaliator",
     "career": "Combat",
     "cargo": 0,
-    "minCrew": 7,
+    "minCrew": 4,
     "maxCrew": 7,
     "description": "This civilian refit of the Retaliator updates the military ship's chassis with unladen space able to be fitted with various modules to suit your needs.",
     "dimensions": {
@@ -1036,7 +1036,7 @@
     "ref": "aegs_vanguard_harbinger",
     "career": "Combat",
     "cargo": 0,
-    "minCrew": 2,
+    "minCrew": 1,
     "maxCrew": 2,
     "description": "The Vanguard Harbinger is Earth's standard fighter/bomber, converting the standard Warden's escape pod into a potent bomb bay. The extended range of the Vanguard and the relatively small profile mean that it can go where carrier-based ships or larger strategic bombers don't, strike hard, and then make it back to base.",
     "dimensions": {
@@ -1108,7 +1108,7 @@
     "ref": "aegs_vanguard_hoplite",
     "career": "Combat",
     "cargo": 0,
-    "minCrew": 2,
+    "minCrew": 1,
     "maxCrew": 2,
     "description": "The Vanguard Hoplite is a cross between the winning Vanguard deep space fighter and a dedicated boarding ship. Adapted from proven assault ship designs, the Hoplite is the perfect tool for inserting an armored strike team with enough firepower to get them out again.",
     "dimensions": {
@@ -1170,7 +1170,7 @@
     "ref": "aegs_vanguard_sentinel",
     "career": "Combat",
     "cargo": 0,
-    "minCrew": 2,
+    "minCrew": 1,
     "maxCrew": 2,
     "description": "The Vanguard Sentinel is a ship that's designed to fight smart instead of taking enemies head on. The conversion features an AR cockpit, an external e-War pod, decoy missiles and a set of EMP charges. Vanguard Sentinels often provide necessary combat support for combined operations. A lone Sentinel is frequently paired with Harbinger bombers and Warden escorts for large attack missions.",
     "dimensions": {
@@ -1244,7 +1244,7 @@
     "ref": "aegs_vanguard",
     "career": "Combat",
     "cargo": 0,
-    "minCrew": 2,
+    "minCrew": 1,
     "maxCrew": 2,
     "description": "A hard-charging bulldog of a fighter which features extensive forward-mounted weaponry designed to tear through the shields and armor of other spacecraft. So-named because their multiple-jump range allows them to form the vanguard of any military expedition, Vanguards have seen extensive service against the Vanduul.",
     "dimensions": {
@@ -1430,7 +1430,7 @@
     "ref": "anvl_c8_pisces",
     "career": "Exploration",
     "cargo": 4,
-    "minCrew": 3,
+    "minCrew": 1,
     "maxCrew": 3,
     "description": "With its compact frame, deft maneuverability, and seating for three, the C8 Pisces snub craft, included with every Carrack, is built by Anvil Aerospace for scouting ahead or exploring environments inaccessible to its larger carrier ship.",
     "dimensions": {
@@ -1551,7 +1551,7 @@
     "ref": "anvl_c8x_pisces_expedition",
     "career": "Exploration",
     "cargo": 4,
-    "minCrew": 3,
+    "minCrew": 1,
     "maxCrew": 3,
     "description": "Sporting more guns and a limited-edition livery, the C8X Pisces Expedition turns the stout snub into a perfectly viable standalone exploration vessel. With its compact frame, deft maneuverability, and seating for three, the Pisces Expedition is ready to take on its own adventures.",
     "dimensions": {
@@ -1996,7 +1996,7 @@
     "ref": "anvl_hornet_f7cm_heartseeker",
     "career": "Combat",
     "cargo": 0,
-    "minCrew": 2,
+    "minCrew": 1,
     "maxCrew": 2,
     "description": "Designed for pilots whose true love is the pulse-pounding thrill of a harrowing dogfight, the limited-edition F7C-M Heartseeker Mk I is 'the one' for true combat die-hards. Loaded with top-of-the-line components and outfitted with four imposing Behring laser cannons, this fierce eradicator hones the legendary combat proficiency of the Super Hornet to give you the ultimate edge in space combat.",
     "dimensions": {
@@ -2063,7 +2063,7 @@
     "ref": "anvl_hornet_f7cm",
     "career": "Combat",
     "cargo": 0,
-    "minCrew": 2,
+    "minCrew": 1,
     "maxCrew": 2,
     "description": "The closest to the Military load-out as is legally possible for a Civilian model, the F7C-M Super Hornet Mk I reattaches the ball turret and offers near milspec parts under the hood. Proving that two heads are better than one, a second seat has been added to split the logistic and combat duty, making the Super Hornet a truly terrifying mark to engage.",
     "dimensions": {
@@ -2130,7 +2130,7 @@
     "ref": "anvl_hornet_f7cm_mk2",
     "career": "Combat",
     "cargo": 0,
-    "minCrew": 2,
+    "minCrew": 1,
     "maxCrew": 2,
     "description": "Manufacturer: Anvil Aerospace\\nFocus: Medium Fighter\\n \\nRefining their renowned military-class superiority fighter with the most up-to-date technology, Anvil Aerospace has crafted the F7C-M Super Hornet Mk II,  retaining the second seat and ball turret that made the original a truly terrifying mark to engage.",
     "dimensions": {
@@ -2532,7 +2532,7 @@
     "ref": "anvl_gladiator",
     "career": "Combat",
     "cargo": 0,
-    "minCrew": 2,
+    "minCrew": 1,
     "maxCrew": 2,
     "description": "The civilian model of the Gladiator appeals to those that want to explore the ‘verse with a bit of added security. Supporting a maximum of two, the Gladiator is perfectly equipped to explore and fight with or without a wingman. The Civilian model allows pilots to choose between an extra cargo hold or a bomb bay.",
     "dimensions": {
@@ -2718,7 +2718,7 @@
     "ref": "anvl_paladin",
     "career": "Combat",
     "cargo": 0,
-    "minCrew": 4,
+    "minCrew": 1,
     "maxCrew": 4,
     "description": "Heavy gunship equipped to take down huge targets.",
     "dimensions": {
@@ -2874,7 +2874,7 @@
     "ref": "anvl_valkyrie",
     "career": "Combat",
     "cargo": 90,
-    "minCrew": 5,
+    "minCrew": 1,
     "maxCrew": 5,
     "description": "The Valkyrie ups the ante on troop transport. Designed to carry up to twenty soldiers, as well as vehicles, to the most hostile locations, this conflict-ready mil-spec craft is a formidable force, both offensively and defensively. Built with military and private defense contractors in mind, the Valkyrie is one of the most efficient and effective personnel transports in its class.",
     "dimensions": {
@@ -3081,7 +3081,7 @@
     "ref": "argo_mole",
     "career": "Industrial",
     "cargo": 96,
-    "minCrew": 4,
+    "minCrew": 1,
     "maxCrew": 4,
     "description": "Argo’s iconic multi-operator laser extractor, more commonly referred to as the MOLE, lets you work faster and more effectively than ever before, thanks to its patented trilateral mining system. Three independently controlled articulated extraction stations allow for maximum power and near-limitless versatility. The MOLE lives by the adage \"many hands make for light work\".",
     "dimensions": {
@@ -3877,7 +3877,7 @@
     "ref": "crus_starlifter_a2",
     "career": "Combat",
     "cargo": 216,
-    "minCrew": 6,
+    "minCrew": 1,
     "maxCrew": 6,
     "description": "The A2 gunship has been used to devastating effect in airborne assaults, search and rescue operations, and landing initiatives. With more than double the firepower of the M2, and a custom bomb bay capable of delivering a staggering payload, the A2 caters to anyone hauling massive amounts of cargo through potentially unfriendly skies.",
     "dimensions": {
@@ -4219,7 +4219,7 @@
     "ref": "crus_starlifter_m2",
     "career": "Transporter",
     "cargo": 522,
-    "minCrew": 3,
+    "minCrew": 1,
     "maxCrew": 3,
     "description": "The M2 Hercules is the UEE's premier tactical starlifter. The large-scale transport's potent combination of capacity, maneuverability, durability, and robust weapons package assures your cargo and crew get to where they’re going in one piece.",
     "dimensions": {
@@ -4269,7 +4269,7 @@
     "ref": "crus_star_runner",
     "career": "Transporter",
     "cargo": 114,
-    "minCrew": 3,
+    "minCrew": 2,
     "maxCrew": 3,
     "description": "If you need it there fast and unscathed, the Mercury checks all the boxes expected of a dependable courier vessel and then some. Built with the same engineering and design principles that have made Crusader Industries the go-to manufacturer for galactic transport on any scale, the Mercury Star Runner will let you stay ahead of schedule, trouble, and the competition.",
     "dimensions": {
@@ -4398,7 +4398,7 @@
     "ref": "drak_caterpillar",
     "career": "Transporter",
     "cargo": 576,
-    "minCrew": 4,
+    "minCrew": 2,
     "maxCrew": 4,
     "description": "First introduced in 2871, Drake Interplanetary's Caterpillar has long proven to be a reliable, cost-effective multi-role vessel, capable of being outfitted for everything from mercantile operations to combat support. Long hailed as a hard-fought alternative to the ubiquitous Hull series, the Caterpillar is a freighter that doesn't skimp on weaponry or customization.",
     "dimensions": {
@@ -4455,7 +4455,7 @@
     "ref": "drak_corsair",
     "career": "Exploration",
     "cargo": 72,
-    "minCrew": 4,
+    "minCrew": 1,
     "maxCrew": 4,
     "description": "Heed the call of uncharted space and harness the spirit of exploration with the Drake Corsair. Utilizing a unique asymmetrical hull design, this versatile explorer can go wherever the winds of adventure may steer you.",
     "dimensions": {
@@ -4517,7 +4517,7 @@
     "ref": "drak_cutlass_black",
     "career": "Multi-Role",
     "cargo": 46,
-    "minCrew": 3,
+    "minCrew": 1,
     "maxCrew": 3,
     "description": "Drake Interplanetary claims that the Cutlass Black is a low-cost, easy-to-maintain solution for local in-system militia units. The larger-than-average cargo hold, RIO seat and dedicated tractor mount are, the company literature insists, for facilitating search and rescue operations.",
     "dimensions": {
@@ -4591,7 +4591,7 @@
     "ref": "drak_cutlass_blue",
     "career": "Multi-Role",
     "cargo": 12,
-    "minCrew": 3,
+    "minCrew": 2,
     "maxCrew": 3,
     "description": "Sleek, mean, and royal. The Cutlass Blue adds missiles, a more aggressive engine, and Durasteel holding cells in the cargo bay to the standard model. The Cutlass Blue is the outworld militia standard ship of choice for patrols.",
     "dimensions": {
@@ -4660,7 +4660,7 @@
     "ref": "drak_cutlass_red",
     "career": "Multi-Role",
     "cargo": 12,
-    "minCrew": 3,
+    "minCrew": 1,
     "maxCrew": 3,
     "description": "The Cutlass Red converts the standard cargo hold to a well-equiped medical facility including an Autodoc. This starbound ambulance features the Nav-E7 Echo Transponder, a long range scanner, and a Secure Plus Docking Collar, making it ideal for search and rescue. This model also features a unique Red Crossbones skin.",
     "dimensions": {
@@ -4722,7 +4722,7 @@
     "ref": "drak_cutlass_steel",
     "career": "Combat",
     "cargo": 0,
-    "minCrew": 3,
+    "minCrew": 1,
     "maxCrew": 3,
     "description": "With the Cutlass Steel, Drake Interplanetary has once again reinvented their classic design to create a next generation combat transport ship through the addition of dedicated jump seats and an expanded arsenal. It’s a dangerous ‘verse out there, and the Cutlass Steel is ready to cut a path through whatever stands in the way of you and your dedicated crew.",
     "dimensions": {
@@ -5360,7 +5360,7 @@
     "ref": "espr_prowler_utility",
     "career": "Transporter",
     "cargo": 32,
-    "minCrew": 5,
+    "minCrew": 1,
     "maxCrew": 5,
     "description": "While no known Tevarin-made examples of this historical ship exist, historians at Esperia studied contemporary UPE military field reports to reconstruct this modified Prowler. Used by the Tevarin military to deliver urgently needed supplies to the frontlines, the Prowler Utility pairs a tractor beam with a fully accessible hold, alongside the warship’s still significant armaments, to make the transfer of cargo in battlefield conditions a precision operation.",
     "dimensions": {
@@ -6383,7 +6383,7 @@
     "ref": "misc_freelancer",
     "career": "Transporter",
     "cargo": 66,
-    "minCrew": 4,
+    "minCrew": 2,
     "maxCrew": 4,
     "description": "Freelancers are used as long haul merchant ships by major corporations, but they are just as frequently repurposed as dedicated exploration vessels by independent captains who want to operate on the fringes of the galaxy.",
     "dimensions": {
@@ -6445,7 +6445,7 @@
     "ref": "misc_freelancer_dur",
     "career": "Exploration",
     "cargo": 36,
-    "minCrew": 4,
+    "minCrew": 2,
     "maxCrew": 4,
     "description": "The Freelancer DUR variant specializes in exploration. Sacrificing 25% cargo capacity of the standard Freelancer for an enhanced jump drive, a more advanced scanner, and an expanded fuel tank may seem like a bad call to some, but those who value discovery over profit will find it to be their ship of choice.",
     "dimensions": {
@@ -6507,7 +6507,7 @@
     "ref": "misc_freelancer_max",
     "career": "Transporter",
     "cargo": 120,
-    "minCrew": 4,
+    "minCrew": 2,
     "maxCrew": 4,
     "description": "Freelancer variant with additional cargo capacity at the expense of weapons. The Freelancer MAX variant sacrifices weaponry for an increased cargo capacity making it ideal for equipment or raw materials transport.",
     "dimensions": {
@@ -6569,7 +6569,7 @@
     "ref": "misc_freelancer_mis",
     "career": "Combat",
     "cargo": 36,
-    "minCrew": 4,
+    "minCrew": 2,
     "maxCrew": 4,
     "description": "The Freelancer MIS is a limited edition militarized variant of the classic mercantile ship developed by the UEE. These were produced in very small quantity due to some early payload incidents. This version sacrifices the majority of the cargo capacity to make way for missiles.",
     "dimensions": {
@@ -6681,7 +6681,7 @@
     "ref": "misc_hull_c",
     "career": "Transporter",
     "cargo": 4608,
-    "minCrew": 4,
+    "minCrew": 2,
     "maxCrew": 4,
     "description": "Often called the most common ship in the galaxy, the Hull C is the most-produced of the range and is considered by many to be the most versatile. Intended to hit the ‘sweet spot’ between the smaller single-person transports and the massive superfreighters that make up the rest of the range, the Hull C offers the expansive modularity of the larger ships while still retaining a modicum of the maneuverability allowed the low end of the range.",
     "dimensions": {
@@ -6795,7 +6795,7 @@
     "ref": "misc_reliant",
     "career": "Multi-Role",
     "cargo": 6,
-    "minCrew": 2,
+    "minCrew": 1,
     "maxCrew": 2,
     "description": "With the Reliant Kore, MISC adds to its already impressive lineup of ships, a smaller introductory-class spacecraft. Utilizing advanced Xi’An designs, the Reliant features broad, sleek wings, omni-directional thrusters and a fully-articulated two-seat cockpit that supports horizontal and vertical flight modes. All of this combines with a larger carrying capacity than many ships in its class to make the Kore a natural choice for short-range hauling, or with the simple addition of a few optional components, this can-do ship can do anything you dream of.",
     "dimensions": {
@@ -6859,7 +6859,7 @@
     "ref": "misc_reliant_mako",
     "career": "Multi-Role",
     "cargo": 0,
-    "minCrew": 2,
+    "minCrew": 1,
     "maxCrew": 2,
     "description": "The Empire depends on up-to-the-second information, which is why reporters need to be able to go where the news is happening: wherever, whenever. Enter the Mako, all the flexibility and dependability of a MISC Reliant combined with a state-of-the-art Cernan camera package to capture every moment as it happens with the clarity and accuracy that makes headlines.",
     "dimensions": {
@@ -6916,7 +6916,7 @@
     "ref": "misc_reliant_sen",
     "career": "Multi-Role",
     "cargo": 0,
-    "minCrew": 2,
+    "minCrew": 1,
     "maxCrew": 2,
     "description": "Magellan, Pierce, Croshaw, names that echo through history thanks to their adventurous spirit, a curious nature, and a reliable ship. The Reliant Sen is a versatile mobile science platform; outfitted with long range capabilities to take you further, longer, and the advanced Samos sensor suite. Perfect for the aspiring explorer who wants to whisper their name into the halls of history.",
     "dimensions": {
@@ -6973,7 +6973,7 @@
     "ref": "misc_reliant_tana",
     "career": "Multi-Role",
     "cargo": 1,
-    "minCrew": 2,
+    "minCrew": 1,
     "maxCrew": 2,
     "description": "With Humanity ever-expanding through the universe, the need for a versatile lightweight fighter has expanded with it. Easy to maintain with a rugged construction, the Reliant Tana makes for an ideal choice for frontier and outpost defense thanks to its custom high-yield power plant, stronger shields, and additional weapon mounts.",
     "dimensions": {
@@ -7035,7 +7035,7 @@
     "ref": "misc_starfarer",
     "career": "Support",
     "cargo": 291,
-    "minCrew": 8,
+    "minCrew": 4,
     "maxCrew": 8,
     "description": "The Starfarer differs from traditional bulk freighters in one key way: it is a dedicated fuel platform. The Starfarer is designed not only to load, store and protect fuel stasis units, it is designed to take in spaceborne gases and refine them for use without landing. And while it excels at this, the Starfarer can also be used to ferry traditional bulk cargo pods.",
     "dimensions": {
@@ -7085,7 +7085,7 @@
     "ref": "misc_starfarer_gemini",
     "career": "Support",
     "cargo": 291,
-    "minCrew": 6,
+    "minCrew": 4,
     "maxCrew": 6,
     "description": "The United Empire of Earth military uses an adapted ‘rough and tumble’ variant of the Starfarer for their front line operations. The G2M Gemini, more commonly the Starfarer Gemini or ‘Star G,’ trades some cargo capacity and maneuverability in exchange for reinforced armor, increased shielding, more powerful engines and stronger versions of the three manned turrets.",
     "dimensions": {
@@ -7142,7 +7142,7 @@
     "ref": "misc_starlancer_max",
     "career": "Exploration",
     "cargo": 224,
-    "minCrew": 4,
+    "minCrew": 1,
     "maxCrew": 4,
     "description": "Manufacturer: MISC\\nFocus: Cargo\\n \\nFor those looking to expand their hauling operations, the engineers at MISC have upgraded the Starlancer MAX with an extra spacious hold ready to transport cargo and vehicles. Paired with comfortable accommodations for longer trips and a full defensive package for when you go off the beaten path, it’s easy to see why the Starlancer MAX is the hauler of choice for industrious pilots across the ‘verse.",
     "dimensions": {
@@ -7665,7 +7665,7 @@
     "ref": "orig_400i",
     "career": "Exploration",
     "cargo": 42,
-    "minCrew": 3,
+    "minCrew": 1,
     "maxCrew": 3,
     "description": "To explore the stars is a most noble endeavor, and Origin Jumpworks has risen to the occasion in crafting the 400i high-performance pathfinder. With class-leading range, substantial defensive capabilities, and a factory-equipped scanning array, the 400i is ready to take on the harshest corners of the galaxy while maintaining the comfort and elegance Origin is known for.",
     "dimensions": {
@@ -7727,7 +7727,7 @@
     "ref": "orig_600i",
     "career": "Exploration",
     "cargo": 44,
-    "minCrew": 5,
+    "minCrew": 2,
     "maxCrew": 5,
     "description": "This multi-role luxury vessel from Origin Jumpworks features an exquisitely detailed hull design that balances performance and versatility in a sleek and timeless form. The 600i is designed with a cutting-edge modular technology, allowing you to customize your ship for your needs.",
     "dimensions": {
@@ -7784,7 +7784,7 @@
     "ref": "orig_600i_touring",
     "career": "Exploration",
     "cargo": 20,
-    "minCrew": 5,
+    "minCrew": 3,
     "maxCrew": 5,
     "description": "This multi-role luxury vessel from Origin Jumpworks features an exquisitely detailed hull design that balances performance and versatility in a sleek and timeless form. The 600i is designed with a cutting-edge modular technology, allowing you to customize your ship for your needs.",
     "dimensions": {
@@ -7891,7 +7891,7 @@
     "ref": "orig_890jump",
     "career": "Exploration",
     "cargo": 388,
-    "minCrew": 8,
+    "minCrew": 3,
     "maxCrew": 8,
     "description": "With an elegant, sleek exterior that belies its spacious interior, the 890 Jump is a true engineering marvel; crafted to impress from every angle by combining a unique, innovative design with the finest materials and the most advanced technology. The result is a vessel that is in a class all of its own, a masterpiece worthy of the name Origin.",
     "dimensions": {
@@ -8127,7 +8127,7 @@
     "ref": "rsi_apollo_medivac",
     "career": "Support",
     "cargo": 32,
-    "minCrew": 2,
+    "minCrew": 1,
     "maxCrew": 2,
     "description": "A life-saving ship with enhanced armor and missile racks, capable of responding to calls in the heaviest combat. A product of RSI’s proven history in critical aid, the Medivac provides robust, adaptable medical support under fire, keeping crews alive in the most dangerous situations.",
     "dimensions": {
@@ -8191,7 +8191,7 @@
     "ref": "rsi_apollo_triage",
     "career": "Support",
     "cargo": 32,
-    "minCrew": 2,
+    "minCrew": 1,
     "maxCrew": 2,
     "description": "A life-saving ship for rapid response and emergency medical assistance. A product of RSI’s proven history in critical aid, the Triage delivers highly configurable, professional-level medical care anywhere in the galaxy.",
     "dimensions": {
@@ -8540,7 +8540,7 @@
     "ref": "rsi_constellation_andromeda",
     "career": "Multi-Role",
     "cargo": 96,
-    "minCrew": 4,
+    "minCrew": 3,
     "maxCrew": 4,
     "description": "The Constellation Andromeda is a dependable multi-crew freighter that appeals to merchants across the empire thanks to its versatility. One of the most popular ships that RSI produces, the iconic Andromeda features a well-appointed cargo bay, a snub-fighter docking port, and a signature wrap-around bridge.",
     "dimensions": {
@@ -8602,7 +8602,7 @@
     "ref": "rsi_constellation_aquila",
     "career": "Exploration",
     "cargo": 96,
-    "minCrew": 4,
+    "minCrew": 3,
     "maxCrew": 4,
     "description": "Designed by RSI to traverse distant frontiers, the Constellation Aquila features a redesigned cockpit for maximum visibility, advanced sensors, and a P-52 snub craft and Ursa rover for planetary exploration. Discover for yourself why explorers the ‘verse over choose to captain the Aquila.",
     "dimensions": {
@@ -8659,7 +8659,7 @@
     "ref": "rsi_constellation_phoenix",
     "career": "Multi-Role",
     "cargo": 96,
-    "minCrew": 4,
+    "minCrew": 3,
     "maxCrew": 4,
     "description": "A dedicated luxury spacecraft for the discerning star captain. The Constellation Phoenix can be operated as an organization command ship and features a luxurious redesigned interior. Includes a hidden sensor-dampened area for your most precious cargo. The Phoenix comes with a Lynx rover and a Kruger P-72 Archimedes Fighter.",
     "dimensions": {
@@ -8716,7 +8716,7 @@
     "ref": "rsi_constellation_taurus",
     "career": "Transporter",
     "cargo": 174,
-    "minCrew": 4,
+    "minCrew": 3,
     "maxCrew": 4,
     "description": "Paired down to fully focus on hauling, the Taurus provides the most cargo space of any ship in RSI’s Constellation line-up. What it loses in versatility it more than makes up for in potential profits thanks to its tractor beams, a cargo release system for quick unloading, and a security hold reinforced with tech plating.",
     "dimensions": {
@@ -8911,7 +8911,7 @@
     "ref": "rsi_polaris",
     "career": "Militia / Patrol",
     "cargo": 576,
-    "minCrew": 12,
+    "minCrew": 6,
     "maxCrew": 12,
     "description": "The Polaris is a nimble corvette-class capital ship that packs a powerful punch with a full armament of turrets and torpedoes. Intended for use as both a naval patrol ship and to serve as the flagship of militia operations, Polaris has the capacity to perform search and rescue operations, light strike missions and general security patrols. The Polaris includes the facilities to repair, rearm and refuel a single fighter, light bomber or support ship.",
     "dimensions": {
@@ -9087,7 +9087,7 @@
     "ref": "rsi_zeus_cl",
     "career": "Transporter",
     "cargo": 128,
-    "minCrew": 3,
+    "minCrew": 1,
     "maxCrew": 3,
     "description": "Ready to ferry a whole new generation of travelers across the universe, Roberts Space Industries is proud to introduce a starship eight centuries in the making - the all-new Zeus Mk II spacecraft. Paying homage to the classic design that launched Humanity to the stars in 2140, the Zeus Mk II has been updated to exceed modern standards while retaining the heart of this beloved spacefaring icon.  With a focus on commerce, the Zeus Mk II CL edition features additional cargo space and a tractor beam ideal for handling large volumes of cargo.",
     "dimensions": {
@@ -9151,7 +9151,7 @@
     "ref": "rsi_zeus_es",
     "career": "Exploration",
     "cargo": 32,
-    "minCrew": 3,
+    "minCrew": 1,
     "maxCrew": 3,
     "description": "Ready to ferry a whole new generation of travelers across the universe, Roberts Space Industries is proud to introduce a starship eight centuries in the making - the all-new Zeus Mk II spacecraft. Paying homage to the classic design that launched Humanity to the stars in 2140, the Zeus Mk II has been updated to exceed modern standards while retaining the heart of this beloved spacefaring icon.  With a focus on exploration, the Zeus Mk II ES edition features a robust radar package for finding new discoveries, and enhanced weaponry and shielding to help bring them back home.\\n",
     "dimensions": {
@@ -9669,7 +9669,7 @@
     "ref": "rsi_ursa_rover",
     "career": "Ground",
     "cargo": 0,
-    "minCrew": 2,
+    "minCrew": 1,
     "maxCrew": 2,
     "description": "Built by RSI specifically for the planetside explorer, the Ursa Rover offers civilians military-grade all-terrain capabilities and stands as the rugged standard in ground-based scouting, mapping and discovery applications.",
     "dimensions": {
@@ -9711,7 +9711,7 @@
     "ref": "rsi_ursa_medivac",
     "career": "Ground",
     "cargo": 0,
-    "minCrew": 2,
+    "minCrew": 1,
     "maxCrew": 2,
     "description": "Manufacturer: RSI\\nFocus: Medical\\n \\nEven in the most remote of planetside destinations, there are people who could use a helping hand. Designed by RSI to cross even the most rugged terrain, the Ursa Medivac features a Tier 3 Medical Bed ideal for offering aid wherever its needed most.",
     "dimensions": {
@@ -9760,7 +9760,7 @@
     "ref": "tmbl_cyclone",
     "career": "Ground",
     "cargo": 0,
-    "minCrew": 2,
+    "minCrew": 1,
     "maxCrew": 2,
     "description": "With a potent combination of speed, maneuverability, and rugged durability, the Cyclone is a perfect choice for local deliveries and transport between planetside homesteads and outposts.",
     "dimensions": {
@@ -9795,7 +9795,7 @@
     "ref": "tmbl_cyclone_aa",
     "career": "Ground",
     "cargo": 0,
-    "minCrew": 2,
+    "minCrew": 1,
     "maxCrew": 2,
     "description": "A battlefield equalizer, the Cyclone AA comes equipped with a surface-to-air missile and countermeasure package to provide cover for ground troops against airborne targets.",
     "dimensions": {
@@ -9844,7 +9844,7 @@
     "ref": "tmbl_cyclone_mt",
     "career": "Ground",
     "cargo": 0,
-    "minCrew": 3,
+    "minCrew": 1,
     "maxCrew": 3,
     "description": "Following the success of the initial release of the Cyclone, Tumbril has taken your feedback and expanded their popular line of tactical vehicles with the all new Cyclone MT. Outfitted with a combination gun and missile turret, this module offers increased combat options in the field.",
     "dimensions": {
@@ -9949,7 +9949,7 @@
     "ref": "tmbl_cyclone_tr",
     "career": "Ground",
     "cargo": 0,
-    "minCrew": 3,
+    "minCrew": 1,
     "maxCrew": 3,
     "description": "Designed for militia and security use, the Cyclone TR module features upgraded armor and a single Human-operated turret capable of mounting a Size 1 weapon and a responsive 360° field of fire.",
     "dimensions": {
@@ -9984,7 +9984,7 @@
     "ref": "tmbl_nova",
     "career": "Ground Combat",
     "cargo": 0,
-    "minCrew": 2,
+    "minCrew": 1,
     "maxCrew": 2,
     "description": "Tumbril's new Nova is a classic battlefield warrior, reimagined for the modern age. This heavy tank offers a devastating combination of weaponry to eliminate threats on the ground and in the air.",
     "dimensions": {
