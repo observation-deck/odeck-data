@@ -14,9 +14,14 @@ export const HardPointTypeSchema = z.enum([
   'Mining Beam', 'Empty'
 ]);
 
-// Hard Point Type Schema
+// Concept Type Schema
 export const StateSchema = z.enum([
   'Flight Ready', 'In Concept'
+]);
+
+// Ground/Snub/Ship Type Schema
+export const VehicleTypeSchema = z.enum([
+  'Ground', 'Snub', 'Ship'
 ]);
 
 // Manufacturer Schema
@@ -84,6 +89,7 @@ export const ShipSchema = z.object({
   missiles: z.array(HardpointSchema).optional(),
   accessories: z.array(HardpointSchema).optional(),
   state: StateSchema,
+  vehicleType: VehicleTypeSchema,
 });
 
 // Infer TypeScript types from schemas (these will match your original interfaces)

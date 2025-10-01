@@ -75,6 +75,18 @@ describe('Ship Data Validation', () => {
         }
       });
     });
+
+    test('ground/snub ships should be missing specific data', () => {
+      ships.forEach((ship, index) => {
+        if (ship.vehicleType === 'Ground') {
+          expect(ship.flightCharacteristics).toBe(null);
+          expect(ship.qtFuel).toBe(null);
+        }
+        if (ship.vehicleType === 'Snub') {
+          expect(ship.qtFuel).toBe(null);
+        }
+      });
+    });
   });
 
   describe('Manufacturer Validation', () => {
