@@ -644,6 +644,35 @@
     "vehicleType": "Ship"
   },
   {
+    "ref": "aegs_nautilus",
+    "career": "Minelayer",
+    "cargo": 64,
+    "minCrew": 4,
+    "maxCrew": 8,
+    "description": "With four centuries of distinguished service under its belt, The Aegis Dynamics Nautilus tactical minelayer represents the ultimate in strategic combat engineering, with fully-integrated mine-deployment, sweeping and disarming capabilities.",
+    "dimensions": {
+      "width": 72,
+      "length": 125,
+      "height": 22
+    },
+    "hp": null,
+    "hydrogenFuel": null,
+    "manufacturer": "AEGS",
+    "mass": null,
+    "name": "Nautilus",
+    "qtFuel": null,
+    "role": "Minelayer",
+    "size": 4,
+    "prices": {
+      "pledge": 725,
+      "inGame": null
+    },
+    "conceptDate": "2019-11-30",
+    "state": "In Concept",
+    "flightCharacteristics": null,
+    "vehicleType": "Ship"
+  },
+  {
     "ref": "aegs_reclaimer",
     "career": "Industrial",
     "cargo": 420,
@@ -3599,6 +3628,35 @@
     "vehicleType": "Ship"
   },
   {
+    "ref": "banu_merchantman",
+    "career": "Heavy Freight",
+    "cargo": 2880,
+    "maxCrew": 8,
+    "description": "Banu traders are renowned for their merchant prowess, traveling the spacelanes and trading with everyone from humans to the Vanduul! Their sturdy, dedicated trading ships are prized beyond all other transports, sometimes passing from generation to generation of Banu.",
+    "dimensions": {
+      "width": 160,
+      "length": 160,
+      "height": 65
+    },
+    "hp": null,
+    "hydrogenFuel": null,
+    "manufacturer": "BANU",
+    "mass": null,
+    "name": "Merchantman",
+    "qtFuel": null,
+    "role": "Heavy Freight",
+    "size": 4,
+    "prices": {
+      "pledge": 650,
+      "inGame": null
+    },
+    "conceptDate": "2013-11-11",
+    "state": "In Concept",
+    "flightCharacteristics": null,
+    "minCrew": 4,
+    "vehicleType": "Ship"
+  },
+  {
     "ref": "cnou_hoverquad",
     "career": "Personal Transport",
     "cargo": 0,
@@ -3975,6 +4033,64 @@
       }
     },
     "minCrew": 1,
+    "vehicleType": "Ship"
+  },
+  {
+    "ref": "cnou_pioneer",
+    "career": "Heavy Construction",
+    "cargo": 1000,
+    "maxCrew": 8,
+    "description": "After their auspicious debut with the Mustang, Consolidated Outland has gone and changed the game again with the reveal of the Pioneer. This self-contained mobile construction yard is capable of creating planetary modular structures, ushering a new wave of aspiring colonists to customize their new homes on the frontier.",
+    "dimensions": {
+      "width": 133,
+      "length": 247,
+      "height": 53
+    },
+    "hp": null,
+    "hydrogenFuel": null,
+    "manufacturer": "CNOU",
+    "mass": null,
+    "name": "Pioneer",
+    "qtFuel": null,
+    "role": "Heavy Construction",
+    "size": 6,
+    "prices": {
+      "pledge": 925,
+      "inGame": null
+    },
+    "conceptDate": "2017-10-26",
+    "state": "In Concept",
+    "flightCharacteristics":  null,
+    "minCrew": 4,
+    "vehicleType": "Ship"
+  },
+  {
+    "ref": "crus_genesis",
+    "career": "Passenger Transport",
+    "cargo": 0,
+    "maxCrew": 8,
+    "description": "The Genesis is yet another landmark in Crusader Industries’ proud history of transport designs. This ship utilizes award-winning manufacturing techniques and the highest quality parts to create one thing; a next-generation passenger ship at a price that won’t break your budget. Crusader Industries’ proprietary NeoG engine technology offers some of the most efficient flight for a ship of its size.",
+    "dimensions": {
+      "width": 80,
+      "length": 85,
+      "height": 25
+    },
+    "hp": null,
+    "hydrogenFuel": null,
+    "manufacturer": "CRUS",
+    "mass": null,
+    "name": "Genesis",
+    "qtFuel": null,
+    "role": "Passenger Transport",
+    "size": 4,
+    "prices": {
+      "pledge": 400,
+      "inGame": null
+    },
+    "conceptDate": "2015-06-26",
+    "state": "In Concept",
+    "flightCharacteristics": null,
+    "minCrew": 2,
     "vehicleType": "Ship"
   },
   {
@@ -5944,6 +6060,64 @@
     },
     "minCrew": 1,
     "vehicleType": "Snub"
+  },
+  {
+    "ref": "misc_expanse",
+    "career": "Refinery",
+    "cargo": 128,
+    "maxCrew": 1,
+    "description": "Introducing the MISC Expanse, the single-crew vessel at the heart of both large and small-scale refining operations across the Empire. The Expanse's self-contained refinery system makes it the industry standard for accessible vehicular-based mineral processing. Specifically designed to operate in tandem with mining vehicles like the MISC Prospector, the Expanse enhances any serious mining operation by transforming raw-mineral pods into saleable material on the fly.",
+    "dimensions": {
+      "width": 21,
+      "length": 35.5,
+      "height": 10
+    },
+    "hp": null,
+    "hydrogenFuel": null,
+    "manufacturer": "MISC",
+    "mass": null,
+    "name": "Expanse",
+    "qtFuel": null,
+    "role": "Refinery",
+    "size": 2,
+    "prices": {
+      "pledge": 150,
+      "inGame": null
+    },
+    "conceptDate": "2023-05-11",
+    "state": "In Concept",
+    "flightCharacteristics": null,
+    "minCrew": 1,
+    "vehicleType": "Ship"
+  },
+  {
+    "ref": "misc_odyssey",
+    "career": "Expedition",
+    "cargo": 252,
+    "maxCrew": 6,
+    "description": "Survey distant frontiers and explore the furthest reaches of space with the MISC Odyssey, the most advanced and complete exploration ship available to civilians. Designed to be supremely self-sufficient, the Odyssey comes with an on-board refinery with built-in mining tech, expansive capacity for supplies, and a hangar capable of housing a small ship, along with comprehensive, comfortable accommodations for a crew of six. Discover a new life among the stars. Only from MISC.",
+    "dimensions": {
+      "width": 90,
+      "length": 140,
+      "height": 35
+    },
+    "hp": null,
+    "hydrogenFuel": null,
+    "manufacturer": "MISC",
+    "mass": null,
+    "name": "Odyssey",
+    "qtFuel": null,
+    "role": "Expedition",
+    "size": 4,
+    "prices": {
+      "pledge": 700,
+      "inGame": null
+    },
+    "conceptDate": "2021-11-27",
+    "state": "In Concept",
+    "flightCharacteristics": null,
+    "minCrew": 1,
+    "vehicleType": "Ship"
   },
   {
     "ref": "misc_fury",
@@ -9713,6 +9887,35 @@
     "flightCharacteristics": null,
     "minCrew": 2,
     "vehicleType": "Ground"
+  },
+  {
+    "ref": "anvl_crucible",
+    "career": "Heavy Repair",
+    "cargo": 240,
+    "maxCrew": 8,
+    "description": "A so-called “flying toolbox,” the Crucible is Anvil Aerospace's first dedicated repair ship. Featuring a rotating control bridge and a detachable pressurized workspace,  the Crucible is a versatile mobile garage equipped with repair arms, a drone operation center and all the equipment needed to overhaul a damaged craft back into fighting shape.",
+    "dimensions": {
+      "width": 50,
+      "length": 90,
+      "height": 20
+    },
+    "hp": null,
+    "hydrogenFuel": null,
+    "manufacturer": "ANVL",
+    "mass": null,
+    "name": "Crucible",
+    "qtFuel": null,
+    "role": "Heavy Repair",
+    "size": 4,
+    "prices": {
+      "pledge": 350,
+      "inGame": null
+    },
+    "conceptDate": "2015-11-18",
+    "state": "In Concept",
+    "flightCharacteristics": null,
+    "minCrew": 3,
+    "vehicleType": "Ship"
   },
   {
     "ref": "anvl_spartan",

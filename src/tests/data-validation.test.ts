@@ -73,6 +73,15 @@ describe('Ship Data Validation', () => {
           expect(ship.hydrogenFuel).toBe(null);
           expect(ship.qtFuel).toBe(null);
         }
+        if (ship.state === 'Flight Ready' && ship.vehicleType === 'Ship') {
+          expect(ship.flightCharacteristics?.maxSpeed).toBeGreaterThan(0);
+          expect(ship.flightCharacteristics?.scmSpeed).toBeGreaterThan(0);
+          expect(ship.flightCharacteristics?.rotation.pitch).toBeGreaterThan(0);
+          expect(ship.flightCharacteristics?.rotation.roll).toBeGreaterThan(0);
+          expect(ship.flightCharacteristics?.rotation.yaw).toBeGreaterThan(0);
+          expect(ship.hydrogenFuel).toBeGreaterThan(0);
+          expect(ship.qtFuel).toBeGreaterThan(0);
+        }
       });
     });
 
