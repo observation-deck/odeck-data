@@ -59,7 +59,8 @@
         "yaw": 48.5
       }
     },
-    "minCrew": 1
+    "minCrew": 1,
+    "vehicleType": "Ship"
   },
   {
     "ref": "aegs_avenger_titan",
@@ -121,7 +122,8 @@
         "yaw": 48.5
       }
     },
-    "minCrew": 1
+    "minCrew": 1,
+    "vehicleType": "Ship"
   },
   {
     "ref": "aegs_avenger_titan_renegade",
@@ -183,7 +185,8 @@
         "yaw": 48.5
       }
     },
-    "minCrew": 1
+    "minCrew": 1,
+    "vehicleType": "Ship"
   },
   {
     "ref": "aegs_avenger_warlock",
@@ -252,7 +255,8 @@
         "yaw": 48.5
       }
     },
-    "minCrew": 1
+    "minCrew": 1,
+    "vehicleType": "Ship"
   },
   {
     "ref": "aegs_eclipse",
@@ -309,7 +313,8 @@
         "yaw": 31
       }
     },
-    "minCrew": 1
+    "minCrew": 1,
+    "vehicleType": "Ship"
   },
   {
     "ref": "aegs_gladius",
@@ -376,7 +381,8 @@
         "yaw": 52
       }
     },
-    "minCrew": 1
+    "minCrew": 1,
+    "vehicleType": "Ship"
   },
   {
     "ref": "aegs_gladius_valiant",
@@ -438,7 +444,8 @@
         "yaw": 52
       }
     },
-    "minCrew": 1
+    "minCrew": 1,
+    "vehicleType": "Ship"
   },
   {
     "ref": "aegs_hammerhead",
@@ -488,7 +495,8 @@
         "roll": 30,
         "yaw": 18
       }
-    }
+    },
+    "vehicleType": "Ship"
   },
   {
     "ref": "aegs_idris_m",
@@ -545,7 +553,8 @@
         "roll": 12,
         "yaw": 7
       }
-    }
+    },
+    "vehicleType": "Ship"
   },
   {
     "ref": "aegs_idris_p",
@@ -602,7 +611,37 @@
         "roll": 12,
         "yaw": 7
       }
-    }
+    },
+    "vehicleType": "Ship"
+  },
+  {
+    "ref": "aegs_javelin",
+    "career": "Destroyer",
+    "cargo": 5400,
+    "minCrew": 12,
+    "maxCrew": 65,
+    "description": "Designed for use by the UEE military, the Javelin is a massive, modular capital ship that can be appropriated for entrepreneurial use. With a detailed interior, plenty of modular room options and a high crew capacity, the Javelin is a ship that has made a name for itself in a variety of roles.",
+    "dimensions": {
+      "width": 480,
+      "length": 198,
+      "height": 72
+    },
+    "hp": null,
+    "hydrogenFuel": null,
+    "manufacturer": "AEGS",
+    "mass": null,
+    "name": "Javelin",
+    "qtFuel": null,
+    "role": "Destroyer",
+    "size": 6,
+    "prices": {
+      "pledge": 3000,
+      "inGame": null
+    },
+    "conceptDate": "2014-11-27",
+    "state": "In Concept",
+    "flightCharacteristics": null,
+    "vehicleType": "Ground"
   },
   {
     "ref": "aegs_reclaimer",
@@ -659,7 +698,8 @@
         "roll": 14,
         "yaw": 11
       }
-    }
+    },
+    "vehicleType": "Ship"
   },
   {
     "ref": "aegs_redeemer",
@@ -716,7 +756,8 @@
         "roll": 115,
         "yaw": 30
       }
-    }
+    },
+    "vehicleType": "Ship"
   },
   {
     "ref": "aegs_retaliator",
@@ -759,7 +800,8 @@
         "roll": 55,
         "yaw": 23
       }
-    }
+    },
+    "vehicleType": "Ship"
   },
   {
     "ref": "aegs_sabre",
@@ -816,7 +858,8 @@
         "yaw": 48
       }
     },
-    "minCrew": 1
+    "minCrew": 1,
+    "vehicleType": "Ship"
   },
   {
     "ref": "aegs_sabre_comet",
@@ -873,7 +916,8 @@
         "yaw": 48
       }
     },
-    "minCrew": 1
+    "minCrew": 1,
+    "vehicleType": "Ship"
   },
   {
     "ref": "aegs_sabre_firebird",
@@ -930,7 +974,8 @@
         "yaw": 41
       }
     },
-    "minCrew": 1
+    "minCrew": 1,
+    "vehicleType": "Ship"
   },
   {
     "ref": "aegs_sabre_peregrine",
@@ -973,7 +1018,8 @@
         "yaw": 51
       }
     },
-    "minCrew": 1
+    "minCrew": 1,
+    "vehicleType": "Ship"
   },
   {
     "ref": "aegs_sabre_raven",
@@ -1030,7 +1076,8 @@
         "yaw": 7
       }
     },
-    "minCrew": 1
+    "minCrew": 1,
+    "vehicleType": "Ship"
   },
   {
     "ref": "aegs_vanguard_harbinger",
@@ -1102,7 +1149,8 @@
         "roll": 120,
         "yaw": 35
       }
-    }
+    },
+    "vehicleType": "Ship"
   },
   {
     "ref": "aegs_vanguard_hoplite",
@@ -1164,7 +1212,8 @@
         "roll": 105,
         "yaw": 30
       }
-    }
+    },
+    "vehicleType": "Ship"
   },
   {
     "ref": "aegs_vanguard_sentinel",
@@ -1238,7 +1287,8 @@
         "roll": 126,
         "yaw": 39
       }
-    }
+    },
+    "vehicleType": "Ship"
   },
   {
     "ref": "aegs_vanguard",
@@ -1305,7 +1355,44 @@
         "roll": 124,
         "yaw": 38
       }
-    }
+    },
+    "vehicleType": "Ship"
+  },
+  {
+    "ref": "aegs_vulcan",
+    "career": "Refuel & Repair",
+    "cargo": 12,
+    "minCrew": 1,
+    "maxCrew": 3,
+    "description": "Refuel. Repair. Rearm. Become a one-person support crew with Aegis Dynamics' versatile Vulcan, supplying aid to pilots on the fly. Whether pinned down under heavy fire and in need of ammunition, low on quantum fuel after an ill-planned jump, or stranded in unknown space with a busted thruster, a pilot in distress can always count on a Vulcan and its cadre of drones to lend speedy, efficient assistance. Outfit your Vulcan with eye-catching livery and become a beacon of hope, even in the darkest, most treacherous corners of the 'verse.",
+    "dimensions": {
+      "width": 16.5,
+      "length": 38.5,
+      "height": 10
+    },
+    "hp": null,
+    "hydrogenFuel": null,
+    "manufacturer": "AEGS",
+    "mass": null,
+    "name": "Vulcan",
+    "qtFuel": null,
+    "role": "Repair",
+    "size": 3,
+    "shields": [
+      {
+        "size": 2,
+        "type": "Shield",
+        "count": 1
+      }
+    ],
+    "prices": {
+      "pledge": 200,
+      "inGame": null
+    },
+    "conceptDate": "2018-02-21",
+    "state": "In Concept",
+    "flightCharacteristics": null,
+    "vehicleType": "Ground"
   },
   {
     "ref": "anvl_arrow",
@@ -1367,7 +1454,8 @@
         "yaw": 57
       }
     },
-    "minCrew": 1
+    "minCrew": 1,
+    "vehicleType": "Ship"
   },
   {
     "ref": "anvl_asgard",
@@ -1424,7 +1512,8 @@
         "yaw": 27.5
       }
     },
-    "minCrew": 1
+    "minCrew": 1,
+    "vehicleType": "Ship"
   },
   {
     "ref": "anvl_c8_pisces",
@@ -1481,7 +1570,8 @@
         "roll": 150,
         "yaw": 60
       }
-    }
+    },
+    "vehicleType": "Ship"
   },
   {
     "ref": "anvl_c8r_pisces",
@@ -1545,7 +1635,8 @@
         "yaw": 56
       }
     },
-    "minCrew": 1
+    "minCrew": 1,
+    "vehicleType": "Ship"
   },
   {
     "ref": "anvl_c8x_pisces_expedition",
@@ -1602,7 +1693,8 @@
         "roll": 150,
         "yaw": 60
       }
-    }
+    },
+    "vehicleType": "Ship"
   },
   {
     "ref": "anvl_carrack",
@@ -1645,7 +1737,8 @@
         "yaw": 16
       }
     },
-    "minCrew": 6
+    "minCrew": 6,
+    "vehicleType": "Ship"
   },
   {
     "ref": "anvl_hornet_f7a_mk1",
@@ -1717,7 +1810,8 @@
         "roll": 147
       }
     },
-    "minCrew": 1
+    "minCrew": 1,
+    "vehicleType": "Ship"
   },
   {
     "ref": "anvl_hornet_f7a_mk2",
@@ -1779,7 +1873,8 @@
         "yaw": 40
       }
     },
-    "minCrew": 1
+    "minCrew": 1,
+    "vehicleType": "Ship"
   },
   {
     "ref": "anvl_hornet_f7c",
@@ -1851,7 +1946,8 @@
         "yaw": 44
       }
     },
-    "minCrew": 1
+    "minCrew": 1,
+    "vehicleType": "Ship"
   },
   {
     "ref": "anvl_hornet_f7c_mk2",
@@ -1918,7 +2014,8 @@
         "yaw": 43
       }
     },
-    "minCrew": 1
+    "minCrew": 1,
+    "vehicleType": "Ship"
   },
   {
     "ref": "anvl_hornet_f7c_wildfire",
@@ -1990,7 +2087,8 @@
         "yaw": 44
       }
     },
-    "minCrew": 1
+    "minCrew": 1,
+    "vehicleType": "Ship"
   },
   {
     "ref": "anvl_hornet_f7cm_heartseeker",
@@ -2057,7 +2155,8 @@
         "roll": 145,
         "yaw": 42
       }
-    }
+    },
+    "vehicleType": "Ship"
   },
   {
     "ref": "anvl_hornet_f7cm",
@@ -2124,7 +2223,8 @@
         "roll": 145,
         "yaw": 42
       }
-    }
+    },
+    "vehicleType": "Ship"
   },
   {
     "ref": "anvl_hornet_f7cm_mk2",
@@ -2196,7 +2296,8 @@
         "roll": 140,
         "yaw": 40
       }
-    }
+    },
+    "vehicleType": "Ship"
   },
   {
     "ref": "anvl_hornet_f7cr",
@@ -2263,7 +2364,8 @@
         "yaw": 45
       }
     },
-    "minCrew": 1
+    "minCrew": 1,
+    "vehicleType": "Ship"
   },
   {
     "ref": "anvl_hornet_f7cr_mk2",
@@ -2325,7 +2427,8 @@
         "yaw": 43
       }
     },
-    "minCrew": 1
+    "minCrew": 1,
+    "vehicleType": "Ship"
   },
   {
     "ref": "anvl_hornet_f7cs",
@@ -2392,7 +2495,8 @@
         "yaw": 44
       }
     },
-    "minCrew": 1
+    "minCrew": 1,
+    "vehicleType": "Ship"
   },
   {
     "ref": "anvl_hornet_f7cs_mk2",
@@ -2454,7 +2558,8 @@
         "yaw": 42
       }
     },
-    "minCrew": 1
+    "minCrew": 1,
+    "vehicleType": "Ship"
   },
   {
     "ref": "anvl_lightning_f8c",
@@ -2526,7 +2631,44 @@
         "yaw": 35
       }
     },
-    "minCrew": 1
+    "minCrew": 1,
+    "vehicleType": "Ship"
+  },
+  {
+    "ref": "anvl_legionnaire",
+    "career": "Combat",
+    "cargo": 0,
+    "maxCrew": 2,
+    "description": "The Anvil Legionnaire presents the civilian market with a military style boarding vessel capable of occupying ships of varying sizes, crews, and capacities. High-performance jump seats safely transport a boarding party of up to ten into the action, while integrated systems let your copilot bypass security protocols on the target vessel, mitigating risk like never before.",
+    "dimensions": {
+      "width": 23,
+      "length": 32,
+      "height": 10
+    },
+    "hp": null,
+    "hydrogenFuel": null,
+    "manufacturer": "ANVL",
+    "mass": null,
+    "name": "Legionnaire",
+    "qtFuel": null,
+    "role": "Boarding",
+    "size": 2,
+    "shields": [
+      {
+        "size": 1,
+        "type": "Shield",
+        "count": 3
+      }
+    ],
+    "prices": {
+      "pledge": 120,
+      "inGame": null
+    },
+    "conceptDate": "2022-05-19",
+    "state": "In Concept",
+    "flightCharacteristics": null,
+    "minCrew": 1,
+    "vehicleType": "Ground"
   },
   {
     "ref": "anvl_gladiator",
@@ -2593,7 +2735,8 @@
         "roll": 130,
         "yaw": 40
       }
-    }
+    },
+    "vehicleType": "Ship"
   },
   {
     "ref": "anvl_hawk",
@@ -2655,7 +2798,8 @@
         "yaw": 52
       }
     },
-    "minCrew": 1
+    "minCrew": 1,
+    "vehicleType": "Ship"
   },
   {
     "ref": "anvl_hurricane",
@@ -2712,7 +2856,8 @@
         "yaw": 37
       }
     },
-    "minCrew": 1
+    "minCrew": 1,
+    "vehicleType": "Ship"
   },
   {
     "ref": "anvl_paladin",
@@ -2761,7 +2906,8 @@
     },
     "conceptDate": "2024-11-30",
     "state": "In Concept",
-    "flightCharacteristics": null
+    "flightCharacteristics": null,
+    "vehicleType": "Ground"
   },
   {
     "ref": "anvl_terrapin",
@@ -2811,7 +2957,8 @@
         "yaw": 35
       }
     },
-    "minCrew": 1
+    "minCrew": 1,
+    "vehicleType": "Ship"
   },
   {
     "ref": "anvl_terrapin_medic",
@@ -2868,7 +3015,8 @@
         "yaw": 35
       }
     },
-    "minCrew": 1
+    "minCrew": 1,
+    "vehicleType": "Ship"
   },
   {
     "ref": "anvl_valkyrie",
@@ -2918,7 +3066,8 @@
         "roll": 98,
         "yaw": 29
       }
-    }
+    },
+    "vehicleType": "Ship"
   },
   {
     "ref": "xian_scout",
@@ -2968,7 +3117,8 @@
         "yaw": 67
       }
     },
-    "minCrew": 1
+    "minCrew": 1,
+    "vehicleType": "Ship"
   },
   {
     "ref": "xian_nox",
@@ -3018,7 +3168,8 @@
         "yaw": 89
       }
     },
-    "minCrew": 1
+    "minCrew": 1,
+    "vehicleType": "Snub"
   },
   {
     "ref": "xnaa_santokyai",
@@ -3075,7 +3226,8 @@
         "yaw": 58
       }
     },
-    "minCrew": 1
+    "minCrew": 1,
+    "vehicleType": "Ship"
   },
   {
     "ref": "argo_mole",
@@ -3132,7 +3284,8 @@
         "roll": 75,
         "yaw": 30
       }
-    }
+    },
+    "vehicleType": "Ship"
   },
   {
     "ref": "argo_mpuv",
@@ -3175,7 +3328,8 @@
         "yaw": 30
       }
     },
-    "minCrew": 1
+    "minCrew": 1,
+    "vehicleType": "Snub"
   },
   {
     "ref": "argo_mpuv_transport",
@@ -3218,7 +3372,8 @@
         "yaw": 30
       }
     },
-    "minCrew": 1
+    "minCrew": 1,
+    "vehicleType": "Snub"
   },
   {
     "ref": "argo_mpuv_1t",
@@ -3273,7 +3428,8 @@
         "yaw": 35
       }
     },
-    "minCrew": 1
+    "minCrew": 1,
+    "vehicleType": "Snub"
   },
   {
     "ref": "argo_raft",
@@ -3330,7 +3486,8 @@
         "yaw": 40
       }
     },
-    "minCrew": 2
+    "minCrew": 2,
+    "vehicleType": "Ship"
   },
   {
     "ref": "argo_srv",
@@ -3380,7 +3537,8 @@
         "yaw": 30
       }
     },
-    "minCrew": 1
+    "minCrew": 1,
+    "vehicleType": "Ship"
   },
   {
     "ref": "banu_defender",
@@ -3437,7 +3595,8 @@
         "yaw": 61
       }
     },
-    "minCrew": 1
+    "minCrew": 1,
+    "vehicleType": "Ship"
   },
   {
     "ref": "cnou_hoverquad",
@@ -3480,7 +3639,8 @@
         "yaw": 70
       }
     },
-    "minCrew": 1
+    "minCrew": 1,
+    "vehicleType": "Snub"
   },
   {
     "ref": "cnou_mustang_alpha",
@@ -3535,7 +3695,8 @@
         "yaw": 53
       }
     },
-    "minCrew": 1
+    "minCrew": 1,
+    "vehicleType": "Ship"
   },
   {
     "ref": "cnou_mustang_beta",
@@ -3590,7 +3751,8 @@
         "yaw": 53
       }
     },
-    "minCrew": 1
+    "minCrew": 1,
+    "vehicleType": "Ship"
   },
   {
     "ref": "cnou_mustang_delta",
@@ -3645,7 +3807,8 @@
         "yaw": 52
       }
     },
-    "minCrew": 1
+    "minCrew": 1,
+    "vehicleType": "Ship"
   },
   {
     "ref": "cnou_mustang_gamma",
@@ -3695,7 +3858,8 @@
         "yaw": 65
       }
     },
-    "minCrew": 1
+    "minCrew": 1,
+    "vehicleType": "Ship"
   },
   {
     "ref": "cnou_mustang_omega",
@@ -3745,7 +3909,8 @@
         "yaw": 65
       }
     },
-    "minCrew": 1
+    "minCrew": 1,
+    "vehicleType": "Ship"
   },
   {
     "ref": "cnou_nomad",
@@ -3809,7 +3974,8 @@
         "yaw": 45
       }
     },
-    "minCrew": 1
+    "minCrew": 1,
+    "vehicleType": "Ship"
   },
   {
     "ref": "crus_spirit_a1",
@@ -3871,7 +4037,8 @@
         "yaw": 30
       }
     },
-    "minCrew": 2
+    "minCrew": 2,
+    "vehicleType": "Ship"
   },
   {
     "ref": "crus_starlifter_a2",
@@ -3928,7 +4095,8 @@
         "roll": 30,
         "yaw": 18
       }
-    }
+    },
+    "vehicleType": "Ship"
   },
   {
     "ref": "crus_starfighter_inferno",
@@ -3985,7 +4153,8 @@
         "yaw": 30
       }
     },
-    "minCrew": 1
+    "minCrew": 1,
+    "vehicleType": "Ship"
   },
   {
     "ref": "crus_starfighter_ion",
@@ -4042,7 +4211,8 @@
         "yaw": 30
       }
     },
-    "minCrew": 1
+    "minCrew": 1,
+    "vehicleType": "Ship"
   },
   {
     "ref": "crus_spirit_c1",
@@ -4106,7 +4276,8 @@
         "yaw": 30
       }
     },
-    "minCrew": 2
+    "minCrew": 2,
+    "vehicleType": "Ship"
   },
   {
     "ref": "crus_starlifter_c2",
@@ -4156,7 +4327,8 @@
         "yaw": 18
       }
     },
-    "minCrew": 2
+    "minCrew": 2,
+    "vehicleType": "Ship"
   },
   {
     "ref": "crus_intrepid",
@@ -4213,7 +4385,8 @@
         "yaw": 48
       }
     },
-    "minCrew": 1
+    "minCrew": 1,
+    "vehicleType": "Ship"
   },
   {
     "ref": "crus_starlifter_m2",
@@ -4263,7 +4436,8 @@
         "roll": 30,
         "yaw": 18
       }
-    }
+    },
+    "vehicleType": "Ship"
   },
   {
     "ref": "crus_star_runner",
@@ -4325,7 +4499,8 @@
         "roll": 53,
         "yaw": 23
       }
-    }
+    },
+    "vehicleType": "Ship"
   },
   {
     "ref": "drak_buccaneer",
@@ -4392,7 +4567,8 @@
         "yaw": 42
       }
     },
-    "minCrew": 1
+    "minCrew": 1,
+    "vehicleType": "Ship"
   },
   {
     "ref": "drak_caterpillar",
@@ -4449,7 +4625,8 @@
         "roll": 25,
         "yaw": 16
       }
-    }
+    },
+    "vehicleType": "Ship"
   },
   {
     "ref": "drak_corsair",
@@ -4511,7 +4688,8 @@
         "roll": 44,
         "yaw": 20
       }
-    }
+    },
+    "vehicleType": "Ship"
   },
   {
     "ref": "drak_cutlass_black",
@@ -4585,7 +4763,8 @@
         "roll": 110,
         "yaw": 35
       }
-    }
+    },
+    "vehicleType": "Ship"
   },
   {
     "ref": "drak_cutlass_blue",
@@ -4654,7 +4833,8 @@
         "roll": 110,
         "yaw": 34
       }
-    }
+    },
+    "vehicleType": "Ship"
   },
   {
     "ref": "drak_cutlass_red",
@@ -4716,7 +4896,8 @@
         "roll": 107,
         "yaw": 32
       }
-    }
+    },
+    "vehicleType": "Ship"
   },
   {
     "ref": "drak_cutlass_steel",
@@ -4783,7 +4964,8 @@
         "roll": 100,
         "yaw": 30
       }
-    }
+    },
+    "vehicleType": "Ship"
   },
   {
     "ref": "drak_cutter",
@@ -4840,7 +5022,8 @@
         "yaw": 36
       }
     },
-    "minCrew": 1
+    "minCrew": 1,
+    "vehicleType": "Ship"
   },
   {
     "ref": "drak_cutter_rambler",
@@ -4897,7 +5080,8 @@
         "yaw": 36
       }
     },
-    "minCrew": 1
+    "minCrew": 1,
+    "vehicleType": "Ship"
   },
   {
     "ref": "drak_cutter_scout",
@@ -4954,7 +5138,8 @@
         "yaw": 36
       }
     },
-    "minCrew": 1
+    "minCrew": 1,
+    "vehicleType": "Ship"
   },
   {
     "ref": "drak_dragonfly",
@@ -4997,7 +5182,8 @@
         "yaw": 70
       }
     },
-    "minCrew": 1
+    "minCrew": 1,
+    "vehicleType": "Snub"
   },
   {
     "ref": "drak_golem",
@@ -5061,7 +5247,8 @@
         "yaw": 43
       }
     },
-    "minCrew": 1
+    "minCrew": 1,
+    "vehicleType": "Ship"
   },
   {
     "ref": "drak_herald",
@@ -5123,7 +5310,8 @@
         "yaw": 40
       }
     },
-    "minCrew": 1
+    "minCrew": 1,
+    "vehicleType": "Ship"
   },
   {
     "ref": "drak_vulture",
@@ -5180,7 +5368,8 @@
         "yaw": 55
       }
     },
-    "minCrew": 1
+    "minCrew": 1,
+    "vehicleType": "Ship"
   },
   {
     "ref": "vncl_blade",
@@ -5242,7 +5431,8 @@
         "yaw": 52
       }
     },
-    "minCrew": 1
+    "minCrew": 1,
+    "vehicleType": "Ship"
   },
   {
     "ref": "vncl_glaive",
@@ -5304,7 +5494,8 @@
         "yaw": 43
       }
     },
-    "minCrew": 1
+    "minCrew": 1,
+    "vehicleType": "Ship"
   },
   {
     "ref": "espr_prowler",
@@ -5354,7 +5545,8 @@
         "yaw": 32
       }
     },
-    "minCrew": 1
+    "minCrew": 1,
+    "vehicleType": "Ship"
   },
   {
     "ref": "espr_prowler_utility",
@@ -5411,7 +5603,8 @@
         "roll": 100,
         "yaw": 30
       }
-    }
+    },
+    "vehicleType": "Ship"
   },
   {
     "ref": "espr_talon",
@@ -5468,7 +5661,8 @@
         "yaw": 54
       }
     },
-    "minCrew": 1
+    "minCrew": 1,
+    "vehicleType": "Ship"
   },
   {
     "ref": "espr_talon_shrike",
@@ -5525,7 +5719,8 @@
         "yaw": 54
       }
     },
-    "minCrew": 1
+    "minCrew": 1,
+    "vehicleType": "Ship"
   },
   {
     "ref": "gama_syulen",
@@ -5582,7 +5777,8 @@
         "yaw": 42
       }
     },
-    "minCrew": 1
+    "minCrew": 1,
+    "vehicleType": "Ship"
   },
   {
     "ref": "krig_l21_wolf",
@@ -5639,7 +5835,8 @@
         "yaw": 52
       }
     },
-    "minCrew": 1
+    "minCrew": 1,
+    "vehicleType": "Ship"
   },
   {
     "ref": "krig_p52_merlin",
@@ -5694,7 +5891,8 @@
         "yaw": 55
       }
     },
-    "minCrew": 1
+    "minCrew": 1,
+    "vehicleType": "Snub"
   },
   {
     "ref": "krig_p72_archimedes",
@@ -5744,7 +5942,8 @@
         "yaw": 50
       }
     },
-    "minCrew": 1
+    "minCrew": 1,
+    "vehicleType": "Snub"
   },
   {
     "ref": "misc_fury",
@@ -5801,7 +6000,8 @@
         "yaw": 65
       }
     },
-    "minCrew": 1
+    "minCrew": 1,
+    "vehicleType": "Snub"
   },
   {
     "ref": "misc_fury_lx",
@@ -5844,7 +6044,8 @@
         "yaw": 71.5
       }
     },
-    "minCrew": 1
+    "minCrew": 1,
+    "vehicleType": "Snub"
   },
   {
     "ref": "misc_fury_miru",
@@ -5899,7 +6100,8 @@
         "yaw": 65
       }
     },
-    "minCrew": 1
+    "minCrew": 1,
+    "vehicleType": "Snub"
   },
   {
     "ref": "mrai_guardian",
@@ -5956,7 +6158,8 @@
         "yaw": 45
       }
     },
-    "minCrew": 1
+    "minCrew": 1,
+    "vehicleType": "Ship"
   },
   {
     "ref": "mrai_guardian_mx",
@@ -6013,7 +6216,8 @@
         "yaw": 39
       }
     },
-    "minCrew": 1
+    "minCrew": 1,
+    "vehicleType": "Ship"
   },
   {
     "ref": "mrai_guardian_qi",
@@ -6077,7 +6281,8 @@
         "yaw": 42
       }
     },
-    "minCrew": 1
+    "minCrew": 1,
+    "vehicleType": "Ship"
   },
   {
     "ref": "mrai_pulse",
@@ -6120,7 +6325,8 @@
         "yaw": 84
       }
     },
-    "minCrew": 1
+    "minCrew": 1,
+    "vehicleType": "Snub"
   },
   {
     "ref": "mrai_pulse_lx",
@@ -6156,7 +6362,8 @@
         "yaw": 97
       }
     },
-    "minCrew": 1
+    "minCrew": 1,
+    "vehicleType": "Snub"
   },
   {
     "ref": "misc_razor",
@@ -6213,7 +6420,8 @@
         "yaw": 55
       }
     },
-    "minCrew": 1
+    "minCrew": 1,
+    "vehicleType": "Ship"
   },
   {
     "ref": "misc_razor_ex",
@@ -6270,7 +6478,8 @@
         "yaw": 55
       }
     },
-    "minCrew": 1
+    "minCrew": 1,
+    "vehicleType": "Ship"
   },
   {
     "ref": "misc_razor_lx",
@@ -6320,7 +6529,8 @@
         "yaw": 55
       }
     },
-    "minCrew": 1
+    "minCrew": 1,
+    "vehicleType": "Ship"
   },
   {
     "ref": "misc_fortune",
@@ -6377,7 +6587,8 @@
         "yaw": 32
       }
     },
-    "minCrew": 1
+    "minCrew": 1,
+    "vehicleType": "Ship"
   },
   {
     "ref": "misc_freelancer",
@@ -6439,7 +6650,8 @@
         "roll": 103,
         "yaw": 30
       }
-    }
+    },
+    "vehicleType": "Ship"
   },
   {
     "ref": "misc_freelancer_dur",
@@ -6501,7 +6713,8 @@
         "roll": 103,
         "yaw": 30
       }
-    }
+    },
+    "vehicleType": "Ship"
   },
   {
     "ref": "misc_freelancer_max",
@@ -6563,7 +6776,8 @@
         "roll": 95,
         "yaw": 28
       }
-    }
+    },
+    "vehicleType": "Ship"
   },
   {
     "ref": "misc_freelancer_mis",
@@ -6625,7 +6839,8 @@
         "roll": 107,
         "yaw": 31
       }
-    }
+    },
+    "vehicleType": "Ship"
   },
   {
     "ref": "misc_hull_a",
@@ -6675,7 +6890,8 @@
         "yaw": 35
       }
     },
-    "minCrew": 1
+    "minCrew": 1,
+    "vehicleType": "Ship"
   },
   {
     "ref": "misc_hull_c",
@@ -6732,7 +6948,8 @@
         "roll": 25,
         "yaw": 16
       }
-    }
+    },
+    "vehicleType": "Ship"
   },
   {
     "ref": "misc_prospector",
@@ -6789,7 +7006,8 @@
         "yaw": 35
       }
     },
-    "minCrew": 1
+    "minCrew": 1,
+    "vehicleType": "Ship"
   },
   {
     "ref": "misc_reliant",
@@ -6853,7 +7071,8 @@
         "roll": 140,
         "yaw": 43
       }
-    }
+    },
+    "vehicleType": "Ship"
   },
   {
     "ref": "misc_reliant_mako",
@@ -6910,7 +7129,8 @@
         "roll": 138,
         "yaw": 43
       }
-    }
+    },
+    "vehicleType": "Ship"
   },
   {
     "ref": "misc_reliant_sen",
@@ -6967,7 +7187,8 @@
         "roll": 138,
         "yaw": 43
       }
-    }
+    },
+    "vehicleType": "Ship"
   },
   {
     "ref": "misc_reliant_tana",
@@ -7029,7 +7250,8 @@
         "roll": 155,
         "yaw": 45
       }
-    }
+    },
+    "vehicleType": "Ship"
   },
   {
     "ref": "misc_starfarer",
@@ -7079,7 +7301,8 @@
         "roll": 45,
         "yaw": 23
       }
-    }
+    },
+    "vehicleType": "Ship"
   },
   {
     "ref": "misc_starfarer_gemini",
@@ -7136,7 +7359,8 @@
         "roll": 45,
         "yaw": 23
       }
-    }
+    },
+    "vehicleType": "Ship"
   },
   {
     "ref": "misc_starlancer_max",
@@ -7193,7 +7417,8 @@
         "roll": 65,
         "yaw": 31
       }
-    }
+    },
+    "vehicleType": "Ship"
   },
   {
     "ref": "misc_starlancer_tac",
@@ -7250,7 +7475,8 @@
         "yaw": 27
       }
     },
-    "minCrew": 1
+    "minCrew": 1,
+    "vehicleType": "Ship"
   },
   {
     "ref": "orig_100i",
@@ -7307,7 +7533,8 @@
         "yaw": 50
       }
     },
-    "minCrew": 1
+    "minCrew": 1,
+    "vehicleType": "Ship"
   },
   {
     "ref": "orig_125a",
@@ -7364,7 +7591,8 @@
         "yaw": 52
       }
     },
-    "minCrew": 1
+    "minCrew": 1,
+    "vehicleType": "Ship"
   },
   {
     "ref": "orig_135c",
@@ -7421,7 +7649,8 @@
         "yaw": 53
       }
     },
-    "minCrew": 1
+    "minCrew": 1,
+    "vehicleType": "Ship"
   },
   {
     "ref": "orig_300i",
@@ -7478,7 +7707,8 @@
         "yaw": 48
       }
     },
-    "minCrew": 1
+    "minCrew": 1,
+    "vehicleType": "Ship"
   },
   {
     "ref": "orig_315p",
@@ -7535,7 +7765,8 @@
         "yaw": 48
       }
     },
-    "minCrew": 1
+    "minCrew": 1,
+    "vehicleType": "Ship"
   },
   {
     "ref": "orig_325a",
@@ -7602,7 +7833,8 @@
         "yaw": 48
       }
     },
-    "minCrew": 1
+    "minCrew": 1,
+    "vehicleType": "Ship"
   },
   {
     "ref": "orig_350r",
@@ -7659,7 +7891,8 @@
         "yaw": 48
       }
     },
-    "minCrew": 1
+    "minCrew": 1,
+    "vehicleType": "Ship"
   },
   {
     "ref": "orig_400i",
@@ -7721,7 +7954,8 @@
         "roll": 70,
         "yaw": 35
       }
-    }
+    },
+    "vehicleType": "Ship"
   },
   {
     "ref": "orig_600i",
@@ -7778,7 +8012,8 @@
         "pitch": 19,
         "yaw": 19
       }
-    }
+    },
+    "vehicleType": "Ship"
   },
   {
     "ref": "orig_600i_touring",
@@ -7835,7 +8070,8 @@
         "roll": 30,
         "yaw": 19
       }
-    }
+    },
+    "vehicleType": "Ship"
   },
   {
     "ref": "orig_85x",
@@ -7885,7 +8121,8 @@
         "yaw": 65
       }
     },
-    "minCrew": 1
+    "minCrew": 1,
+    "vehicleType": "Ship"
   },
   {
     "ref": "orig_890jump",
@@ -7935,7 +8172,8 @@
         "roll": 15,
         "yaw": 10
       }
-    }
+    },
+    "vehicleType": "Ship"
   },
   {
     "ref": "orig_m50",
@@ -7992,7 +8230,8 @@
         "yaw": 55
       }
     },
-    "minCrew": 1
+    "minCrew": 1,
+    "vehicleType": "Ship"
   },
   {
     "ref": "orig_x1",
@@ -8035,7 +8274,8 @@
         "yaw": 80
       }
     },
-    "minCrew": 1
+    "minCrew": 1,
+    "vehicleType": "Snub"
   },
   {
     "ref": "orig_x1_force",
@@ -8085,7 +8325,8 @@
         "yaw": 80
       }
     },
-    "minCrew": 1
+    "minCrew": 1,
+    "vehicleType": "Snub"
   },
   {
     "ref": "orig_x1_velocity",
@@ -8121,7 +8362,8 @@
         "yaw": 93
       }
     },
-    "minCrew": 1
+    "minCrew": 1,
+    "vehicleType": "Snub"
   },
   {
     "ref": "rsi_apollo_medivac",
@@ -8185,7 +8427,8 @@
         "yaw": 20,
         "roll": 65
       }
-    }
+    },
+    "vehicleType": "Ship"
   },
   {
     "ref": "rsi_apollo_triage",
@@ -8249,7 +8492,8 @@
         "yaw": 24,
         "roll": 65
       }
-    }
+    },
+    "vehicleType": "Ship"
   },
   {
     "ref": "rsi_aurora_cl",
@@ -8306,7 +8550,8 @@
         "yaw": 53
       }
     },
-    "minCrew": 1
+    "minCrew": 1,
+    "vehicleType": "Ship"
   },
   {
     "ref": "rsi_aurora_es",
@@ -8363,7 +8608,8 @@
         "yaw": 57
       }
     },
-    "minCrew": 1
+    "minCrew": 1,
+    "vehicleType": "Ship"
   },
   {
     "ref": "rsi_aurora_ln",
@@ -8420,7 +8666,8 @@
         "yaw": 59
       }
     },
-    "minCrew": 1
+    "minCrew": 1,
+    "vehicleType": "Ship"
   },
   {
     "ref": "rsi_aurora_lx",
@@ -8477,7 +8724,8 @@
         "yaw": 53
       }
     },
-    "minCrew": 1
+    "minCrew": 1,
+    "vehicleType": "Ship"
   },
   {
     "ref": "rsi_aurora_mr",
@@ -8534,7 +8782,8 @@
         "yaw": 51
       }
     },
-    "minCrew": 1
+    "minCrew": 1,
+    "vehicleType": "Ship"
   },
   {
     "ref": "rsi_constellation_andromeda",
@@ -8596,7 +8845,8 @@
         "roll": 45,
         "yaw": 21
       }
-    }
+    },
+    "vehicleType": "Ship"
   },
   {
     "ref": "rsi_constellation_aquila",
@@ -8653,7 +8903,8 @@
         "roll": 45,
         "yaw": 21
       }
-    }
+    },
+    "vehicleType": "Ship"
   },
   {
     "ref": "rsi_constellation_phoenix",
@@ -8710,7 +8961,8 @@
         "roll": 45,
         "yaw": 21
       }
-    }
+    },
+    "vehicleType": "Ship"
   },
   {
     "ref": "rsi_constellation_taurus",
@@ -8774,7 +9026,44 @@
         "roll": 45,
         "yaw": 21
       }
-    }
+    },
+    "vehicleType": "Ship"
+  },
+  {
+    "ref": "rsi_galaxy",
+    "career": "Modular",
+    "cargo": 64,
+    "maxCrew": 6,
+    "description": "Featuring a fully modular design and an onboard hangar capable of deploying small ships, the cutting-edge Galaxy has versatility built into its DNA with a highly configurable main deck that can be outfitted with comprehensive facilities to support cargo, medical, or refining operations.",
+    "dimensions": {
+      "width": 60,
+      "length": 110,
+      "height": 22
+    },
+    "hp": null,
+    "hydrogenFuel": null,
+    "manufacturer": "RSI",
+    "mass": null,
+    "name": "Galaxy",
+    "qtFuel": null,
+    "role": "Modular",
+    "size": 4,
+    "shields": [
+      {
+        "size": 3,
+        "count": 1,
+        "type": "Shield"
+      }
+    ],
+    "prices": {
+      "pledge": 380,
+      "inGame": null
+    },
+    "conceptDate": "2022-11-24",
+    "state": "In Concept",
+    "minCrew": 1,
+    "flightCharacteristics": null,
+    "vehicleType": "Ground"
   },
   {
     "ref": "rsi_mantis",
@@ -8838,7 +9127,8 @@
         "yaw": 42
       }
     },
-    "minCrew": 1
+    "minCrew": 1,
+    "vehicleType": "Ship"
   },
   {
     "ref": "rsi_meteor",
@@ -8905,7 +9195,37 @@
         "yaw": 38
       }
     },
-    "minCrew": 1
+    "minCrew": 1,
+    "vehicleType": "Ship"
+  },
+  {
+    "ref": "rsi_orion",
+    "career": "Heavy Mining",
+    "cargo": 384,
+    "maxCrew": 7,
+    "description": "Roberts Space Industries’ goal has always been to make the stars available to individual Citizens. Now, with the RSI Orion mining platform, RSI is letting individuals take over a process formerly controlled by mega-corporations. The Orion’s features include high-grade turret-mounted tractor beam arrays, plenty of mineral storage and a cabin designed by the team that brought you the Aurora and Constellation! The listed Cargo Capacity is only for the dedicated Cargo Room and does not account for the mined material capacity in the storage pods which will be detailed later.",
+    "dimensions": {
+      "width": 50,
+      "length": 170,
+      "height": 50
+    },
+    "hp": null,
+    "hydrogenFuel": null,
+    "manufacturer": "RSI",
+    "mass": null,
+    "name": "Orion",
+    "qtFuel": null,
+    "role": "Heavy Mining",
+    "size": 6,
+    "prices": {
+      "pledge": 650,
+      "inGame": null
+    },
+    "conceptDate": "2015-02-20",
+    "state": "In Concept",
+    "flightCharacteristics": null,
+    "minCrew": 4,
+    "vehicleType": "Ground"
   },
   {
     "ref": "rsi_perseus",
@@ -8922,7 +9242,7 @@
     "hp": null,
     "hydrogenFuel": null,
     "manufacturer": "RSI",
-    "mass":  null,
+    "mass": null,
     "name": "Perseus",
     "qtFuel": null,
     "role": "Heavy Gunship",
@@ -8940,7 +9260,8 @@
     },
     "conceptDate": "2020-11-28",
     "state": "In Concept",
-    "flightCharacteristics": null
+    "flightCharacteristics": null,
+    "vehicleType": "Ground"
   },
   {
     "ref": "rsi_polaris",
@@ -8990,7 +9311,8 @@
         "yaw": 8,
         "roll": 14
       }
-    }
+    },
+    "vehicleType": "Ship"
   },
   {
     "ref": "rsi_scorpius",
@@ -9047,7 +9369,8 @@
         "yaw": 34
       }
     },
-    "minCrew": 2
+    "minCrew": 2,
+    "vehicleType": "Ship"
   },
   {
     "ref": "rsi_scorpius_antares",
@@ -9116,7 +9439,8 @@
         "yaw": 34
       }
     },
-    "minCrew": 2
+    "minCrew": 2,
+    "vehicleType": "Ship"
   },
   {
     "ref": "rsi_zeus_cl",
@@ -9180,7 +9504,8 @@
         "roll": 105,
         "yaw": 30
       }
-    }
+    },
+    "vehicleType": "Ship"
   },
   {
     "ref": "rsi_zeus_es",
@@ -9237,7 +9562,8 @@
         "roll": 110,
         "yaw": 32.5
       }
-    }
+    },
+    "vehicleType": "Ship"
   },
   {
     "ref": "vncl_scythe",
@@ -9299,7 +9625,8 @@
         "yaw": 52
       }
     },
-    "minCrew": 1
+    "minCrew": 1,
+    "vehicleType": "Ship"
   },
   {
     "ref": "anvl_ballista",
@@ -9341,7 +9668,8 @@
     "conceptDate": "2017-07-20",
     "state": "Flight Ready",
     "flightCharacteristics": null,
-    "minCrew": 2
+    "minCrew": 2,
+    "vehicleType": "Ground"
   },
   {
     "ref": "anvl_centurion",
@@ -9383,7 +9711,8 @@
     "conceptDate": "2022-07-28",
     "state": "Flight Ready",
     "flightCharacteristics": null,
-    "minCrew": 2
+    "minCrew": 2,
+    "vehicleType": "Ground"
   },
   {
     "ref": "anvl_spartan",
@@ -9425,7 +9754,8 @@
     "conceptDate": "2021-11-18",
     "state": "Flight Ready",
     "flightCharacteristics": null,
-    "minCrew": 1
+    "minCrew": 1,
+    "vehicleType": "Ground"
   },
   {
     "ref": "argo_csv_cargo",
@@ -9460,7 +9790,8 @@
     "conceptDate": "2024-10-20",
     "state": "Flight Ready",
     "flightCharacteristics": null,
-    "minCrew": 1
+    "minCrew": 1,
+    "vehicleType": "Ground"
   },
   {
     "ref": "drak_mule",
@@ -9488,7 +9819,8 @@
     "conceptDate": "2022-05-26",
     "state": "Flight Ready",
     "flightCharacteristics": null,
-    "minCrew": 1
+    "minCrew": 1,
+    "vehicleType": "Ground"
   },
   {
     "ref": "grin_mtc",
@@ -9530,7 +9862,8 @@
     "conceptDate": "2025-05-08",
     "state": "Flight Ready",
     "flightCharacteristics": null,
-    "minCrew": 1
+    "minCrew": 1,
+    "vehicleType": "Snub"
   },
   {
     "ref": "grin_ptv",
@@ -9558,7 +9891,8 @@
     "conceptDate": "2021-11-18",
     "state": "Flight Ready",
     "flightCharacteristics": null,
-    "minCrew": 1
+    "minCrew": 1,
+    "vehicleType": "Snub"
   },
   {
     "ref": "grin_roc",
@@ -9593,7 +9927,8 @@
     "conceptDate": "2020-08-06",
     "state": "Flight Ready",
     "flightCharacteristics": null,
-    "minCrew": 1
+    "minCrew": 1,
+    "vehicleType": "Ground"
   },
   {
     "ref": "grin_roc_ds",
@@ -9628,7 +9963,8 @@
     "conceptDate": "2021-04-22",
     "state": "Flight Ready",
     "flightCharacteristics": null,
-    "minCrew": 2
+    "minCrew": 2,
+    "vehicleType": "Ground"
   },
   {
     "ref": "grin_stv",
@@ -9656,7 +9992,8 @@
     "conceptDate": "2022-10-08",
     "state": "Flight Ready",
     "flightCharacteristics": null,
-    "minCrew": 2
+    "minCrew": 2,
+    "vehicleType": "Ground"
   },
   {
     "ref": "rsi_lynx",
@@ -9698,7 +10035,8 @@
     "conceptDate": "2023-05-25",
     "state": "Flight Ready",
     "flightCharacteristics": null,
-    "minCrew": 2
+    "minCrew": 2,
+    "vehicleType": "Ground"
   },
   {
     "ref": "rsi_ursa_rover",
@@ -9740,7 +10078,8 @@
     },
     "conceptDate": "2017-12-23",
     "state": "Flight Ready",
-    "flightCharacteristics": null
+    "flightCharacteristics": null,
+    "vehicleType": "Ground"
   },
   {
     "ref": "rsi_ursa_medivac",
@@ -9789,7 +10128,8 @@
     },
     "conceptDate": "2024-05-10",
     "state": "Flight Ready",
-    "flightCharacteristics": null
+    "flightCharacteristics": null,
+    "vehicleType": "Ground"
   },
   {
     "ref": "tmbl_cyclone",
@@ -9824,7 +10164,8 @@
     },
     "conceptDate": "2017-07-14",
     "state": "Flight Ready",
-    "flightCharacteristics": null
+    "flightCharacteristics": null,
+    "vehicleType": "Ground"
   },
   {
     "ref": "tmbl_cyclone_aa",
@@ -9873,7 +10214,8 @@
     },
     "conceptDate": "2017-07-21",
     "state": "Flight Ready",
-    "flightCharacteristics": null
+    "flightCharacteristics": null,
+    "vehicleType": "Ground"
   },
   {
     "ref": "tmbl_cyclone_mt",
@@ -9908,7 +10250,8 @@
     },
     "conceptDate": "2021-04-22",
     "state": "Flight Ready",
-    "flightCharacteristics": null
+    "flightCharacteristics": null,
+    "vehicleType": "Ground"
   },
   {
     "ref": "tmbl_cyclone_rc",
@@ -9943,7 +10286,8 @@
     "conceptDate": "2017-07-21",
     "state": "Flight Ready",
     "flightCharacteristics": null,
-    "minCrew": 1
+    "minCrew": 1,
+    "vehicleType": "Ground"
   },
   {
     "ref": "tmbl_cyclone_rn",
@@ -9978,7 +10322,8 @@
     "conceptDate": "2017-07-21",
     "state": "Flight Ready",
     "flightCharacteristics": null,
-    "minCrew": 1
+    "minCrew": 1,
+    "vehicleType": "Ground"
   },
   {
     "ref": "tmbl_cyclone_tr",
@@ -10013,7 +10358,8 @@
     },
     "conceptDate": "2017-07-21",
     "state": "Flight Ready",
-    "flightCharacteristics": null
+    "flightCharacteristics": null,
+    "vehicleType": "Ground"
   },
   {
     "ref": "tmbl_nova",
@@ -10062,7 +10408,8 @@
     },
     "conceptDate": "2017-12-22",
     "state": "Flight Ready",
-    "flightCharacteristics": null
+    "flightCharacteristics": null,
+    "vehicleType": "Ground"
   },
   {
     "ref": "tmbl_storm",
@@ -10104,7 +10451,8 @@
     "conceptDate": "2023-05-25",
     "state": "Flight Ready",
     "flightCharacteristics": null,
-    "minCrew": 1
+    "minCrew": 1,
+    "vehicleType": "Snub"
   },
   {
     "ref": "tmbl_storm_aa",
@@ -10158,6 +10506,7 @@
     "conceptDate": "2023-11-16",
     "state": "Flight Ready",
     "flightCharacteristics": null,
-    "minCrew": 1
+    "minCrew": 1,
+    "vehicleType": "Snub"
   }
 ]

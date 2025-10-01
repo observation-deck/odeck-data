@@ -63,6 +63,30 @@ describe('Ship Data Validation', () => {
         }
       });
     });
+
+    test('concept ships should be missing specific data', () => {
+      ships.forEach((ship, index) => {
+        if (ship.state === 'In Concept') {
+          expect(ship.flightCharacteristics).toBe(null);
+          expect(ship.hp).toBe(null);
+          expect(ship.mass).toBe(null);
+          expect(ship.hydrogenFuel).toBe(null);
+          expect(ship.qtFuel).toBe(null);
+        }
+      });
+    });
+
+    test('ground/snub ships should be missing specific data', () => {
+      ships.forEach((ship, index) => {
+        if (ship.vehicleType === 'Ground') {
+          expect(ship.flightCharacteristics).toBe(null);
+          expect(ship.qtFuel).toBe(null);
+        }
+        if (ship.vehicleType === 'Snub') {
+          expect(ship.qtFuel).toBe(null);
+        }
+      });
+    });
   });
 
   describe('Manufacturer Validation', () => {
