@@ -605,6 +605,34 @@
     }
   },
   {
+    "ref": "aegs_javelin",
+    "career": "Destroyer",
+    "cargo": 5400,
+    "minCrew": 12,
+    "maxCrew": 65,
+    "description": "Designed for use by the UEE military, the Javelin is a massive, modular capital ship that can be appropriated for entrepreneurial use. With a detailed interior, plenty of modular room options and a high crew capacity, the Javelin is a ship that has made a name for itself in a variety of roles.",
+    "dimensions": {
+      "width": 480,
+      "length": 198,
+      "height": 72
+    },
+    "hp": null,
+    "hydrogenFuel": null,
+    "manufacturer": "AEGS",
+    "mass": null,
+    "name": "Javelin",
+    "qtFuel": null,
+    "role": "Destroyer",
+    "size": 6,
+    "prices": {
+      "pledge": 3000,
+      "inGame": null
+    },
+    "conceptDate": "2014-11-27",
+    "state": "In Concept",
+    "flightCharacteristics": null
+  },
+  {
     "ref": "aegs_reclaimer",
     "career": "Industrial",
     "cargo": 420,
