@@ -318,7 +318,7 @@
   },
   {
     "ref": "aegs_gladius",
-    "career": "Combat",
+    "career": "Cogit push --set-upstream origin add-ground-snub-datambat",
     "cargo": 0,
     "maxCrew": 1,
     "description": "The Gladius is an older design which has been updated over the years to keep up with modern technology. In military circles, the Gladius is beloved for its performance and its simplicity. A fast, light fighter with a laser-focus on dogfighting, the Gladius is an ideal interceptor or escort ship.",
@@ -641,35 +641,7 @@
     "conceptDate": "2014-11-27",
     "state": "In Concept",
     "flightCharacteristics": null,
-    "vehicleType": "Ground"
-  },
-  {
-    "ref": "aegs_javelin",
-    "career": "Destroyer",
-    "cargo": 5400,
-    "minCrew": 12,
-    "maxCrew": 65,
-    "description": "Designed for use by the UEE military, the Javelin is a massive, modular capital ship that can be appropriated for entrepreneurial use. With a detailed interior, plenty of modular room options and a high crew capacity, the Javelin is a ship that has made a name for itself in a variety of roles.",
-    "dimensions": {
-      "width": 480,
-      "length": 198,
-      "height": 72
-    },
-    "hp": null,
-    "hydrogenFuel": null,
-    "manufacturer": "AEGS",
-    "mass": null,
-    "name": "Javelin",
-    "qtFuel": null,
-    "role": "Destroyer",
-    "size": 6,
-    "prices": {
-      "pledge": 3000,
-      "inGame": null
-    },
-    "conceptDate": "2014-11-27",
-    "state": "In Concept",
-    "flightCharacteristics": null
+    "vehicleType": "Ship"
   },
   {
     "ref": "aegs_reclaimer",
@@ -1420,42 +1392,7 @@
     "conceptDate": "2018-02-21",
     "state": "In Concept",
     "flightCharacteristics": null,
-    "vehicleType": "Ground"
-  },
-  {
-    "ref": "aegs_vulcan",
-    "career": "Refuel & Repair",
-    "cargo": 12,
-    "minCrew": 1,
-    "maxCrew": 3,
-    "description": "Refuel. Repair. Rearm. Become a one-person support crew with Aegis Dynamics' versatile Vulcan, supplying aid to pilots on the fly. Whether pinned down under heavy fire and in need of ammunition, low on quantum fuel after an ill-planned jump, or stranded in unknown space with a busted thruster, a pilot in distress can always count on a Vulcan and its cadre of drones to lend speedy, efficient assistance. Outfit your Vulcan with eye-catching livery and become a beacon of hope, even in the darkest, most treacherous corners of the 'verse.",
-    "dimensions": {
-      "width": 16.5,
-      "length": 38.5,
-      "height": 10
-    },
-    "hp": null,
-    "hydrogenFuel": null,
-    "manufacturer": "AEGS",
-    "mass": null,
-    "name": "Vulcan",
-    "qtFuel": null,
-    "role": "Repair",
-    "size": 3,
-    "shields": [
-      {
-        "size": 2,
-        "type": "Shield",
-        "count": 1
-      }
-    ],
-    "prices": {
-      "pledge": 200,
-      "inGame": null
-    },
-    "conceptDate": "2018-02-21",
-    "state": "In Concept",
-    "flightCharacteristics": null
+    "vehicleType": "Ship"
   },
   {
     "ref": "anvl_arrow",
@@ -2731,42 +2668,7 @@
     "state": "In Concept",
     "flightCharacteristics": null,
     "minCrew": 1,
-    "vehicleType": "Ground"
-  },
-  {
-    "ref": "anvl_legionnaire",
-    "career": "Combat",
-    "cargo": 0,
-    "maxCrew": 2,
-    "description": "The Anvil Legionnaire presents the civilian market with a military style boarding vessel capable of occupying ships of varying sizes, crews, and capacities. High-performance jump seats safely transport a boarding party of up to ten into the action, while integrated systems let your copilot bypass security protocols on the target vessel, mitigating risk like never before.",
-    "dimensions": {
-      "width": 23,
-      "length": 32,
-      "height": 10
-    },
-    "hp": null,
-    "hydrogenFuel": null,
-    "manufacturer": "ANVL",
-    "mass": null,
-    "name": "Legionnaire",
-    "qtFuel": null,
-    "role": "Boarding",
-    "size": 2,
-    "shields": [
-      {
-        "size": 1,
-        "type": "Shield",
-        "count": 3
-      }
-    ],
-    "prices": {
-      "pledge": 120,
-      "inGame": null
-    },
-    "conceptDate": "2022-05-19",
-    "state": "In Concept",
-    "flightCharacteristics": null,
-    "minCrew": 1
+    "vehicleType": "Ship"
   },
   {
     "ref": "anvl_gladiator",
@@ -3005,7 +2907,7 @@
     "conceptDate": "2024-11-30",
     "state": "In Concept",
     "flightCharacteristics": null,
-    "vehicleType": "Ground"
+    "vehicleType": "Ship"
   },
   {
     "ref": "anvl_terrapin",
@@ -9161,42 +9063,7 @@
     "state": "In Concept",
     "minCrew": 1,
     "flightCharacteristics": null,
-    "vehicleType": "Ground"
-  },
-  {
-    "ref": "rsi_galaxy",
-    "career": "Modular",
-    "cargo": 64,
-    "maxCrew": 6,
-    "description": "Featuring a fully modular design and an onboard hangar capable of deploying small ships, the cutting-edge Galaxy has versatility built into its DNA with a highly configurable main deck that can be outfitted with comprehensive facilities to support cargo, medical, or refining operations.",
-    "dimensions": {
-      "width": 60,
-      "length": 110,
-      "height": 22
-    },
-    "hp": null,
-    "hydrogenFuel": null,
-    "manufacturer": "RSI",
-    "mass": null,
-    "name": "Galaxy",
-    "qtFuel": null,
-    "role": "Modular",
-    "size": 4,
-    "shields": [
-      {
-        "size": 3,
-        "count": 1,
-        "type": "Shield"
-      }
-    ],
-    "prices": {
-      "pledge": 380,
-      "inGame": null
-    },
-    "conceptDate": "2022-11-24",
-    "state": "In Concept",
-    "minCrew": 1,
-    "flightCharacteristics": null
+    "vehicleType": "Ship"
   },
   {
     "ref": "rsi_mantis",
@@ -9358,35 +9225,7 @@
     "state": "In Concept",
     "flightCharacteristics": null,
     "minCrew": 4,
-    "vehicleType": "Ground"
-  },
-  {
-    "ref": "rsi_orion",
-    "career": "Heavy Mining",
-    "cargo": 384,
-    "maxCrew": 7,
-    "description": "Roberts Space Industries’ goal has always been to make the stars available to individual Citizens. Now, with the RSI Orion mining platform, RSI is letting individuals take over a process formerly controlled by mega-corporations. The Orion’s features include high-grade turret-mounted tractor beam arrays, plenty of mineral storage and a cabin designed by the team that brought you the Aurora and Constellation! The listed Cargo Capacity is only for the dedicated Cargo Room and does not account for the mined material capacity in the storage pods which will be detailed later.",
-    "dimensions": {
-      "width": 50,
-      "length": 170,
-      "height": 50
-    },
-    "hp": null,
-    "hydrogenFuel": null,
-    "manufacturer": "RSI",
-    "mass": null,
-    "name": "Orion",
-    "qtFuel": null,
-    "role": "Heavy Mining",
-    "size": 6,
-    "prices": {
-      "pledge": 650,
-      "inGame": null
-    },
-    "conceptDate": "2015-02-20",
-    "state": "In Concept",
-    "flightCharacteristics": null,
-    "minCrew": 4
+    "vehicleType": "Ship"
   },
   {
     "ref": "rsi_perseus",
@@ -9422,7 +9261,7 @@
     "conceptDate": "2020-11-28",
     "state": "In Concept",
     "flightCharacteristics": null,
-    "vehicleType": "Ground"
+    "vehicleType": "Ship"
   },
   {
     "ref": "rsi_polaris",
