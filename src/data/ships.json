@@ -1308,6 +1308,41 @@
     }
   },
   {
+    "ref": "aegs_vulcan",
+    "career": "Refuel & Repair",
+    "cargo": 12,
+    "minCrew": 1,
+    "maxCrew": 3,
+    "description": "Refuel. Repair. Rearm. Become a one-person support crew with Aegis Dynamics' versatile Vulcan, supplying aid to pilots on the fly. Whether pinned down under heavy fire and in need of ammunition, low on quantum fuel after an ill-planned jump, or stranded in unknown space with a busted thruster, a pilot in distress can always count on a Vulcan and its cadre of drones to lend speedy, efficient assistance. Outfit your Vulcan with eye-catching livery and become a beacon of hope, even in the darkest, most treacherous corners of the 'verse.",
+    "dimensions": {
+      "width": 16.5,
+      "length": 38.5,
+      "height": 10
+    },
+    "hp": null,
+    "hydrogenFuel": null,
+    "manufacturer": "AEGS",
+    "mass": null,
+    "name": "Vulcan",
+    "qtFuel": null,
+    "role": "Repair",
+    "size": 3,
+    "shields": [
+      {
+        "size": 2,
+        "type": "Shield",
+        "count": 1
+      }
+    ],
+    "prices": {
+      "pledge": 200,
+      "inGame": null
+    },
+    "conceptDate": "2018-02-21",
+    "state": "In Concept",
+    "flightCharacteristics": null
+  },
+  {
     "ref": "anvl_arrow",
     "career": "Combat",
     "cargo": 0,
