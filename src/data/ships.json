@@ -9041,6 +9041,34 @@
     "minCrew": 1
   },
   {
+    "ref": "rsi_orion",
+    "career": "Heavy Mining",
+    "cargo": 384,
+    "maxCrew": 7,
+    "description": "Roberts Space Industries’ goal has always been to make the stars available to individual Citizens. Now, with the RSI Orion mining platform, RSI is letting individuals take over a process formerly controlled by mega-corporations. The Orion’s features include high-grade turret-mounted tractor beam arrays, plenty of mineral storage and a cabin designed by the team that brought you the Aurora and Constellation! The listed Cargo Capacity is only for the dedicated Cargo Room and does not account for the mined material capacity in the storage pods which will be detailed later.",
+    "dimensions": {
+      "width": 50,
+      "length": 170,
+      "height": 50
+    },
+    "hp": null,
+    "hydrogenFuel": null,
+    "manufacturer": "RSI",
+    "mass": null,
+    "name": "Orion",
+    "qtFuel": null,
+    "role": "Heavy Mining",
+    "size": 6,
+    "prices": {
+      "pledge": 650,
+      "inGame": null
+    },
+    "conceptDate": "2015-02-20",
+    "state": "In Concept",
+    "flightCharacteristics": null,
+    "minCrew": 4
+  },
+  {
     "ref": "rsi_perseus",
     "career": "Militia / Patrol",
     "cargo": 50,
