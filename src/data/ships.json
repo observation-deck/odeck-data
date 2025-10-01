@@ -9863,7 +9863,7 @@
     "state": "Flight Ready",
     "flightCharacteristics": null,
     "minCrew": 1,
-    "vehicleType": "Snub"
+    "vehicleType": "Ground"
   },
   {
     "ref": "grin_ptv",
@@ -9892,7 +9892,7 @@
     "state": "Flight Ready",
     "flightCharacteristics": null,
     "minCrew": 1,
-    "vehicleType": "Snub"
+    "vehicleType": "Ground"
   },
   {
     "ref": "grin_roc",
@@ -10452,7 +10452,7 @@
     "state": "Flight Ready",
     "flightCharacteristics": null,
     "minCrew": 1,
-    "vehicleType": "Snub"
+    "vehicleType": "Ground"
   },
   {
     "ref": "tmbl_storm_aa",
@@ -10507,6 +10507,6 @@
     "state": "Flight Ready",
     "flightCharacteristics": null,
     "minCrew": 1,
-    "vehicleType": "Snub"
+    "vehicleType": "Ground"
   }
 ]
