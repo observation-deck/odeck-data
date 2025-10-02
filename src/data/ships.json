@@ -4157,6 +4157,35 @@
     "vehicleType": "Ship"
   },
   {
+    "ref": "crus_spirit_e1",
+    "career": "Passenger Transport",
+    "cargo": 0,
+    "maxCrew": 2,
+    "description": "Crusader Industries brings its usual commitment to excellence directly to the civilian market with the E1 Spirit, a mid-size multi-purpose starship aiming to redefine executive travel with VIP accommodations while packing enough versatility to tackle multiple roles and unpredictable jobs.",
+    "dimensions": {
+      "width": 47.5,
+      "length": 44,
+      "height": 10
+    },
+    "hp": null,
+    "hydrogenFuel": null,
+    "manufacturer": "CRUS",
+    "mass": null,
+    "name": "E1 Spirit",
+    "qtFuel": null,
+    "role": "Passenger",
+    "size": 3,
+    "prices": {
+      "pledge": 150,
+      "inGame": null
+    },
+    "conceptDate": "2022-10-08",
+    "state": "In Concept",
+    "flightCharacteristics": null,
+    "minCrew": 1,
+    "vehicleType": "Ship"
+  },
+  {
     "ref": "crus_starlifter_a2",
     "career": "Combat",
     "cargo": 216,
@@ -5430,6 +5459,64 @@
     "vehicleType": "Ship"
   },
   {
+    "ref": "drak_ironclad",
+    "career": "Armored Freight",
+    "cargo": 1536,
+    "maxCrew": 6,
+    "description": "Run the skies with Drake's mighty Ironclad, an armored freighter that takes the risks involved in deep-space traversal and transport seriously.",
+    "dimensions": {
+      "width": 52,
+      "length": 120,
+      "height": 20
+    },
+    "hp": null,
+    "hydrogenFuel": null,
+    "manufacturer": "DRAK",
+    "mass": null,
+    "name": "Ironclad",
+    "qtFuel": null,
+    "role": "Armored Freight",
+    "size": 4,
+    "prices": {
+      "pledge": 450,
+      "inGame": null
+    },
+    "conceptDate": "2024-05-23",
+    "state": "In Concept",
+    "flightCharacteristics": null,
+    "minCrew": 1,
+    "vehicleType": "Ship"
+  },
+  {
+    "ref": "drak_ironclad_assault",
+    "career": "Combined Arms Platform",
+    "cargo": 1536,
+    "maxCrew": 6,
+    "description": "The ultimate combined arms platform, the Ironclad Assault safely carries heavy vehicles and squads of infantry, with daunting auxiliary turrets providing direct support.",
+    "dimensions": {
+      "width": 52,
+      "length": 120,
+      "height": 20
+    },
+    "hp": null,
+    "hydrogenFuel": null,
+    "manufacturer": "DRAK",
+    "mass": null,
+    "name": "Ironclad Assault",
+    "qtFuel": null,
+    "role": "Combined Arms Platform",
+    "size": 4,
+    "prices": {
+      "pledge": 450,
+      "inGame": null
+    },
+    "conceptDate": "2024-05-23",
+    "state": "In Concept",
+    "flightCharacteristics": null,
+    "minCrew": 1,
+    "vehicleType": "Ship"
+  },
+  {
     "ref": "drak_vulture",
     "career": "Industrial",
     "cargo": 12,
@@ -5835,6 +5922,35 @@
         "yaw": 54
       }
     },
+    "minCrew": 1,
+    "vehicleType": "Ship"
+  },
+  {
+    "ref": "gama_railen",
+    "career": "Medium Freight",
+    "cargo": 320,
+    "maxCrew": 4,
+    "description": "Gatac's first foray into the human market, the Railen is an elegant interspecies vessel perfect for any Human or Xi’an pilot looking for a safe, reliable solution for commercial-grade medium cargo hauling. Utilizing patented grav-lev technology, and time-tested designs updated for 2951 and beyond, the Railen is a prime example of why the Xi'an Empire has trusted House Gatac with production of its industrial vessels for centuries.",
+    "dimensions": {
+      "width": 52,
+      "length": 53,
+      "height": 67
+    },
+    "hp": null,
+    "hydrogenFuel": null,
+    "manufacturer": "GAMA",
+    "mass": null,
+    "name": "Railen",
+    "qtFuel": null,
+    "role": "Medium Freight",
+    "size": 3,
+    "prices": {
+      "pledge": 225,
+      "inGame": null
+    },
+    "conceptDate": "2021-06-10",
+    "state": "In Concept",
+    "flightCharacteristics": null,
     "minCrew": 1,
     "vehicleType": "Ship"
   },
@@ -9737,6 +9853,35 @@
         "yaw": 32.5
       }
     },
+    "vehicleType": "Ship"
+  },
+  {
+    "ref": "rsi_zeus_mr",
+    "career": "Interdiction",
+    "cargo": 16,
+    "minCrew": 1,
+    "maxCrew": 3,
+    "description": "Ready to ferry a whole new generation of travelers across the universe, the Zeus Mk II pays homage to the classic ship that launched Humanity to the stars in 2140. With a focus on security, the Zeus Mk II MR features an EMP device and quantum dampener to neutralize hostile forces.",
+    "dimensions": {
+      "width": 35,
+      "length": 46,
+      "height": 9
+    },
+    "hp": null,
+    "hydrogenFuel": null,
+    "manufacturer": "RSI",
+    "mass": null,
+    "name": "Zeus Mk II MR",
+    "qtFuel": null,
+    "role": "Bounty Hunter",
+    "size": 3,
+    "prices": {
+      "pledge": 190,
+      "inGame": null
+    },
+    "conceptDate": "2023-10-21",
+    "state": "In Concept",
+    "flightCharacteristics": null,
     "vehicleType": "Ship"
   },
   {
