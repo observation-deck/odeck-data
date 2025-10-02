@@ -5517,6 +5517,64 @@
     "vehicleType": "Ship"
   },
   {
+    "ref": "drak_kraken",
+    "career": "Multi-Role / Light Carrier",
+    "cargo": 3792,
+    "maxCrew": 10,
+    "description": "The Kraken is a protector and a beacon of freedom in a too-often cruel universe. For those tasked with safekeeping Citizens unable to protect themselves, the Kraken is both a sanctuary and a self-contained war machine ready to take on the most daunting adversaries. Drake has thrown out the rule book to redefine private-use capital-class ships, attack carriers, and the very nature of personal freedom. It's nothing if not a testament to the empowerment of the people.",
+    "dimensions": {
+      "width": 104,
+      "length": 270,
+      "height": 64
+    },
+    "hp": null,
+    "hydrogenFuel": null,
+    "manufacturer": "DRAK",
+    "mass": null,
+    "name": "Kraken",
+    "qtFuel": null,
+    "role": "Multi-Role / Light Carrier",
+    "size": 6,
+    "prices": {
+      "pledge": 1650,
+      "inGame": null
+    },
+    "conceptDate": "2018-10-09",
+    "state": "In Concept",
+    "flightCharacteristics": null,
+    "minCrew": 4,
+    "vehicleType": "Ship"
+  },
+  {
+    "ref": "drak_kraken_privateer",
+    "career": "Multi-Role / Light Carrier",
+    "cargo": 768,
+    "maxCrew": 10,
+    "description": "The Kraken is a protector and a beacon of freedom in a too-often cruel universe. For those tasked with safekeeping Citizens unable to protect themselves, the Kraken is both a sanctuary and a self-contained war machine ready to take on the most daunting adversaries. Drake has thrown out the rule book to redefine private-use capital-class ships, attack carriers, and the very nature of personal freedom. It's nothing if not a testament to the empowerment of the people.",
+    "dimensions": {
+      "width": 104,
+      "length": 270,
+      "height": 64
+    },
+    "hp": null,
+    "hydrogenFuel": null,
+    "manufacturer": "DRAK",
+    "mass": null,
+    "name": "Kraken Privateer",
+    "qtFuel": null,
+    "role": "Multi-Role / Light Carrier",
+    "size": 6,
+    "prices": {
+      "pledge": 2000,
+      "inGame": null
+    },
+    "conceptDate": "2019-11-30",
+    "state": "In Concept",
+    "flightCharacteristics": null,
+    "minCrew": 4,
+    "vehicleType": "Ship"
+  },
+  {
     "ref": "drak_vulture",
     "career": "Industrial",
     "cargo": 12,
@@ -7184,6 +7242,35 @@
     "vehicleType": "Ship"
   },
   {
+    "ref": "misc_hull_b",
+    "career": "Heavy Freight",
+    "cargo": 384,
+    "maxCrew": 1,
+    "description": "The Hull B is a more rugged option most often compared to MISC’s own Freelancer. But where the Freelancer is equipped for long range exploration and other roles, the Hull B is a pure cargo transport. Hull B are often used as corporate support ships, and it is not uncommon to spot several in different liveries during a single flight.",
+    "dimensions": {
+      "width": 15.5,
+      "length": 49,
+      "height": 17
+    },
+    "hp": null,
+    "hydrogenFuel": null,
+    "manufacturer": "MISC",
+    "mass": null,
+    "name": "Hull B",
+    "qtFuel": null,
+    "role": "Heavy Freight",
+    "size": 3,
+    "prices": {
+      "pledge": 140,
+      "inGame": null
+    },
+    "conceptDate": "2015-04-24",
+    "state": "In Concept",
+    "flightCharacteristics": null,
+    "minCrew": 1,
+    "vehicleType": "Ship"
+  },
+  {
     "ref": "misc_hull_c",
     "career": "Transporter",
     "cargo": 4608,
@@ -7239,6 +7326,64 @@
         "yaw": 16
       }
     },
+    "vehicleType": "Ship"
+  },
+  {
+    "ref": "misc_hull_d",
+    "career": "Heavy Freight",
+    "cargo": 20736,
+    "maxCrew": 5,
+    "description": "The Hull D kicks off the larger end of the spectrum with a massive ship built around a rugged frame. The Hull D is affordable enough to be operated by mid-sized organizations and companies. Hull D are often used as flagships for mercantile operations, but their bulk means that they should be operated with escort fighters while not in safe space. The UEE military uses modified Hull D as part of their supply chain, arming and refueling the soldiers on the front line.",
+    "dimensions": {
+      "width": 70,
+      "length": 209,
+      "height": 70
+    },
+    "hp": null,
+    "hydrogenFuel": null,
+    "manufacturer": "MISC",
+    "mass": null,
+    "name": "Hull D",
+    "qtFuel": null,
+    "role": "Heavy Freight",
+    "size": 6,
+    "prices": {
+      "pledge": 550,
+      "inGame": null
+    },
+    "conceptDate": "2015-04-24",
+    "state": "In Concept",
+    "flightCharacteristics": null,
+    "minCrew": 3,
+    "vehicleType": "Ship"
+  },
+  {
+    "ref": "misc_hull_e",
+    "career": "Heavy Freight",
+    "cargo": 98304,
+    "maxCrew": 5,
+    "description": "The Hull D kicks off the larger end of the spectrum with a massive ship built around a rugged frame. The Hull D is affordable enough to be operated by mid-sized organizations and companies. Hull D are often used as flagships for mercantile operations, but their bulk means that they should be operated with escort fighters while not in safe space. The UEE military uses modified Hull D as part of their supply chain, arming and refueling the soldiers on the front line.",
+    "dimensions": {
+      "width": 104,
+      "length": 372,
+      "height": 104
+    },
+    "hp": null,
+    "hydrogenFuel": null,
+    "manufacturer": "MISC",
+    "mass": null,
+    "name": "Hull E",
+    "qtFuel": null,
+    "role": "Heavy Freight",
+    "size": 6,
+    "prices": {
+      "pledge": 750,
+      "inGame": null
+    },
+    "conceptDate": "2015-04-24",
+    "state": "In Concept",
+    "flightCharacteristics": null,
+    "minCrew": 4,
     "vehicleType": "Ship"
   },
   {
@@ -8466,6 +8611,93 @@
     "vehicleType": "Ship"
   },
   {
+    "ref": "orig_g12",
+    "career": "Touring",
+    "cargo": 2,
+    "maxCrew": 2,
+    "description": "Trek to the edge of the galaxy with confidence thanks to Origin’s trademark build quality and design. Built with the most extreme environments in mind, the G12 suits all types of planetary travel, from traversing tundras to sightseeing.",
+    "dimensions": {
+      "width": 5.8,
+      "length": 7.2,
+      "height": 2.7
+    },
+    "hp": null,
+    "hydrogenFuel": null,
+    "manufacturer": "ORIG",
+    "mass": null,
+    "name": "G12",
+    "qtFuel": null,
+    "role": "Touring",
+    "size": 1,
+    "prices": {
+      "pledge": 60,
+      "inGame": null
+    },
+    "conceptDate": "2020-06-07",
+    "state": "In Concept",
+    "flightCharacteristics": null,
+    "minCrew": 1,
+    "vehicleType": "Ground"
+  },
+  {
+    "ref": "orig_g12a",
+    "career": "Military",
+    "cargo": 0,
+    "maxCrew": 2,
+    "description": "The G12a combines military might with Origin’s unique approach to high-end engineering. Designed for all offensive ground-based operations, it’s the ideal partner for long-range perimeter patrols, intercepting assailants, and exploring dangerous new locales.",
+    "dimensions": {
+      "width": 5.8,
+      "length": 7.2,
+      "height": 2.7
+    },
+    "hp": null,
+    "hydrogenFuel": null,
+    "manufacturer": "ORIG",
+    "mass": null,
+    "name": "G12A",
+    "qtFuel": null,
+    "role": "Military",
+    "size": 1,
+    "prices": {
+      "pledge": 60,
+      "inGame": null
+    },
+    "conceptDate": "2020-06-07",
+    "state": "In Concept",
+    "flightCharacteristics": null,
+    "minCrew": 1,
+    "vehicleType": "Ground"
+  },
+  {
+    "ref": "orig_g12r",
+    "career": "Racing",
+    "cargo": 0,
+    "maxCrew": 2,
+    "description": "Stripped back and meticulously engineering for performance, Origin has taken everything learned from preparing the 350r and M50 ships for competition and added it to the ubiquitous ground racer. Lighter, faster, and with a built-in EMP for protection, it’s ready for anything the outlands can throw at it.",
+    "dimensions": {
+      "width": 5.8,
+      "length": 7.2,
+      "height": 2.7
+    },
+    "hp": null,
+    "hydrogenFuel": null,
+    "manufacturer": "ORIG",
+    "mass": null,
+    "name": "G12R",
+    "qtFuel": null,
+    "role": "Racing",
+    "size": 1,
+    "prices": {
+      "pledge": 60,
+      "inGame": null
+    },
+    "conceptDate": "2020-06-07",
+    "state": "In Concept",
+    "flightCharacteristics": null,
+    "minCrew": 1,
+    "vehicleType": "Ground"
+  },
+  {
     "ref": "orig_m50",
     "career": "Competition",
     "cargo": 0,
@@ -8674,7 +8906,7 @@
     "name": "Apollo Medivac",
     "qtFuel": 4.5,
     "role": "Medical",
-    "size": 5,
+    "size": 4,
     "weapons": [
       {
         "size": 4,
@@ -8739,7 +8971,7 @@
     "name": "Apollo Triage",
     "qtFuel": 4.5,
     "role": "Medical",
-    "size": 5,
+    "size": 4,
     "weapons": [
       {
         "size": 4,
@@ -8783,6 +9015,35 @@
         "roll": 65
       }
     },
+    "vehicleType": "Ship"
+  },
+  {
+    "ref": "rsi_arrastra",
+    "career": "Mining / Refining",
+    "cargo": 576,
+    "minCrew": 2,
+    "maxCrew": 5,
+    "description": "RSI is disrupting the industrial sector with an all-new approach to deep-space mining. Extract, refine, and haul huge volumes of ore in one powerhouse vessel – all with a maximum crew of five!",
+    "dimensions": {
+      "width": 64,
+      "length": 124,
+      "height": 21
+    },
+    "hp": null,
+    "hydrogenFuel": null,
+    "manufacturer": "RSI",
+    "mass": null,
+    "name": "Arrastra",
+    "qtFuel": null,
+    "role": "Mining / Refining",
+    "size": 4,
+    "prices": {
+      "pledge": 575,
+      "inGame": null
+    },
+    "conceptDate": "2023-11-25",
+    "state": "In Concept",
+    "flightCharacteristics": null,
     "vehicleType": "Ship"
   },
   {
@@ -10756,6 +11017,93 @@
     },
     "conceptDate": "2017-12-22",
     "state": "Flight Ready",
+    "flightCharacteristics": null,
+    "vehicleType": "Ground"
+  },
+  {
+    "ref": "tmbl_ranger_cv",
+    "career": "Touring",
+    "cargo": 0,
+    "minCrew": 1,
+    "maxCrew": 1,
+    "description": "With a powerful frame, proprietary X-TEC adaptive tread tires, and Reactive Response precision steering and braking, the Tumbril Ranger lets you embrace the renegade spirit of the open road while staying thoroughly grounded. Born to tame the wild frontier, the Ranger CV takes adventure touring to the next level and delivers the goods with an auxiliary fuel tank and custom 0.375 SCU pannier.",
+    "dimensions": {
+      "width": 2,
+      "length": 3.7,
+      "height": 2
+    },
+    "hp": null,
+    "hydrogenFuel": null,
+    "manufacturer": "TMBL",
+    "mass": null,
+    "name": "Ranger CV",
+    "qtFuel": null,
+    "role": "Touring",
+    "size": 1,
+    "prices": {
+      "pledge": 35,
+      "inGame": null
+    },
+    "conceptDate": "2019-11-30",
+    "state": "In Concept",
+    "flightCharacteristics": null,
+    "vehicleType": "Ground"
+  },
+  {
+    "ref": "tmbl_ranger_tr",
+    "career": "Combat",
+    "cargo": 0,
+    "minCrew": 1,
+    "maxCrew": 1,
+    "description": "With a powerful frame, proprietary X-TEC adaptive tread tires, and Reactive Response precision steering and braking, the Tumbril Ranger lets you embrace the renegade spirit of the open road while staying thoroughly grounded. But adventure doesn't always go to plan, so the Ranger TR comes equipped with dual weapon mounts to make sure you're more than covered.",
+    "dimensions": {
+      "width": 2,
+      "length": 3.7,
+      "height": 2
+    },
+    "hp": null,
+    "hydrogenFuel": null,
+    "manufacturer": "TMBL",
+    "mass": null,
+    "name": "Ranger TR",
+    "qtFuel": null,
+    "role": "Combat",
+    "size": 1,
+    "prices": {
+      "pledge": 40,
+      "inGame": null
+    },
+    "conceptDate": "2019-11-30",
+    "state": "In Concept",
+    "flightCharacteristics": null,
+    "vehicleType": "Ground"
+  },
+  {
+    "ref": "tmbl_ranger_rc",
+    "career": "Racing",
+    "cargo": 0,
+    "minCrew": 1,
+    "maxCrew": 1,
+    "description": "With a streamlined frame, proprietary X-TEC adaptive tread tires, and Reactive Response precision steering and braking, the Tumbril Ranger lets you embrace the renegade spirit of the open road while staying thoroughly grounded. Put the hammer down and pump up the adrenaline with the Ranger RC, tuned for maximum speed and response with advanced propulsion and chassis technology.",
+    "dimensions": {
+      "width": 2,
+      "length": 3.7,
+      "height": 2
+    },
+    "hp": null,
+    "hydrogenFuel": null,
+    "manufacturer": "TMBL",
+    "mass": null,
+    "name": "Ranger RC",
+    "qtFuel": null,
+    "role": "Racing",
+    "size": 1,
+    "prices": {
+      "pledge": 35,
+      "inGame": null
+    },
+    "conceptDate": "2019-11-30",
+    "state": "In Concept",
     "flightCharacteristics": null,
     "vehicleType": "Ground"
   },
