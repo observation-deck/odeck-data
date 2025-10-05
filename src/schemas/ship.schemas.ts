@@ -52,10 +52,22 @@ export const RotationSchema = z.object({
   pitch: z.number().positive()
 });
 
-// Prices Schema
-export const PricesSchema = z.object({
+
+export const LocationSchema = z.object({
+  location: z.string().min(3),
+  name: z.string().min(3)
+});
+
+export const BuyLocationSchema = z.object({
+  location: z.string().min(3),
+  name: z.string().min(3),
+  price: z.number().positive()
+});
+
+export const AvailabilitySchema = z.object({
   pledge: z.number().positive().nullable(),
-  inGame: z.number().positive().nullable()
+  buy: z.array(BuyLocationSchema).nullable(),
+  rent: z.array(LocationSchema).nullable()
 });
 
 export const FlightCharacteristics = z.object({
@@ -82,7 +94,7 @@ export const ShipSchema = z.object({
   manufacturer: ManufacturerRefSchema, 
   hp: z.number().positive().nullable(),  // null for concepts
   mass: z.number().positive().nullable(), // null for concepts
-  prices: PricesSchema, // not nullable, individual prices are null if not available
+  availability: AvailabilitySchema, // not nullable
   conceptDate: z.string().date(), // e.g. 2023-05-25
   weapons: z.array(HardpointSchema).optional(),
   shields: z.array(HardpointSchema).optional(),
@@ -99,7 +111,6 @@ export type Manufacturer = z.infer<typeof ManufacturerSchema>;
 export type Dimensions = z.infer<typeof DimensionsSchema>;
 export type Hardpoint = z.infer<typeof HardpointSchema>;
 export type Rotation = z.infer<typeof RotationSchema>;
-export type Prices = z.infer<typeof PricesSchema>;
 export type Ship = z.infer<typeof ShipSchema>;
 
 // Validation functions

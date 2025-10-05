@@ -44,10 +44,6 @@
         "count": 4
       }
     ],
-    "prices": {
-      "pledge": 60,
-      "inGame": 1587600
-    },
     "conceptDate": "2015-11-19",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -60,7 +56,18 @@
       }
     },
     "minCrew": 1,
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 60,
+      "buy": [
+        {
+          "name": "New Deal",
+          "location": "Lorville",
+          "price": 1587600
+        }
+      ],
+      "rent": []
+    }
   },
   {
     "ref": "aegs_avenger_titan",
@@ -107,10 +114,6 @@
         "count": 4
       }
     ],
-    "prices": {
-      "pledge": 60,
-      "inGame": 1358280
-    },
     "conceptDate": "2015-11-19",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -123,7 +126,27 @@
       }
     },
     "minCrew": 1,
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 60,
+      "buy": [
+        {
+          "name": "New Deal",
+          "location": "Lorville",
+          "price": 1358280
+        }
+      ],
+      "rent": [
+        {
+          "name": "Traveler Rentals",
+          "location": "Area18"
+        },
+        {
+          "name": "Traveler Rentals",
+          "location": "Orison"
+        }
+      ]
+    }
   },
   {
     "ref": "aegs_avenger_titan_renegade",
@@ -170,10 +193,6 @@
         "count": 4
       }
     ],
-    "prices": {
-      "pledge": 75,
-      "inGame": 1852200
-    },
     "conceptDate": "2016-11-23",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -186,7 +205,18 @@
       }
     },
     "minCrew": 1,
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 75,
+      "buy": [
+        {
+          "name": "New Deal",
+          "location": "Lorville",
+          "price": 1852200
+        }
+      ],
+      "rent": []
+    }
   },
   {
     "ref": "aegs_avenger_warlock",
@@ -240,10 +270,6 @@
         "count": 1
       }
     ],
-    "prices": {
-      "pledge": 85,
-      "inGame": 2249100
-    },
     "conceptDate": "2015-11-19",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -256,7 +282,18 @@
       }
     },
     "minCrew": 1,
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 85,
+      "buy": [
+        {
+          "name": "New Deal",
+          "location": "Lorville",
+          "price": 2249100
+        }
+      ],
+      "rent": []
+    }
   },
   {
     "ref": "aegs_eclipse",
@@ -298,10 +335,6 @@
         "count": 3
       }
     ],
-    "prices": {
-      "pledge": 300,
-      "inGame": 7938000
-    },
     "conceptDate": "2017-05-18",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -314,7 +347,18 @@
       }
     },
     "minCrew": 1,
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 300,
+      "buy": [
+        {
+          "name": "New Deal",
+          "location": "Lorville",
+          "price": 7938000
+        }
+      ],
+      "rent": []
+    }
   },
   {
     "ref": "aegs_gladius",
@@ -366,10 +410,6 @@
         "count": 4
       }
     ],
-    "prices": {
-      "pledge": 90,
-      "inGame": 2381400
-    },
     "conceptDate": "2014-07-11",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -382,7 +422,18 @@
       }
     },
     "minCrew": 1,
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 90,
+      "buy": [
+        {
+          "name": "New Deal",
+          "location": "Lorville",
+          "price": 2381400
+        }
+      ],
+      "rent": []
+    }
   },
   {
     "ref": "aegs_gladius_valiant",
@@ -429,10 +480,6 @@
         "count": 8
       }
     ],
-    "prices": {
-      "pledge": 110,
-      "inGame": 2910600
-    },
     "conceptDate": "2016-11-23",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -445,7 +492,18 @@
       }
     },
     "minCrew": 1,
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 110,
+      "buy": [
+        {
+          "name": "New Deal",
+          "location": "Lorville",
+          "price": 2910600
+        }
+      ],
+      "rent": []
+    }
   },
   {
     "ref": "aegs_hammerhead",
@@ -481,10 +539,6 @@
         "count": 32
       }
     ],
-    "prices": {
-      "pledge": 725,
-      "inGame": 47958000
-    },
     "conceptDate": "2017-11-25",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -496,7 +550,18 @@
         "yaw": 18
       }
     },
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 725,
+      "buy": [
+        {
+          "name": "New Deal",
+          "location": "Lorville",
+          "price": 47958752
+        }
+      ],
+      "rent": []
+    }
   },
   {
     "ref": "aegs_idris_m",
@@ -539,10 +604,6 @@
         "count": 10
       }
     ],
-    "prices": {
-      "pledge": null,
-      "inGame": null
-    },
     "conceptDate": "2013-06-29",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -554,7 +615,12 @@
         "yaw": 7
       }
     },
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": null,
+      "buy": [],
+      "rent": []
+    }
   },
   {
     "ref": "aegs_idris_p",
@@ -597,10 +663,6 @@
         "count": 10
       }
     ],
-    "prices": {
-      "pledge": 1900,
-      "inGame": null
-    },
     "conceptDate": "2013-06-29",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -612,7 +674,12 @@
         "yaw": 7
       }
     },
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 1900,
+      "buy": [],
+      "rent": []
+    }
   },
   {
     "ref": "aegs_javelin",
@@ -634,14 +701,15 @@
     "qtFuel": null,
     "role": "Destroyer",
     "size": 6,
-    "prices": {
-      "pledge": 3000,
-      "inGame": null
-    },
     "conceptDate": "2014-11-27",
     "state": "In Concept",
     "flightCharacteristics": null,
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 3000,
+      "buy": [],
+      "rent": []
+    }
   },
   {
     "ref": "aegs_nautilus",
@@ -663,14 +731,15 @@
     "qtFuel": null,
     "role": "Minelayer",
     "size": 4,
-    "prices": {
-      "pledge": 725,
-      "inGame": null
-    },
     "conceptDate": "2019-11-30",
     "state": "In Concept",
     "flightCharacteristics": null,
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 725,
+      "buy": [],
+      "rent": []
+    }
   },
   {
     "ref": "aegs_reclaimer",
@@ -713,10 +782,6 @@
         "count": 2
       }
     ],
-    "prices": {
-      "pledge": 400,
-      "inGame": 31752000
-    },
     "conceptDate": "2014-09-26",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -728,7 +793,18 @@
         "yaw": 11
       }
     },
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 400,
+      "buy": [
+        {
+          "name": "New Deal",
+          "location": "Lorville",
+          "price": 31752000
+        }
+      ],
+      "rent": []
+    }
   },
   {
     "ref": "aegs_redeemer",
@@ -771,10 +847,6 @@
         "count": 6
       }
     ],
-    "prices": {
-      "pledge": 330,
-      "inGame": 17199000
-    },
     "conceptDate": "2014-11-01",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -786,7 +858,18 @@
         "yaw": 30
       }
     },
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 330,
+      "buy": [
+        {
+          "name": "New Deal",
+          "location": "Lorville",
+          "price": 17199000
+        }
+      ],
+      "rent": []
+    }
   },
   {
     "ref": "aegs_retaliator",
@@ -815,10 +898,6 @@
         "count": 6
       }
     ],
-    "prices": {
-      "pledge": 175,
-      "inGame": 7938000
-    },
     "conceptDate": "2012-11-18",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -830,7 +909,18 @@
         "yaw": 23
       }
     },
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 175,
+      "buy": [
+        {
+          "name": "New Deal",
+          "location": "Lorville",
+          "price": 7938000
+        }
+      ],
+      "rent": []
+    }
   },
   {
     "ref": "aegs_sabre",
@@ -872,10 +962,6 @@
         "count": 2
       }
     ],
-    "prices": {
-      "pledge": 175,
-      "inGame": 4498200
-    },
     "conceptDate": "2015-10-10",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -888,7 +974,18 @@
       }
     },
     "minCrew": 1,
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 175,
+      "buy": [
+        {
+          "name": "New Deal",
+          "location": "Lorville",
+          "price": 4498200
+        }
+      ],
+      "rent": []
+    }
   },
   {
     "ref": "aegs_sabre_comet",
@@ -930,10 +1027,6 @@
         "count": 2
       }
     ],
-    "prices": {
-      "pledge": 185,
-      "inGame": 4895100
-    },
     "conceptDate": "2016-11-23",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -946,7 +1039,18 @@
       }
     },
     "minCrew": 1,
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 185,
+      "buy": [
+        {
+          "name": "New Deal",
+          "location": "Lorville",
+          "price": 4895100
+        }
+      ],
+      "rent": []
+    }
   },
   {
     "ref": "aegs_sabre_firebird",
@@ -988,10 +1092,6 @@
         "count": 2
       }
     ],
-    "prices": {
-      "pledge": 185,
-      "inGame": 5874120
-    },
     "conceptDate": "2024-05-21",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -1004,7 +1104,18 @@
       }
     },
     "minCrew": 1,
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 185,
+      "buy": [
+        {
+          "name": "New Deal",
+          "location": "Lorville",
+          "price": 5874120
+        }
+      ],
+      "rent": []
+    }
   },
   {
     "ref": "aegs_sabre_peregrine",
@@ -1032,10 +1143,6 @@
         "count": 2
       }
     ],
-    "prices": {
-      "pledge": 185,
-      "inGame": 4048380
-    },
     "conceptDate": "2024-08-28",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -1048,7 +1155,18 @@
       }
     },
     "minCrew": 1,
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 185,
+      "buy": [
+        {
+          "name": "New Deal",
+          "location": "Lorville",
+          "price": 4048380
+        }
+      ],
+      "rent": []
+    }
   },
   {
     "ref": "aegs_sabre_raven",
@@ -1090,10 +1208,6 @@
         "count": 2
       }
     ],
-    "prices": {
-      "pledge": null,
-      "inGame": null
-    },
     "conceptDate": "2015-10-10",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -1106,7 +1220,12 @@
       }
     },
     "minCrew": 1,
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": null,
+      "buy": [],
+      "rent": []
+    }
   },
   {
     "ref": "aegs_vanguard_harbinger",
@@ -1164,10 +1283,6 @@
         "count": 2
       }
     ],
-    "prices": {
-      "pledge": 290,
-      "inGame": 11510100
-    },
     "conceptDate": "2015-08-28",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -1179,7 +1294,18 @@
         "yaw": 35
       }
     },
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 290,
+      "buy": [
+        {
+          "name": "New Deal",
+          "location": "Lorville",
+          "price": 11510100
+        }
+      ],
+      "rent": []
+    }
   },
   {
     "ref": "aegs_vanguard_hoplite",
@@ -1227,10 +1353,6 @@
         "count": 2
       }
     ],
-    "prices": {
-      "pledge": 240,
-      "inGame": 9327150
-    },
     "conceptDate": "2015-08-28",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -1242,7 +1364,18 @@
         "yaw": 30
       }
     },
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 240,
+      "buy": [
+        {
+          "name": "New Deal",
+          "location": "Lorville",
+          "price": 9327150
+        }
+      ],
+      "rent": []
+    }
   },
   {
     "ref": "aegs_vanguard_sentinel",
@@ -1302,10 +1435,6 @@
         "type": "EMP"
       }
     ],
-    "prices": {
-      "pledge": 275,
-      "inGame": 10914800
-    },
     "conceptDate": "2015-08-28",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -1317,7 +1446,18 @@
         "yaw": 39
       }
     },
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 275,
+      "buy": [
+        {
+          "name": "New Deal",
+          "location": "Lorville",
+          "price": 10914750
+        }
+      ],
+      "rent": []
+    }
   },
   {
     "ref": "aegs_vanguard",
@@ -1370,10 +1510,6 @@
         "count": 2
       }
     ],
-    "prices": {
-      "pledge": 260,
-      "inGame": 10319400
-    },
     "conceptDate": "2015-03-27",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -1385,7 +1521,18 @@
         "yaw": 38
       }
     },
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 260,
+      "buy": [
+        {
+          "name": "New Deal",
+          "location": "Lorville",
+          "price": 10319400
+        }
+      ],
+      "rent": []
+    }
   },
   {
     "ref": "aegs_vulcan",
@@ -1414,14 +1561,15 @@
         "count": 1
       }
     ],
-    "prices": {
-      "pledge": 200,
-      "inGame": null
-    },
     "conceptDate": "2018-02-21",
     "state": "In Concept",
     "flightCharacteristics": null,
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 200,
+      "buy": [],
+      "rent": []
+    }
   },
   {
     "ref": "anvl_arrow",
@@ -1468,10 +1616,6 @@
         "count": 1
       }
     ],
-    "prices": {
-      "pledge": 75,
-      "inGame": 1984500
-    },
     "conceptDate": "2018-11-23",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -1484,7 +1628,18 @@
       }
     },
     "minCrew": 1,
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 75,
+      "buy": [
+        {
+          "name": "Astro Armada",
+          "location": "Area18",
+          "price": 1984500
+        }
+      ],
+      "rent": []
+    }
   },
   {
     "ref": "anvl_asgard",
@@ -1526,10 +1681,6 @@
         "count": 4
       }
     ],
-    "prices": {
-      "pledge": 350,
-      "inGame": null
-    },
     "conceptDate": "2025-05-08",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -1542,7 +1693,12 @@
       }
     },
     "minCrew": 1,
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 350,
+      "buy": [],
+      "rent": []
+    }
   },
   {
     "ref": "anvl_c8_pisces",
@@ -1585,10 +1741,6 @@
         "count": 1
       }
     ],
-    "prices": {
-      "pledge": null,
-      "inGame": null
-    },
     "conceptDate": "2019-11-24",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -1600,7 +1752,27 @@
         "yaw": 60
       }
     },
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": null,
+      "buy": [
+        {
+          "name": "Astro Armada",
+          "location": "Area18",
+          "price": 745290
+        }
+      ],
+      "rent": [
+        {
+          "name": "Traveler Rentals",
+          "location": "Area18"
+        },
+        {
+          "name": "Traveler Rentals",
+          "location": "Orison"
+        }
+      ]
+    }
   },
   {
     "ref": "anvl_c8r_pisces",
@@ -1649,10 +1821,6 @@
         "size": 3
       }
     ],
-    "prices": {
-      "pledge": 65,
-      "inGame": 555660
-    },
     "conceptDate": "2022-11-22",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -1665,7 +1833,27 @@
       }
     },
     "minCrew": 1,
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 65,
+      "buy": [
+        {
+          "name": "Astro Armada",
+          "location": "Area18",
+          "price": 555660
+        }
+      ],
+      "rent": [
+        {
+          "name": "Traveler Rentals",
+          "location": "Area18"
+        },
+        {
+          "name": "Traveler Rentals",
+          "location": "Orison"
+        }
+      ]
+    }
   },
   {
     "ref": "anvl_c8x_pisces_expedition",
@@ -1708,10 +1896,6 @@
         "count": 1
       }
     ],
-    "prices": {
-      "pledge": 45,
-      "inGame": 515970
-    },
     "conceptDate": "2019-11-24",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -1723,7 +1907,18 @@
         "yaw": 60
       }
     },
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 45,
+      "buy": [
+        {
+          "name": "Astro Armada",
+          "location": "Area18",
+          "price": 515970
+        }
+      ],
+      "rent": []
+    }
   },
   {
     "ref": "anvl_carrack",
@@ -1751,10 +1946,6 @@
         "count": 2
       }
     ],
-    "prices": {
-      "pledge": 600,
-      "inGame": 34398000
-    },
     "conceptDate": "2014-11-28",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -1767,7 +1958,18 @@
       }
     },
     "minCrew": 6,
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 600,
+      "buy": [
+        {
+          "name": "Astro Armada",
+          "location": "Area18",
+          "price": 34398000
+        }
+      ],
+      "rent": []
+    }
   },
   {
     "ref": "anvl_hornet_f7a_mk1",
@@ -1824,10 +2026,6 @@
         "count": 2
       }
     ],
-    "prices": {
-      "inGame": null,
-      "pledge": null
-    },
     "conceptDate": "2012-10-18",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -1840,7 +2038,12 @@
       }
     },
     "minCrew": 1,
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": null,
+      "buy": [],
+      "rent": []
+    }
   },
   {
     "ref": "anvl_hornet_f7a_mk2",
@@ -1887,10 +2090,6 @@
         "count": 2
       }
     ],
-    "prices": {
-      "pledge": 175,
-      "inGame": null
-    },
     "conceptDate": "2024-03-15",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -1903,7 +2102,12 @@
       }
     },
     "minCrew": 1,
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 175,
+      "buy": [],
+      "rent": []
+    }
   },
   {
     "ref": "anvl_hornet_f7c",
@@ -1960,10 +2164,6 @@
         "count": 2
       }
     ],
-    "prices": {
-      "pledge": 125,
-      "inGame": 2910600
-    },
     "conceptDate": "2012-10-18",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -1976,7 +2176,18 @@
       }
     },
     "minCrew": 1,
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 125,
+      "buy": [
+        {
+          "name": "Astro Armada",
+          "location": "Area18",
+          "price": 2910600
+        }
+      ],
+      "rent": []
+    }
   },
   {
     "ref": "anvl_hornet_f7c_mk2",
@@ -2028,10 +2239,6 @@
         "count": 2
       }
     ],
-    "prices": {
-      "pledge": 175,
-      "inGame": 4895100
-    },
     "conceptDate": "2024-03-15",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -2044,7 +2251,18 @@
       }
     },
     "minCrew": 1,
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 175,
+      "buy": [
+        {
+          "name": "New Deal",
+          "location": "Lorville",
+          "price": 4895100
+        }
+      ],
+      "rent": []
+    }
   },
   {
     "ref": "anvl_hornet_f7c_wildfire",
@@ -2101,10 +2319,6 @@
         "count": 2
       }
     ],
-    "prices": {
-      "pledge": 175,
-      "inGame": 4630500
-    },
     "conceptDate": "2016-11-25",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -2117,7 +2331,18 @@
       }
     },
     "minCrew": 1,
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 175,
+      "buy": [
+        {
+          "name": "Astro Armada",
+          "location": "Area18",
+          "price": 4630500
+        }
+      ],
+      "rent": []
+    }
   },
   {
     "ref": "anvl_hornet_f7cm_heartseeker",
@@ -2170,10 +2395,6 @@
         "count": 2
       }
     ],
-    "prices": {
-      "pledge": null,
-      "inGame": null
-    },
     "conceptDate": "2019-02-14",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -2185,7 +2406,12 @@
         "yaw": 42
       }
     },
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 200,
+      "buy": [],
+      "rent": []
+    }
   },
   {
     "ref": "anvl_hornet_f7cm",
@@ -2238,10 +2464,6 @@
         "count": 2
       }
     ],
-    "prices": {
-      "pledge": 180,
-      "inGame": 4762800
-    },
     "conceptDate": "2013-10-22",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -2253,7 +2475,18 @@
         "yaw": 42
       }
     },
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 180,
+      "buy": [
+        {
+          "name": "Astro Armada",
+          "location": "Area18",
+          "price": 4762800
+        }
+      ],
+      "rent": []
+    }
   },
   {
     "ref": "anvl_hornet_f7cm_mk2",
@@ -2311,10 +2544,6 @@
         "count": 3
       }
     ],
-    "prices": {
-      "pledge": 240,
-      "inGame": null
-    },
     "conceptDate": "2025-02-11",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -2326,7 +2555,12 @@
         "yaw": 40
       }
     },
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 240,
+      "buy": [],
+      "rent": []
+    }
   },
   {
     "ref": "anvl_hornet_f7cr",
@@ -2378,10 +2612,6 @@
         "count": 2
       }
     ],
-    "prices": {
-      "pledge": 150,
-      "inGame": 3210480
-    },
     "conceptDate": "2013-10-22",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -2394,7 +2624,18 @@
       }
     },
     "minCrew": 1,
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 150,
+      "buy": [
+        {
+          "name": "Astro Armada",
+          "location": "Area18",
+          "price": 3210480
+        }
+      ],
+      "rent": []
+    }
   },
   {
     "ref": "anvl_hornet_f7cr_mk2",
@@ -2441,10 +2682,6 @@
         "count": 2
       }
     ],
-    "prices": {
-      "pledge": 185,
-      "inGame": 5139850
-    },
     "conceptDate": "2024-11-30",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -2457,7 +2694,18 @@
       }
     },
     "minCrew": 1,
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 185,
+      "buy": [
+        {
+          "name": "New Deal",
+          "location": "Lorville",
+          "price": 5139850
+        }
+      ],
+      "rent": []
+    }
   },
   {
     "ref": "anvl_hornet_f7cs",
@@ -2509,10 +2757,6 @@
         "count": 2
       }
     ],
-    "prices": {
-      "pledge": 140,
-      "inGame": 3307500
-    },
     "conceptDate": "2013-10-22",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -2525,7 +2769,18 @@
       }
     },
     "minCrew": 1,
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 140,
+      "buy": [
+        {
+          "name": "Astro Armada",
+          "location": "Area18",
+          "price": 3307500
+        }
+      ],
+      "rent": []
+    }
   },
   {
     "ref": "anvl_hornet_f7cs_mk2",
@@ -2572,10 +2827,6 @@
         "count": 2
       }
     ],
-    "prices": {
-      "pledge": 185,
-      "inGame": 5384600
-    },
     "conceptDate": "2024-11-30",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -2588,7 +2839,18 @@
       }
     },
     "minCrew": 1,
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 185,
+      "buy": [
+        {
+          "name": "New Deal",
+          "location": "Lorville",
+          "price": 5384600
+        }
+      ],
+      "rent": []
+    }
   },
   {
     "ref": "anvl_lightning_f8c",
@@ -2645,10 +2907,6 @@
         "count": 2
       }
     ],
-    "prices": {
-      "pledge": 300,
-      "inGame": null
-    },
     "conceptDate": "2023-10-09",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -2661,7 +2919,12 @@
       }
     },
     "minCrew": 1,
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 300,
+      "buy": [],
+      "rent": []
+    }
   },
   {
     "ref": "anvl_legionnaire",
@@ -2689,15 +2952,16 @@
         "count": 3
       }
     ],
-    "prices": {
-      "pledge": 120,
-      "inGame": null
-    },
     "conceptDate": "2022-05-19",
     "state": "In Concept",
     "flightCharacteristics": null,
     "minCrew": 1,
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 120,
+      "buy": [],
+      "rent": []
+    }
   },
   {
     "ref": "anvl_gladiator",
@@ -2750,10 +3014,6 @@
         "count": 1
       }
     ],
-    "prices": {
-      "pledge": 165,
-      "inGame": 4365900
-    },
     "conceptDate": "2012-11-18",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -2765,7 +3025,18 @@
         "yaw": 40
       }
     },
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 165,
+      "buy": [
+        {
+          "name": "Astro Armada",
+          "location": "Area18",
+          "price": 4365900
+        }
+      ],
+      "rent": []
+    }
   },
   {
     "ref": "anvl_hawk",
@@ -2812,10 +3083,6 @@
         "count": 1
       }
     ],
-    "prices": {
-      "pledge": 100,
-      "inGame": 2646000
-    },
     "conceptDate": "2017-11-24",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -2828,7 +3095,18 @@
       }
     },
     "minCrew": 1,
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 100,
+      "buy": [
+        {
+          "name": "Astro Armada",
+          "location": "Area18",
+          "price": 2646000
+        }
+      ],
+      "rent": []
+    }
   },
   {
     "ref": "anvl_hurricane",
@@ -2870,10 +3148,6 @@
         "count": 1
       }
     ],
-    "prices": {
-      "pledge": 210,
-      "inGame": 5556600
-    },
     "conceptDate": "2017-02-24",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -2886,7 +3160,18 @@
       }
     },
     "minCrew": 1,
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 210,
+      "buy": [
+        {
+          "name": "Astro Armada",
+          "location": "Area18",
+          "price": 5556600
+        }
+      ],
+      "rent": []
+    }
   },
   {
     "ref": "anvl_paladin",
@@ -2929,14 +3214,15 @@
         "count": 1
       }
     ],
-    "prices": {
-      "pledge": 300,
-      "inGame": null
-    },
     "conceptDate": "2024-11-30",
     "state": "In Concept",
     "flightCharacteristics": null,
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 300,
+      "buy": [],
+      "rent": []
+    }
   },
   {
     "ref": "anvl_terrapin",
@@ -2971,10 +3257,6 @@
         "count": 2
       }
     ],
-    "prices": {
-      "pledge": 220,
-      "inGame": 5433120
-    },
     "conceptDate": "2016-08-19",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -2987,7 +3269,18 @@
       }
     },
     "minCrew": 1,
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 220,
+      "buy": [
+        {
+          "name": "Astro Armada",
+          "location": "Area18",
+          "price": 5433120
+        }
+      ],
+      "rent": []
+    }
   },
   {
     "ref": "anvl_terrapin_medic",
@@ -3029,10 +3322,6 @@
         "size": 2
       }
     ],
-    "prices": {
-      "pledge": 220,
-      "inGame": 5704770
-    },
     "conceptDate": "2024-11-30",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -3045,7 +3334,18 @@
       }
     },
     "minCrew": 1,
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 220,
+      "buy": [
+        {
+          "name": "Astro Armada",
+          "location": "Area18",
+          "price": 5704770
+        }
+      ],
+      "rent": []
+    }
   },
   {
     "ref": "anvl_valkyrie",
@@ -3081,10 +3381,6 @@
         "count": 4
       }
     ],
-    "prices": {
-      "pledge": 375,
-      "inGame": 19845000
-    },
     "conceptDate": "2018-10-10",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -3096,7 +3392,18 @@
         "yaw": 29
       }
     },
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 375,
+      "buy": [
+        {
+          "name": "Astro Armada",
+          "location": "Area18",
+          "price": 19845000
+        }
+      ],
+      "rent": []
+    }
   },
   {
     "ref": "xian_scout",
@@ -3131,10 +3438,6 @@
         "count": 2
       }
     ],
-    "prices": {
-      "pledge": 175,
-      "inGame": 7229250
-    },
     "conceptDate": "2014-06-20",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -3147,7 +3450,18 @@
       }
     },
     "minCrew": 1,
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 175,
+      "buy": [
+        {
+          "name": "Astro Armada",
+          "location": "Area18",
+          "price": 7229250
+        }
+      ],
+      "rent": []
+    }
   },
   {
     "ref": "xian_nox",
@@ -3182,10 +3496,6 @@
         "count": 1
       }
     ],
-    "prices": {
-      "pledge": 45,
-      "inGame": 722925
-    },
     "conceptDate": "2017-06-23",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -3198,7 +3508,18 @@
       }
     },
     "minCrew": 1,
-    "vehicleType": "Snub"
+    "vehicleType": "Snub",
+    "availability": {
+      "pledge": 45,
+      "buy": [
+        {
+          "name": "Astro Armada",
+          "location": "Area18",
+          "price": 722925
+        }
+      ],
+      "rent": []
+    }
   },
   {
     "ref": "xnaa_santokyai",
@@ -3240,10 +3561,6 @@
         "count": 1
       }
     ],
-    "prices": {
-      "pledge": 240,
-      "inGame": 9355500
-    },
     "conceptDate": "2018-11-28",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -3256,7 +3573,18 @@
       }
     },
     "minCrew": 1,
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 240,
+      "buy": [
+        {
+          "name": "Astro Armada",
+          "location": "Area18",
+          "price": 9355500
+        }
+      ],
+      "rent": []
+    }
   },
   {
     "ref": "argo_mole",
@@ -3299,10 +3627,6 @@
         "count": 3
       }
     ],
-    "prices": {
-      "pledge": 315,
-      "inGame": 8930250
-    },
     "conceptDate": "2019-12-21",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -3314,7 +3638,39 @@
         "yaw": 30
       }
     },
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 315,
+      "buy": [
+        {
+          "name": "New Deal",
+          "location": "Lorville",
+          "price": 8930250
+        }
+      ],
+      "rent": [
+        {
+          "name": "Cargo Office Rentals",
+          "location": "Baijini Point"
+        },
+        {
+          "name": "Cargo Office Rentals",
+          "location": "Seraphim"
+        },
+        {
+          "name": "Vantage Rentals",
+          "location": "CRU L1"
+        },
+        {
+          "name": "Vantage Rentals",
+          "location": "Lorville"
+        },
+        {
+          "name": "Traveler Rentals",
+          "location": "Everus Harbor"
+        }
+      ]
+    }
   },
   {
     "ref": "argo_mpuv",
@@ -3342,10 +3698,6 @@
         "count": 1
       }
     ],
-    "prices": {
-      "pledge": 35,
-      "inGame": 330750
-    },
     "conceptDate": "2016-08-25",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -3358,7 +3710,18 @@
       }
     },
     "minCrew": 1,
-    "vehicleType": "Snub"
+    "vehicleType": "Snub",
+    "availability": {
+      "pledge": 35,
+      "buy": [
+        {
+          "name": "New Deal",
+          "location": "Lorville",
+          "price": 330750
+        }
+      ],
+      "rent": []
+    }
   },
   {
     "ref": "argo_mpuv_transport",
@@ -3386,10 +3749,6 @@
         "count": 1
       }
     ],
-    "prices": {
-      "pledge": 40,
-      "inGame": 378000
-    },
     "conceptDate": "2016-08-25",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -3402,7 +3761,18 @@
       }
     },
     "minCrew": 1,
-    "vehicleType": "Snub"
+    "vehicleType": "Snub",
+    "availability": {
+      "pledge": 40,
+      "buy": [
+        {
+          "name": "New Deal",
+          "location": "Lorville",
+          "price": 378000
+        }
+      ],
+      "rent": []
+    }
   },
   {
     "ref": "argo_mpuv_1t",
@@ -3442,10 +3812,6 @@
         "size": 1
       }
     ],
-    "prices": {
-      "pledge": 40,
-      "inGame": 415800
-    },
     "conceptDate": "2024-05-17",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -3458,7 +3824,35 @@
       }
     },
     "minCrew": 1,
-    "vehicleType": "Snub"
+    "vehicleType": "Snub",
+    "availability": {
+      "pledge": 40,
+      "buy": [
+        {
+          "name": "New Deal",
+          "location": "Lorville",
+          "price": 415800
+        }
+      ],
+      "rent": [
+        {
+          "name": "Cargo Office Rentals",
+          "location": "Baijini Point"
+        },
+        {
+          "name": "Cargo Office Rentals",
+          "location": "Seraphim"
+        },
+        {
+          "name": "Vantage Rentals",
+          "location": "Lorville"
+        },
+        {
+          "name": "Traveler Rentals",
+          "location": "Everus Harbor"
+        }
+      ]
+    }
   },
   {
     "ref": "argo_raft",
@@ -3500,10 +3894,6 @@
         "size": 2
       }
     ],
-    "prices": {
-      "pledge": 125,
-      "inGame": 3543750
-    },
     "conceptDate": "2021-11-25",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -3516,7 +3906,23 @@
       }
     },
     "minCrew": 2,
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 125,
+      "buy": [
+        {
+          "name": "New Deal",
+          "location": "Lorville",
+          "price": 3543750
+        }
+      ],
+      "rent": [
+        {
+          "name": "Vantage Rentals",
+          "location": "Lorville"
+        }
+      ]
+    }
   },
   {
     "ref": "argo_srv",
@@ -3551,10 +3957,6 @@
         "size": 3
       }
     ],
-    "prices": {
-      "pledge": 165,
-      "inGame": 3969000
-    },
     "conceptDate": "2019-02-14",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -3567,7 +3969,18 @@
       }
     },
     "minCrew": 1,
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 165,
+      "buy": [
+        {
+          "name": "New Deal",
+          "location": "Lorville",
+          "price": 3969000
+        }
+      ],
+      "rent": []
+    }
   },
   {
     "ref": "banu_defender",
@@ -3609,10 +4022,6 @@
         "count": 1
       }
     ],
-    "prices": {
-      "pledge": 220,
-      "inGame": 6237000
-    },
     "conceptDate": "2017-04-22",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -3625,7 +4034,23 @@
       }
     },
     "minCrew": 1,
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 220,
+      "buy": [
+        {
+          "name": "Astro Armada",
+          "location": "Area18",
+          "price": 6237000
+        }
+      ],
+      "rent": [
+        {
+          "name": "Regal Luxury Rentals",
+          "location": "New Babbage"
+        }
+      ]
+    }
   },
   {
     "ref": "banu_merchantman",
@@ -3646,15 +4071,16 @@
     "qtFuel": null,
     "role": "Heavy Freight",
     "size": 4,
-    "prices": {
-      "pledge": 650,
-      "inGame": null
-    },
     "conceptDate": "2013-11-11",
     "state": "In Concept",
     "flightCharacteristics": null,
     "minCrew": 4,
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 650,
+      "buy": [],
+      "rent": []
+    }
   },
   {
     "ref": "cnou_hoverquad",
@@ -3682,10 +4108,6 @@
         "count": 1
       }
     ],
-    "prices": {
-      "pledge": 30,
-      "inGame": 56700
-    },
     "conceptDate": "2022-02-03",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -3698,7 +4120,23 @@
       }
     },
     "minCrew": 1,
-    "vehicleType": "Snub"
+    "vehicleType": "Snub",
+    "availability": {
+      "pledge": 30,
+      "buy": [
+        {
+          "name": "Astro Armada",
+          "location": "Area18",
+          "price": 56700
+        },
+        {
+          "name": "New Deal",
+          "location": "Lorville",
+          "price": 56700
+        }
+      ],
+      "rent": []
+    }
   },
   {
     "ref": "cnou_mustang_alpha",
@@ -3738,10 +4176,6 @@
         "count": 2
       }
     ],
-    "prices": {
-      "pledge": 30,
-      "inGame": 642600
-    },
     "conceptDate": "2014-09-23",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -3754,7 +4188,31 @@
       }
     },
     "minCrew": 1,
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 30,
+      "buy": [
+        {
+          "name": "New Deal",
+          "location": "Lorville",
+          "price": 642600
+        }
+      ],
+      "rent": [
+        {
+          "name": "Traveler Rentals",
+          "location": "Area18"
+        },
+        {
+          "name": "Traveler Rentals",
+          "location": "Orison"
+        },
+        {
+          "name": "Vantage Rentals",
+          "location": "Lorville"
+        }
+      ]
+    }
   },
   {
     "ref": "cnou_mustang_beta",
@@ -3794,10 +4252,6 @@
         "count": 2
       }
     ],
-    "prices": {
-      "pledge": 40,
-      "inGame": 655200
-    },
     "conceptDate": "2014-12-19",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -3810,7 +4264,18 @@
       }
     },
     "minCrew": 1,
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 40,
+      "buy": [
+        {
+          "name": "New Deal",
+          "location": "Lorville",
+          "price": 655200
+        }
+      ],
+      "rent": []
+    }
   },
   {
     "ref": "cnou_mustang_delta",
@@ -3850,10 +4315,6 @@
         "count": 2
       }
     ],
-    "prices": {
-      "pledge": 65,
-      "inGame": 1228500
-    },
     "conceptDate": "2014-12-19",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -3866,7 +4327,18 @@
       }
     },
     "minCrew": 1,
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 65,
+      "buy": [
+        {
+          "name": "Astro Armada",
+          "location": "Area18",
+          "price": 1228500
+        }
+      ],
+      "rent": []
+    }
   },
   {
     "ref": "cnou_mustang_gamma",
@@ -3901,10 +4373,6 @@
         "count": 2
       }
     ],
-    "prices": {
-      "pledge": 55,
-      "inGame": 1178100
-    },
     "conceptDate": "2014-12-19",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -3917,7 +4385,23 @@
       }
     },
     "minCrew": 1,
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 55,
+      "buy": [
+        {
+          "name": "Astro Armada",
+          "location": "Area18",
+          "price": 1178100
+        }
+      ],
+      "rent": [
+        {
+          "name": "Regal Luxury Rentals",
+          "location": "New Babbage"
+        }
+      ]
+    }
   },
   {
     "ref": "cnou_mustang_omega",
@@ -3952,10 +4436,6 @@
         "count": 2
       }
     ],
-    "prices": {
-      "pledge": 55,
-      "inGame": null
-    },
     "conceptDate": "2014-12-19",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -3968,7 +4448,12 @@
       }
     },
     "minCrew": 1,
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 55,
+      "buy": [],
+      "rent": []
+    }
   },
   {
     "ref": "cnou_nomad",
@@ -4017,10 +4502,6 @@
         "type": "Tractor"
       }
     ],
-    "prices": {
-      "pledge": 80,
-      "inGame": 1512000
-    },
     "conceptDate": "2021-11-19",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -4033,7 +4514,39 @@
       }
     },
     "minCrew": 1,
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 80,
+      "buy": [
+        {
+          "name": "New Deal",
+          "location": "Lorville",
+          "price": 1512000
+        }
+      ],
+      "rent": [
+        {
+          "name": "Traveler Rentals",
+          "location": "Area18"
+        },
+        {
+          "name": "Traveler Rentals",
+          "location": "Orison"
+        },
+        {
+          "name": "Cargo Office Rentals",
+          "location": "Baijini Point"
+        },
+        {
+          "name": "Cargo Office Rentals",
+          "location": "Seraphim"
+        },
+        {
+          "name": "Traveler Rentals",
+          "location": "Everus Harbor"
+        }
+      ]
+    }
   },
   {
     "ref": "cnou_pioneer",
@@ -4054,15 +4567,16 @@
     "qtFuel": null,
     "role": "Heavy Construction",
     "size": 6,
-    "prices": {
-      "pledge": 925,
-      "inGame": null
-    },
     "conceptDate": "2017-10-26",
     "state": "In Concept",
-    "flightCharacteristics":  null,
+    "flightCharacteristics": null,
     "minCrew": 4,
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 925,
+      "buy": [],
+      "rent": []
+    }
   },
   {
     "ref": "crus_genesis",
@@ -4083,15 +4597,16 @@
     "qtFuel": null,
     "role": "Passenger Transport",
     "size": 4,
-    "prices": {
-      "pledge": 400,
-      "inGame": null
-    },
     "conceptDate": "2015-06-26",
     "state": "In Concept",
     "flightCharacteristics": null,
     "minCrew": 2,
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 400,
+      "buy": [],
+      "rent": []
+    }
   },
   {
     "ref": "crus_spirit_a1",
@@ -4138,10 +4653,6 @@
         "count": 1
       }
     ],
-    "prices": {
-      "pledge": 200,
-      "inGame": 4961250
-    },
     "conceptDate": "2022-10-08",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -4154,7 +4665,18 @@
       }
     },
     "minCrew": 2,
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 200,
+      "buy": [
+        {
+          "name": "Crusader Showroom",
+          "location": "Orison",
+          "price": 4961250
+        }
+      ],
+      "rent": []
+    }
   },
   {
     "ref": "crus_spirit_e1",
@@ -4175,15 +4697,16 @@
     "qtFuel": null,
     "role": "Passenger",
     "size": 3,
-    "prices": {
-      "pledge": 150,
-      "inGame": null
-    },
     "conceptDate": "2022-10-08",
     "state": "In Concept",
     "flightCharacteristics": null,
     "minCrew": 1,
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 150,
+      "buy": [],
+      "rent": []
+    }
   },
   {
     "ref": "crus_starlifter_a2",
@@ -4226,10 +4749,6 @@
         "count": 3
       }
     ],
-    "prices": {
-      "pledge": 750,
-      "inGame": 44296900
-    },
     "conceptDate": "2018-05-13",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -4241,7 +4760,18 @@
         "yaw": 18
       }
     },
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 750,
+      "buy": [
+        {
+          "name": "Crusader Showroom",
+          "location": "Orison",
+          "price": 44296876
+        }
+      ],
+      "rent": []
+    }
   },
   {
     "ref": "crus_starfighter_inferno",
@@ -4283,10 +4813,6 @@
         "count": 2
       }
     ],
-    "prices": {
-      "pledge": 250,
-      "inGame": 4725000
-    },
     "conceptDate": "2019-12-12",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -4299,7 +4825,18 @@
       }
     },
     "minCrew": 1,
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 250,
+      "buy": [
+        {
+          "name": "Crusader Showroom",
+          "location": "Orison",
+          "price": 4725000
+        }
+      ],
+      "rent": []
+    }
   },
   {
     "ref": "crus_starfighter_ion",
@@ -4341,10 +4878,6 @@
         "count": 2
       }
     ],
-    "prices": {
-      "pledge": 250,
-      "inGame": 4725000
-    },
     "conceptDate": "2019-12-12",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -4357,7 +4890,18 @@
       }
     },
     "minCrew": 1,
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 250,
+      "buy": [
+        {
+          "name": "Crusader Showroom",
+          "location": "Orison",
+          "price": 4725000
+        }
+      ],
+      "rent": []
+    }
   },
   {
     "ref": "crus_spirit_c1",
@@ -4406,10 +4950,6 @@
         "type": "Tractor"
       }
     ],
-    "prices": {
-      "pledge": 125,
-      "inGame": 3118500
-    },
     "conceptDate": "2022-10-08",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -4422,7 +4962,27 @@
       }
     },
     "minCrew": 2,
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 125,
+      "buy": [
+        {
+          "name": "Crusader Showroom",
+          "location": "Orison",
+          "price": 3118500
+        }
+      ],
+      "rent": [
+        {
+          "name": "Traveler Rentals",
+          "location": "Area18"
+        },
+        {
+          "name": "Traveler Rentals",
+          "location": "Orison"
+        }
+      ]
+    }
   },
   {
     "ref": "crus_starlifter_c2",
@@ -4457,10 +5017,6 @@
         "count": 2
       }
     ],
-    "prices": {
-      "pledge": 400,
-      "inGame": 18900000
-    },
     "conceptDate": "2018-05-13",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -4473,7 +5029,23 @@
       }
     },
     "minCrew": 2,
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 400,
+      "buy": [
+        {
+          "name": "Astro Armada",
+          "location": "Area18",
+          "price": 18900000
+        },
+        {
+          "name": "Crusader Showroom",
+          "location": "Orison",
+          "price": 18900000
+        }
+      ],
+      "rent": []
+    }
   },
   {
     "ref": "crus_intrepid",
@@ -4515,10 +5087,6 @@
         "count": 1
       }
     ],
-    "prices": {
-      "pledge": 65,
-      "inGame": 705600
-    },
     "conceptDate": "2024-11-22",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -4531,7 +5099,23 @@
       }
     },
     "minCrew": 1,
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 65,
+      "buy": [
+        {
+          "name": "Astro Armada",
+          "location": "Area18",
+          "price": 705600
+        },
+        {
+          "name": "New Deal",
+          "location": "Lorville",
+          "price": 705600
+        }
+      ],
+      "rent": []
+    }
   },
   {
     "ref": "crus_starlifter_m2",
@@ -4567,10 +5151,6 @@
         "count": 2
       }
     ],
-    "prices": {
-      "pledge": 520,
-      "inGame": 29484000
-    },
     "conceptDate": "2018-05-13",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -4582,7 +5162,23 @@
         "yaw": 18
       }
     },
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 520,
+      "buy": [
+        {
+          "name": "New Deal",
+          "location": "Lorville",
+          "price": 29484000
+        },
+        {
+          "name": "Crusader Showroom",
+          "location": "Orison",
+          "price": 29484000
+        }
+      ],
+      "rent": []
+    }
   },
   {
     "ref": "crus_star_runner",
@@ -4630,10 +5226,6 @@
         "count": 1
       }
     ],
-    "prices": {
-      "pledge": 260,
-      "inGame": 12285000
-    },
     "conceptDate": "2018-08-23",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -4645,7 +5237,18 @@
         "yaw": 23
       }
     },
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 260,
+      "buy": [
+        {
+          "name": "Crusader Showroom",
+          "location": "Orison",
+          "price": 12285000
+        }
+      ],
+      "rent": []
+    }
   },
   {
     "ref": "drak_buccaneer",
@@ -4697,10 +5300,6 @@
         "count": 1
       }
     ],
-    "prices": {
-      "pledge": 110,
-      "inGame": 1663200
-    },
     "conceptDate": "2016-05-27",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -4713,7 +5312,38 @@
       }
     },
     "minCrew": 1,
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 110,
+      "buy": [
+        {
+          "name": "New Deal",
+          "location": "Lorville",
+          "price": 1663200
+        },
+        {
+          "name": "Buy-&-Fly",
+          "location": "Checkmate",
+          "price": 1663200
+        },
+        {
+          "name": "Buy-&-Fly",
+          "location": "Orbituary",
+          "price": 1663200
+        },
+        {
+          "name": "Buy-&-Fly",
+          "location": "Ruin Station",
+          "price": 1663200
+        }
+      ],
+      "rent": [
+        {
+          "name": "Vantage Rentals",
+          "location": "Lorville"
+        }
+      ]
+    }
   },
   {
     "ref": "drak_caterpillar",
@@ -4756,10 +5386,6 @@
         "type": "Tractor"
       }
     ],
-    "prices": {
-      "pledge": 330,
-      "inGame": 12474000
-    },
     "conceptDate": "2012-11-18",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -4771,7 +5397,18 @@
         "yaw": 16
       }
     },
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 330,
+      "buy": [
+        {
+          "name": "New Deal",
+          "location": "Lorville",
+          "price": 12474000
+        }
+      ],
+      "rent": []
+    }
   },
   {
     "ref": "drak_corsair",
@@ -4819,10 +5456,6 @@
         "count": 1
       }
     ],
-    "prices": {
-      "pledge": 250,
-      "inGame": 6552000
-    },
     "conceptDate": "2016-12-14",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -4834,7 +5467,23 @@
         "yaw": 20
       }
     },
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 250,
+      "buy": [
+        {
+          "name": "New Deal",
+          "location": "Lorville",
+          "price": 6552000
+        }
+      ],
+      "rent": [
+        {
+          "name": "Vantage Rentals",
+          "location": "Lorville"
+        }
+      ]
+    }
   },
   {
     "ref": "drak_cutlass_black",
@@ -4894,10 +5543,6 @@
         "type": "Tractor"
       }
     ],
-    "prices": {
-      "pledge": 110,
-      "inGame": 2116800
-    },
     "conceptDate": "2012-11-17",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -4909,7 +5554,35 @@
         "yaw": 35
       }
     },
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 110,
+      "buy": [
+        {
+          "name": "New Deal",
+          "location": "Lorville",
+          "price": 2116800
+        }
+      ],
+      "rent": [
+        {
+          "name": "Cargo Office Rentals",
+          "location": "Seraphim"
+        },
+        {
+          "name": "Vantage Rentals",
+          "location": "CRU L1"
+        },
+        {
+          "name": "Vantage Rentals",
+          "location": "Lorville"
+        },
+        {
+          "name": "Traveler Rentals",
+          "location": "Everus Harbor"
+        }
+      ]
+    }
   },
   {
     "ref": "drak_cutlass_blue",
@@ -4964,10 +5637,6 @@
         "type": "QED"
       }
     ],
-    "prices": {
-      "pledge": 175,
-      "inGame": 3704400
-    },
     "conceptDate": "2014-11-11",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -4979,7 +5648,18 @@
         "yaw": 34
       }
     },
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 175,
+      "buy": [
+        {
+          "name": "New Deal",
+          "location": "Lorville",
+          "price": 3704400
+        }
+      ],
+      "rent": []
+    }
   },
   {
     "ref": "drak_cutlass_red",
@@ -5027,10 +5707,6 @@
         "size": 3
       }
     ],
-    "prices": {
-      "pledge": 135,
-      "inGame": 2857680
-    },
     "conceptDate": "2014-11-11",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -5042,7 +5718,38 @@
         "yaw": 32
       }
     },
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 135,
+      "buy": [
+        {
+          "name": "New Deal",
+          "location": "Lorville",
+          "price": 2857680
+        },
+        {
+          "name": "Buy-&-Fly",
+          "location": "Checkmate",
+          "price": 2857680
+        },
+        {
+          "name": "Buy-&-Fly",
+          "location": "Orbituary",
+          "price": 2857680
+        },
+        {
+          "name": "Buy-&-Fly",
+          "location": "Ruin Station",
+          "price": 2857680
+        }
+      ],
+      "rent": [
+        {
+          "name": "Vantage Rentals",
+          "location": "Lorville"
+        }
+      ]
+    }
   },
   {
     "ref": "drak_cutlass_steel",
@@ -5095,10 +5802,6 @@
         "count": 1
       }
     ],
-    "prices": {
-      "pledge": 235,
-      "inGame": 3997350
-    },
     "conceptDate": "2021-12-16",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -5110,7 +5813,18 @@
         "yaw": 30
       }
     },
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 235,
+      "buy": [
+        {
+          "name": "New Deal",
+          "location": "Lorville",
+          "price": 3997350
+        }
+      ],
+      "rent": []
+    }
   },
   {
     "ref": "drak_cutter",
@@ -5152,10 +5866,6 @@
         "count": 1
       }
     ],
-    "prices": {
-      "pledge": 45,
-      "inGame": 635040
-    },
     "conceptDate": "2022-11-17",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -5168,7 +5878,43 @@
       }
     },
     "minCrew": 1,
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 45,
+      "buy": [
+        {
+          "name": "New Deal",
+          "location": "Lorville",
+          "price": 625040
+        }
+      ],
+      "rent": [
+        {
+          "name": "Traveler Rentals",
+          "location": "Area18"
+        },
+        {
+          "name": "Traveler Rentals",
+          "location": "Orison"
+        },
+        {
+          "name": "Cargo Office Rentals",
+          "location": "Baijini Point"
+        },
+        {
+          "name": "Cargo Office Rentals",
+          "location": "Seraphim"
+        },
+        {
+          "name": "Vantage Rentals",
+          "location": "Lorville"
+        },
+        {
+          "name": "Traveler Rentals",
+          "location": "Everus Harbor"
+        }
+      ]
+    }
   },
   {
     "ref": "drak_cutter_rambler",
@@ -5210,10 +5956,6 @@
         "count": 1
       }
     ],
-    "prices": {
-      "pledge": 50,
-      "inGame": 740880
-    },
     "conceptDate": "2023-12-14",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -5226,7 +5968,18 @@
       }
     },
     "minCrew": 1,
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 50,
+      "buy": [
+        {
+          "name": "New Deal",
+          "location": "Lorville",
+          "price": 740880
+        }
+      ],
+      "rent": []
+    }
   },
   {
     "ref": "drak_cutter_scout",
@@ -5268,10 +6021,6 @@
         "count": 1
       }
     ],
-    "prices": {
-      "pledge": 50,
-      "inGame": 705600
-    },
     "conceptDate": "2023-10-21",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -5284,7 +6033,18 @@
       }
     },
     "minCrew": 1,
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 50,
+      "buy": [
+        {
+          "name": "New Deal",
+          "location": "Lorville",
+          "price": 705600
+        }
+      ],
+      "rent": []
+    }
   },
   {
     "ref": "drak_dragonfly",
@@ -5312,10 +6072,6 @@
         "type": "Laser"
       }
     ],
-    "prices": {
-      "pledge": 40,
-      "inGame": 342720
-    },
     "conceptDate": "2016-06-17",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -5328,7 +6084,46 @@
       }
     },
     "minCrew": 1,
-    "vehicleType": "Snub"
+    "vehicleType": "Snub",
+    "availability": {
+      "pledge": 40,
+      "buy": [
+        {
+          "name": "New Deal",
+          "location": "Lorville",
+          "price": 342720
+        },
+        {
+          "name": "Buy-&-Fly",
+          "location": "Checkmate",
+          "price": 342720
+        },
+        {
+          "name": "Buy-&-Fly",
+          "location": "Orbituary",
+          "price": 342720
+        },
+        {
+          "name": "Buy-&-Fly",
+          "location": "Ruin Station",
+          "price": 342720
+        }
+      ],
+      "rent": [
+        {
+          "name": "Traveler Rentals",
+          "location": "Area18"
+        },
+        {
+          "name": "Traveler Rentals",
+          "location": "Orison"
+        },
+        {
+          "name": "Vantage Rentals",
+          "location": "Lorville"
+        }
+      ]
+    }
   },
   {
     "ref": "drak_golem",
@@ -5377,10 +6172,6 @@
         "type": "Mining Beam"
       }
     ],
-    "prices": {
-      "pledge": 60,
-      "inGame": 1058400
-    },
     "conceptDate": "2025-03-20",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -5393,7 +6184,18 @@
       }
     },
     "minCrew": 1,
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 60,
+      "buy": [
+        {
+          "name": "New Deal",
+          "location": "Lorville",
+          "price": 1058400
+        }
+      ],
+      "rent": []
+    }
   },
   {
     "ref": "drak_herald",
@@ -5440,10 +6242,6 @@
         "count": 2
       }
     ],
-    "prices": {
-      "pledge": 85,
-      "inGame": 1285200
-    },
     "conceptDate": "2014-10-31",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -5456,7 +6254,18 @@
       }
     },
     "minCrew": 1,
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 85,
+      "buy": [
+        {
+          "name": "New Deal",
+          "location": "Lorville",
+          "price": 1285200
+        }
+      ],
+      "rent": []
+    }
   },
   {
     "ref": "drak_ironclad",
@@ -5477,15 +6286,16 @@
     "qtFuel": null,
     "role": "Armored Freight",
     "size": 4,
-    "prices": {
-      "pledge": 450,
-      "inGame": null
-    },
     "conceptDate": "2024-05-23",
     "state": "In Concept",
     "flightCharacteristics": null,
     "minCrew": 1,
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 450,
+      "buy": [],
+      "rent": []
+    }
   },
   {
     "ref": "drak_ironclad_assault",
@@ -5506,15 +6316,16 @@
     "qtFuel": null,
     "role": "Combined Arms Platform",
     "size": 4,
-    "prices": {
-      "pledge": 450,
-      "inGame": null
-    },
     "conceptDate": "2024-05-23",
     "state": "In Concept",
     "flightCharacteristics": null,
     "minCrew": 1,
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 450,
+      "buy": [],
+      "rent": []
+    }
   },
   {
     "ref": "drak_kraken",
@@ -5535,15 +6346,16 @@
     "qtFuel": null,
     "role": "Multi-Role / Light Carrier",
     "size": 6,
-    "prices": {
-      "pledge": 1650,
-      "inGame": null
-    },
     "conceptDate": "2018-10-09",
     "state": "In Concept",
     "flightCharacteristics": null,
     "minCrew": 4,
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 1650,
+      "buy": [],
+      "rent": []
+    }
   },
   {
     "ref": "drak_kraken_privateer",
@@ -5564,15 +6376,16 @@
     "qtFuel": null,
     "role": "Multi-Role / Light Carrier",
     "size": 6,
-    "prices": {
-      "pledge": 2000,
-      "inGame": null
-    },
     "conceptDate": "2019-11-30",
     "state": "In Concept",
     "flightCharacteristics": null,
     "minCrew": 4,
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 2000,
+      "buy": [],
+      "rent": []
+    }
   },
   {
     "ref": "drak_vulture",
@@ -5614,10 +6427,6 @@
         "count": 1
       }
     ],
-    "prices": {
-      "pledge": 175,
-      "inGame": 2646000
-    },
     "conceptDate": "2017-12-01",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -5630,7 +6439,33 @@
       }
     },
     "minCrew": 1,
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 175,
+      "buy": [
+        {
+          "name": "New Deal",
+          "location": "Lorville",
+          "price": 2646000
+        },
+        {
+          "name": "Buy-&-Fly",
+          "location": "Checkmate",
+          "price": 2646000
+        },
+        {
+          "name": "Buy-&-Fly",
+          "location": "Orbituary",
+          "price": 2646000
+        },
+        {
+          "name": "Buy-&-Fly",
+          "location": "Ruin Station",
+          "price": 2646000
+        }
+      ],
+      "rent": []
+    }
   },
   {
     "ref": "vncl_blade",
@@ -5677,10 +6512,6 @@
         "count": 2
       }
     ],
-    "prices": {
-      "pledge": 275,
-      "inGame": 7796250
-    },
     "conceptDate": "2016-04-21",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -5693,7 +6524,18 @@
       }
     },
     "minCrew": 1,
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 275,
+      "buy": [
+        {
+          "name": "Astro Armada",
+          "location": "Area18",
+          "price": 7796250
+        }
+      ],
+      "rent": []
+    }
   },
   {
     "ref": "vncl_glaive",
@@ -5740,10 +6582,6 @@
         "count": 2
       }
     ],
-    "prices": {
-      "pledge": 350,
-      "inGame": null
-    },
     "conceptDate": "2015-10-09",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -5756,7 +6594,12 @@
       }
     },
     "minCrew": 1,
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 350,
+      "buy": [],
+      "rent": []
+    }
   },
   {
     "ref": "espr_prowler",
@@ -5791,10 +6634,6 @@
         "count": 4
       }
     ],
-    "prices": {
-      "pledge": 440,
-      "inGame": 18711000
-    },
     "conceptDate": "2016-11-18",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -5807,7 +6646,18 @@
       }
     },
     "minCrew": 1,
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 440,
+      "buy": [
+        {
+          "name": "Astro Armada",
+          "location": "Area18",
+          "price": 18711000
+        }
+      ],
+      "rent": []
+    }
   },
   {
     "ref": "espr_prowler_utility",
@@ -5850,10 +6700,6 @@
         "type": "Tractor"
       }
     ],
-    "prices": {
-      "pledge": 300,
-      "inGame": null
-    },
     "conceptDate": "2025-01-01",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -5865,7 +6711,12 @@
         "yaw": 30
       }
     },
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 300,
+      "buy": [],
+      "rent": []
+    }
   },
   {
     "ref": "espr_talon",
@@ -5907,10 +6758,6 @@
         "type": "Missile"
       }
     ],
-    "prices": {
-      "pledge": 115,
-      "inGame": 3260250
-    },
     "conceptDate": "2020-07-27",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -5923,7 +6770,18 @@
       }
     },
     "minCrew": 1,
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 115,
+      "buy": [
+        {
+          "name": "Astro Armada",
+          "location": "Area18",
+          "price": 3260250
+        }
+      ],
+      "rent": []
+    }
   },
   {
     "ref": "espr_talon_shrike",
@@ -5965,10 +6823,6 @@
         "type": "Missile"
       }
     ],
-    "prices": {
-      "pledge": 115,
-      "inGame": 3260250
-    },
     "conceptDate": "2020-07-27",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -5981,7 +6835,18 @@
       }
     },
     "minCrew": 1,
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 115,
+      "buy": [
+        {
+          "name": "Astro Armada",
+          "location": "Area18",
+          "price": 3260250
+        }
+      ],
+      "rent": []
+    }
   },
   {
     "ref": "gama_railen",
@@ -6002,15 +6867,16 @@
     "qtFuel": null,
     "role": "Medium Freight",
     "size": 3,
-    "prices": {
-      "pledge": 225,
-      "inGame": null
-    },
     "conceptDate": "2021-06-10",
     "state": "In Concept",
     "flightCharacteristics": null,
     "minCrew": 1,
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 225,
+      "buy": [],
+      "rent": []
+    }
   },
   {
     "ref": "gama_syulen",
@@ -6052,10 +6918,6 @@
         "count": 2
       }
     ],
-    "prices": {
-      "pledge": 70,
-      "inGame": 2778300
-    },
     "conceptDate": "2023-11-16",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -6068,7 +6930,18 @@
       }
     },
     "minCrew": 1,
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 70,
+      "buy": [
+        {
+          "name": "Astro Armada",
+          "location": "Area18",
+          "price": 2778300
+        }
+      ],
+      "rent": []
+    }
   },
   {
     "ref": "krig_l21_wolf",
@@ -6110,10 +6983,6 @@
         "count": 2
       }
     ],
-    "prices": {
-      "pledge": 100,
-      "inGame": null
-    },
     "conceptDate": "2025-06-06",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -6126,7 +6995,12 @@
       }
     },
     "minCrew": 1,
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 100,
+      "buy": [],
+      "rent": []
+    }
   },
   {
     "ref": "krig_p52_merlin",
@@ -6166,10 +7040,6 @@
         "count": 1
       }
     ],
-    "prices": {
-      "pledge": 25,
-      "inGame": 283500
-    },
     "conceptDate": "2015-06-24",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -6182,7 +7052,18 @@
       }
     },
     "minCrew": 1,
-    "vehicleType": "Snub"
+    "vehicleType": "Snub",
+    "availability": {
+      "pledge": 25,
+      "buy": [
+        {
+          "name": "Astro Armada",
+          "location": "Area18",
+          "price": 283500
+        }
+      ],
+      "rent": []
+    }
   },
   {
     "ref": "krig_p72_archimedes",
@@ -6217,10 +7098,6 @@
         "count": 1
       }
     ],
-    "prices": {
-      "pledge": 35,
-      "inGame": 449820
-    },
     "conceptDate": "2015-11-19",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -6233,7 +7110,18 @@
       }
     },
     "minCrew": 1,
-    "vehicleType": "Snub"
+    "vehicleType": "Snub",
+    "availability": {
+      "pledge": 35,
+      "buy": [
+        {
+          "name": "Astro Armada",
+          "location": "Area18",
+          "price": 449820
+        }
+      ],
+      "rent": []
+    }
   },
   {
     "ref": "misc_expanse",
@@ -6254,15 +7142,16 @@
     "qtFuel": null,
     "role": "Refinery",
     "size": 2,
-    "prices": {
-      "pledge": 150,
-      "inGame": null
-    },
     "conceptDate": "2022-03-21",
     "state": "In Concept",
     "flightCharacteristics": null,
     "minCrew": 1,
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 150,
+      "buy": [],
+      "rent": []
+    }
   },
   {
     "ref": "misc_odyssey",
@@ -6283,15 +7172,16 @@
     "qtFuel": null,
     "role": "Expedition",
     "size": 4,
-    "prices": {
-      "pledge": 700,
-      "inGame": null
-    },
     "conceptDate": "2021-11-27",
     "state": "In Concept",
     "flightCharacteristics": null,
     "minCrew": 1,
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 700,
+      "buy": [],
+      "rent": []
+    }
   },
   {
     "ref": "misc_fury",
@@ -6333,10 +7223,6 @@
         "count": 1
       }
     ],
-    "prices": {
-      "pledge": 55,
-      "inGame": 727650
-    },
     "conceptDate": "2023-05-11",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -6349,7 +7235,23 @@
       }
     },
     "minCrew": 1,
-    "vehicleType": "Snub"
+    "vehicleType": "Snub",
+    "availability": {
+      "pledge": 55,
+      "buy": [
+        {
+          "name": "Astro Armada",
+          "location": "Area18",
+          "price": 727650
+        },
+        {
+          "name": "New Deal",
+          "location": "Lorville",
+          "price": 727650
+        }
+      ],
+      "rent": []
+    }
   },
   {
     "ref": "misc_fury_lx",
@@ -6377,10 +7279,6 @@
         "count": 1
       }
     ],
-    "prices": {
-      "pledge": 55,
-      "inGame": 824670
-    },
     "conceptDate": "2023-06-30",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -6393,7 +7291,18 @@
       }
     },
     "minCrew": 1,
-    "vehicleType": "Snub"
+    "vehicleType": "Snub",
+    "availability": {
+      "pledge": 55,
+      "buy": [
+        {
+          "name": "Astro Armada",
+          "location": "Area18",
+          "price": 824670
+        }
+      ],
+      "rent": []
+    }
   },
   {
     "ref": "misc_fury_miru",
@@ -6433,10 +7342,6 @@
         "count": 1
       }
     ],
-    "prices": {
-      "pledge": 55,
-      "inGame": 727650
-    },
     "conceptDate": "2023-05-11",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -6449,7 +7354,18 @@
       }
     },
     "minCrew": 1,
-    "vehicleType": "Snub"
+    "vehicleType": "Snub",
+    "availability": {
+      "pledge": 55,
+      "buy": [
+        {
+          "name": "New Deal",
+          "location": "Lorville",
+          "price": 727650
+        }
+      ],
+      "rent": []
+    }
   },
   {
     "ref": "mrai_guardian",
@@ -6491,10 +7407,6 @@
         "count": 1
       }
     ],
-    "prices": {
-      "pledge": 250,
-      "inGame": 6615000
-    },
     "conceptDate": "2024-12-20",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -6507,7 +7419,23 @@
       }
     },
     "minCrew": 1,
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 250,
+      "buy": [
+        {
+          "name": "Astro Armada",
+          "location": "Area18",
+          "price": 6615000
+        },
+        {
+          "name": "New Deal",
+          "location": "Lorville",
+          "price": 6615000
+        }
+      ],
+      "rent": []
+    }
   },
   {
     "ref": "mrai_guardian_mx",
@@ -6549,10 +7477,6 @@
         "count": 2
       }
     ],
-    "prices": {
-      "pledge": 290,
-      "inGame": null
-    },
     "conceptDate": "2025-05-08",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -6565,7 +7489,12 @@
       }
     },
     "minCrew": 1,
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 290,
+      "buy": [],
+      "rent": []
+    }
   },
   {
     "ref": "mrai_guardian_qi",
@@ -6614,10 +7543,6 @@
         "count": 1
       }
     ],
-    "prices": {
-      "pledge": 260,
-      "inGame": null
-    },
     "conceptDate": "2024-12-20",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -6630,7 +7555,12 @@
       }
     },
     "minCrew": 1,
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 260,
+      "buy": [],
+      "rent": []
+    }
   },
   {
     "ref": "mrai_pulse",
@@ -6658,10 +7588,6 @@
         "type": "Laser"
       }
     ],
-    "prices": {
-      "pledge": 30,
-      "inGame": 185220
-    },
     "conceptDate": "2024-05-10",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -6674,7 +7600,23 @@
       }
     },
     "minCrew": 1,
-    "vehicleType": "Snub"
+    "vehicleType": "Snub",
+    "availability": {
+      "pledge": 30,
+      "buy": [
+        {
+          "name": "Astro Armada",
+          "location": "Area18",
+          "price": 185220
+        },
+        {
+          "name": "New Deal",
+          "location": "Lorville",
+          "price": 185220
+        }
+      ],
+      "rent": []
+    }
   },
   {
     "ref": "mrai_pulse_lx",
@@ -6695,10 +7637,6 @@
     "qtFuel": null,
     "role": "Racing",
     "size": 1,
-    "prices": {
-      "pledge": 30,
-      "inGame": 211680
-    },
     "conceptDate": "2024-05-10",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -6711,7 +7649,18 @@
       }
     },
     "minCrew": 1,
-    "vehicleType": "Snub"
+    "vehicleType": "Snub",
+    "availability": {
+      "pledge": 30,
+      "buy": [
+        {
+          "name": "New Deal",
+          "location": "Lorville",
+          "price": 211680
+        }
+      ],
+      "rent": []
+    }
   },
   {
     "ref": "misc_razor",
@@ -6753,10 +7702,6 @@
         "type": "Shield"
       }
     ],
-    "prices": {
-      "pledge": 145,
-      "inGame": 1863540
-    },
     "conceptDate": "2016-12-14",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -6769,7 +7714,18 @@
       }
     },
     "minCrew": 1,
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 145,
+      "buy": [
+        {
+          "name": "New Deal",
+          "location": "Lorville",
+          "price": 1863540
+        }
+      ],
+      "rent": []
+    }
   },
   {
     "ref": "misc_razor_ex",
@@ -6811,10 +7767,6 @@
         "type": "Shield"
       }
     ],
-    "prices": {
-      "pledge": 155,
-      "inGame": 1757700
-    },
     "conceptDate": "2016-12-14",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -6827,7 +7779,23 @@
       }
     },
     "minCrew": 1,
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 155,
+      "buy": [
+        {
+          "name": "Astro Armada",
+          "location": "Area18",
+          "price": 1757700
+        },
+        {
+          "name": "New Deal",
+          "location": "Lorville",
+          "price": 1757700
+        }
+      ],
+      "rent": []
+    }
   },
   {
     "ref": "misc_razor_lx",
@@ -6862,10 +7830,6 @@
         "type": "Shield"
       }
     ],
-    "prices": {
-      "pledge": 150,
-      "inGame": 1927800
-    },
     "conceptDate": "2016-12-14",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -6878,7 +7842,23 @@
       }
     },
     "minCrew": 1,
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 150,
+      "buy": [
+        {
+          "name": "Astro Armada",
+          "location": "Area18",
+          "price": 1927800
+        },
+        {
+          "name": "New Deal",
+          "location": "Lorville",
+          "price": 1927800
+        }
+      ],
+      "rent": []
+    }
   },
   {
     "ref": "misc_fortune",
@@ -6920,10 +7900,6 @@
         "type": "Shield"
       }
     ],
-    "prices": {
-      "pledge": 175,
-      "inGame": 1890000
-    },
     "conceptDate": "2025-01-28",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -6936,7 +7912,18 @@
       }
     },
     "minCrew": 1,
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 175,
+      "buy": [
+        {
+          "name": "New Deal",
+          "location": "Lorville",
+          "price": 1890000
+        }
+      ],
+      "rent": []
+    }
   },
   {
     "ref": "misc_freelancer",
@@ -6984,10 +7971,6 @@
         "type": "Shield"
       }
     ],
-    "prices": {
-      "pledge": 110,
-      "inGame": 3118500
-    },
     "conceptDate": "2012-10-18",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -6999,7 +7982,23 @@
         "yaw": 30
       }
     },
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 110,
+      "buy": [
+        {
+          "name": "New Deal",
+          "location": "Lorville",
+          "price": 3118500
+        }
+      ],
+      "rent": [
+        {
+          "name": "Vantage Rentals",
+          "location": "Lorville"
+        }
+      ]
+    }
   },
   {
     "ref": "misc_freelancer_dur",
@@ -7047,10 +8046,6 @@
         "type": "Shield"
       }
     ],
-    "prices": {
-      "pledge": 135,
-      "inGame": 3316950
-    },
     "conceptDate": "2014-06-06",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -7062,7 +8057,18 @@
         "yaw": 30
       }
     },
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 135,
+      "buy": [
+        {
+          "name": "New Deal",
+          "location": "Lorville",
+          "price": 3316950
+        }
+      ],
+      "rent": []
+    }
   },
   {
     "ref": "misc_freelancer_max",
@@ -7110,10 +8116,6 @@
         "type": "Shield"
       }
     ],
-    "prices": {
-      "pledge": 150,
-      "inGame": 4252500
-    },
     "conceptDate": "2014-06-06",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -7125,7 +8127,35 @@
         "yaw": 28
       }
     },
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 150,
+      "buy": [
+        {
+          "name": "New Deal",
+          "location": "Lorville",
+          "price": 4252500
+        }
+      ],
+      "rent": [
+        {
+          "name": "Cargo Office Rentals",
+          "location": "Baijini Point"
+        },
+        {
+          "name": "Cargo Office Rentals",
+          "location": "Seraphim"
+        },
+        {
+          "name": "Vantage Rentals",
+          "location": "Lorville"
+        },
+        {
+          "name": "Traveler Rentals",
+          "location": "Everus Harbor"
+        }
+      ]
+    }
   },
   {
     "ref": "misc_freelancer_mis",
@@ -7173,10 +8203,6 @@
         "type": "Shield"
       }
     ],
-    "prices": {
-      "pledge": 175,
-      "inGame": 4961250
-    },
     "conceptDate": "2014-06-06",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -7188,7 +8214,18 @@
         "yaw": 31
       }
     },
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 175,
+      "buy": [
+        {
+          "name": "New Deal",
+          "location": "Lorville",
+          "price": 4961250
+        }
+      ],
+      "rent": []
+    }
   },
   {
     "ref": "misc_hull_a",
@@ -7223,10 +8260,6 @@
         "type": "Shield"
       }
     ],
-    "prices": {
-      "pledge": 90,
-      "inGame": 1701000
-    },
     "conceptDate": "2015-04-24",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -7239,7 +8272,35 @@
       }
     },
     "minCrew": 1,
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 90,
+      "buy": [
+        {
+          "name": "New Deal",
+          "location": "Lorville",
+          "price": 1701000
+        }
+      ],
+      "rent": [
+        {
+          "name": "Cargo Office Rentals",
+          "location": "Baijini Point"
+        },
+        {
+          "name": "Cargo Office Rentals",
+          "location": "Seraphim"
+        },
+        {
+          "name": "Vantage Rentals",
+          "location": "Lorville"
+        },
+        {
+          "name": "Traveler Rentals",
+          "location": "Everus Harbor"
+        }
+      ]
+    }
   },
   {
     "ref": "misc_hull_b",
@@ -7260,15 +8321,16 @@
     "qtFuel": null,
     "role": "Heavy Freight",
     "size": 3,
-    "prices": {
-      "pledge": 140,
-      "inGame": null
-    },
     "conceptDate": "2015-04-24",
     "state": "In Concept",
     "flightCharacteristics": null,
     "minCrew": 1,
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 140,
+      "buy": [],
+      "rent": []
+    }
   },
   {
     "ref": "misc_hull_c",
@@ -7311,10 +8373,6 @@
         "type": "Tractor"
       }
     ],
-    "prices": {
-      "pledge": 500,
-      "inGame": 16537500
-    },
     "conceptDate": "2015-04-24",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -7326,7 +8384,18 @@
         "yaw": 16
       }
     },
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 500,
+      "buy": [
+        {
+          "name": "New Deal",
+          "location": "Lorville",
+          "price": 16537500
+        }
+      ],
+      "rent": []
+    }
   },
   {
     "ref": "misc_hull_d",
@@ -7347,15 +8416,16 @@
     "qtFuel": null,
     "role": "Heavy Freight",
     "size": 6,
-    "prices": {
-      "pledge": 550,
-      "inGame": null
-    },
     "conceptDate": "2015-04-24",
     "state": "In Concept",
     "flightCharacteristics": null,
     "minCrew": 3,
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 550,
+      "buy": [],
+      "rent": []
+    }
   },
   {
     "ref": "misc_hull_e",
@@ -7376,15 +8446,16 @@
     "qtFuel": null,
     "role": "Heavy Freight",
     "size": 6,
-    "prices": {
-      "pledge": 750,
-      "inGame": null
-    },
     "conceptDate": "2015-04-24",
     "state": "In Concept",
     "flightCharacteristics": null,
     "minCrew": 4,
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 750,
+      "buy": [],
+      "rent": []
+    }
   },
   {
     "ref": "misc_prospector",
@@ -7426,10 +8497,6 @@
         "type": "Mining Beam"
       }
     ],
-    "prices": {
-      "pledge": 155,
-      "inGame": 2929500
-    },
     "conceptDate": "2016-04-22",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -7442,7 +8509,54 @@
       }
     },
     "minCrew": 1,
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 155,
+      "buy": [
+        {
+          "name": "New Deal",
+          "location": "Lorville",
+          "price": 2929500
+        },
+        {
+          "name": "Buy-&-Fly",
+          "location": "Checkmate",
+          "price": 2929500
+        },
+        {
+          "name": "Buy-&-Fly",
+          "location": "Orbituary",
+          "price": 2929500
+        },
+        {
+          "name": "Buy-&-Fly",
+          "location": "Ruin Station",
+          "price": 2929500
+        }
+      ],
+      "rent": [
+        {
+          "name": "Cargo Office Rentals",
+          "location": "Baijini Point"
+        },
+        {
+          "name": "Cargo Office Rentals",
+          "location": "Seraphim"
+        },
+        {
+          "name": "Vantage Rentals",
+          "location": "CRU L1"
+        },
+        {
+          "name": "Vantage Rentals",
+          "location": "Lorville"
+        },
+        {
+          "name": "Traveler Rentals",
+          "location": "Everus Harbor"
+        }
+      ]
+    }
   },
   {
     "ref": "misc_reliant",
@@ -7492,10 +8606,6 @@
         "type": "Shield"
       }
     ],
-    "prices": {
-      "pledge": 65,
-      "inGame": 1719900
-    },
     "conceptDate": "2015-05-22",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -7507,7 +8617,23 @@
         "yaw": 43
       }
     },
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 65,
+      "buy": [
+        {
+          "name": "New Deal",
+          "location": "Lorville",
+          "price": 1719900
+        }
+      ],
+      "rent": [
+        {
+          "name": "Vantage Rentals",
+          "location": "Lorville"
+        }
+      ]
+    }
   },
   {
     "ref": "misc_reliant_mako",
@@ -7550,10 +8676,6 @@
         "type": "Shield"
       }
     ],
-    "prices": {
-      "pledge": 95,
-      "inGame": 2513700
-    },
     "conceptDate": "2015-12-16",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -7565,7 +8687,18 @@
         "yaw": 43
       }
     },
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 95,
+      "buy": [
+        {
+          "name": "New Deal",
+          "location": "Lorville",
+          "price": 2513700
+        }
+      ],
+      "rent": []
+    }
   },
   {
     "ref": "misc_reliant_sen",
@@ -7608,10 +8741,6 @@
         "type": "Shield"
       }
     ],
-    "prices": {
-      "pledge": 85,
-      "inGame": 2249100
-    },
     "conceptDate": "2015-12-16",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -7623,7 +8752,18 @@
         "yaw": 43
       }
     },
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 85,
+      "buy": [
+        {
+          "name": "New Deal",
+          "location": "Lorville",
+          "price": 2249100
+        }
+      ],
+      "rent": []
+    }
   },
   {
     "ref": "misc_reliant_tana",
@@ -7671,10 +8811,6 @@
         "type": "Shield"
       }
     ],
-    "prices": {
-      "pledge": 75,
-      "inGame": 1984500
-    },
     "conceptDate": "2015-12-16",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -7686,7 +8822,18 @@
         "yaw": 45
       }
     },
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 75,
+      "buy": [
+        {
+          "name": "New Deal",
+          "location": "Lorville",
+          "price": 1984500
+        }
+      ],
+      "rent": []
+    }
   },
   {
     "ref": "misc_starfarer",
@@ -7722,10 +8869,6 @@
         "type": "Shield"
       }
     ],
-    "prices": {
-      "pledge": 300,
-      "inGame": 13230000
-    },
     "conceptDate": "2012-10-18",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -7737,7 +8880,18 @@
         "yaw": 23
       }
     },
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 300,
+      "buy": [
+        {
+          "name": "New Deal",
+          "location": "Lorville",
+          "price": 13230000
+        }
+      ],
+      "rent": []
+    }
   },
   {
     "ref": "misc_starfarer_gemini",
@@ -7780,10 +8934,6 @@
         "type": "Shield"
       }
     ],
-    "prices": {
-      "pledge": 340,
-      "inGame": 14994000
-    },
     "conceptDate": "2015-05-09",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -7795,7 +8945,18 @@
         "yaw": 23
       }
     },
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 340,
+      "buy": [
+        {
+          "name": "New Deal",
+          "location": "Lorville",
+          "price": 14994000
+        }
+      ],
+      "rent": []
+    }
   },
   {
     "ref": "misc_starlancer_max",
@@ -7838,10 +8999,6 @@
         "type": "Shield"
       }
     ],
-    "prices": {
-      "pledge": 250,
-      "inGame": 8820000
-    },
     "conceptDate": "2024-10-20",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -7853,7 +9010,23 @@
         "yaw": 31
       }
     },
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 250,
+      "buy": [
+        {
+          "name": "Astro Armada",
+          "location": "Area18",
+          "price": 8820000
+        },
+        {
+          "name": "New Deal",
+          "location": "Lorville",
+          "price": 8820000
+        }
+      ],
+      "rent": []
+    }
   },
   {
     "ref": "misc_starlancer_tac",
@@ -7895,10 +9068,6 @@
         "type": "Shield"
       }
     ],
-    "prices": {
-      "pledge": 375,
-      "inGame": null
-    },
     "conceptDate": "2024-10-20",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -7911,7 +9080,12 @@
       }
     },
     "minCrew": 1,
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 375,
+      "buy": [],
+      "rent": []
+    }
   },
   {
     "ref": "orig_100i",
@@ -7953,10 +9127,6 @@
         "type": "Shield"
       }
     ],
-    "prices": {
-      "pledge": 50,
-      "inGame": 1146600
-    },
     "conceptDate": "2018-04-18",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -7969,7 +9139,28 @@
       }
     },
     "minCrew": 1,
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 50,
+      "buy": [
+        {
+          "name": "Astro Armada",
+          "location": "Area18",
+          "price": 1146600
+        },
+        {
+          "name": "New Deal",
+          "location": "Lorville",
+          "price": 1146600
+        }
+      ],
+      "rent": [
+        {
+          "name": "Regal Luxury Rentals",
+          "location": "New Babbage"
+        }
+      ]
+    }
   },
   {
     "ref": "orig_125a",
@@ -8011,10 +9202,6 @@
         "type": "Shield"
       }
     ],
-    "prices": {
-      "pledge": 60,
-      "inGame": 1587600
-    },
     "conceptDate": "2018-04-18",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -8027,7 +9214,18 @@
       }
     },
     "minCrew": 1,
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 60,
+      "buy": [
+        {
+          "name": "New Deal",
+          "location": "Lorville",
+          "price": 1587600
+        }
+      ],
+      "rent": []
+    }
   },
   {
     "ref": "orig_135c",
@@ -8069,10 +9267,6 @@
         "type": "Shield"
       }
     ],
-    "prices": {
-      "pledge": 65,
-      "inGame": 1490580
-    },
     "conceptDate": "2018-04-18",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -8085,7 +9279,18 @@
       }
     },
     "minCrew": 1,
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 65,
+      "buy": [
+        {
+          "name": "Astro Armada",
+          "location": "Area18",
+          "price": 1490580
+        }
+      ],
+      "rent": []
+    }
   },
   {
     "ref": "orig_300i",
@@ -8127,10 +9332,6 @@
         "type": "Shield"
       }
     ],
-    "prices": {
-      "pledge": 60,
-      "inGame": 1375920
-    },
     "conceptDate": "2013-06-21",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -8143,7 +9344,23 @@
       }
     },
     "minCrew": 1,
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 60,
+      "buy": [
+        {
+          "name": "Astro Armada",
+          "location": "Area18",
+          "price": 1375920
+        }
+      ],
+      "rent": [
+        {
+          "name": "Regal Luxury Rentals",
+          "location": "New Babbage"
+        }
+      ]
+    }
   },
   {
     "ref": "orig_315p",
@@ -8185,10 +9402,6 @@
         "type": "Shield"
       }
     ],
-    "prices": {
-      "pledge": 65,
-      "inGame": 1490580
-    },
     "conceptDate": "2013-06-21",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -8201,7 +9414,18 @@
       }
     },
     "minCrew": 1,
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 65,
+      "buy": [
+        {
+          "name": "Astro Armada",
+          "location": "Area18",
+          "price": 1490580
+        }
+      ],
+      "rent": []
+    }
   },
   {
     "ref": "orig_325a",
@@ -8253,10 +9477,6 @@
         "type": "Shield"
       }
     ],
-    "prices": {
-      "pledge": 70,
-      "inGame": 1852200
-    },
     "conceptDate": "2014-08-04",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -8269,7 +9489,23 @@
       }
     },
     "minCrew": 1,
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 70,
+      "buy": [
+        {
+          "name": "Astro Armada",
+          "location": "Area18",
+          "price": 1852200
+        }
+      ],
+      "rent": [
+        {
+          "name": "Regal Luxury Rentals",
+          "location": "New Babbage"
+        }
+      ]
+    }
   },
   {
     "ref": "orig_350r",
@@ -8311,10 +9547,6 @@
         "type": "Shield"
       }
     ],
-    "prices": {
-      "pledge": 125,
-      "inGame": 3748500
-    },
     "conceptDate": "2014-08-04",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -8327,7 +9559,18 @@
       }
     },
     "minCrew": 1,
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 125,
+      "buy": [
+        {
+          "name": "Astro Armada",
+          "location": "Area18",
+          "price": 3748500
+        }
+      ],
+      "rent": []
+    }
   },
   {
     "ref": "orig_400i",
@@ -8375,10 +9618,6 @@
         "type": "Shield"
       }
     ],
-    "prices": {
-      "pledge": 250,
-      "inGame": 11466000
-    },
     "conceptDate": "2021-10-09",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -8390,7 +9629,23 @@
         "yaw": 35
       }
     },
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 250,
+      "buy": [
+        {
+          "name": "Astro Armada",
+          "location": "Area18",
+          "price": 11466000
+        },
+        {
+          "name": "New Deal",
+          "location": "Lorville",
+          "price": 11466000
+        }
+      ],
+      "rent": []
+    }
   },
   {
     "ref": "orig_600i",
@@ -8433,10 +9688,6 @@
         "type": "Shield"
       }
     ],
-    "prices": {
-      "pledge": 475,
-      "inGame": 27231800
-    },
     "conceptDate": "2017-10-26",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -8448,7 +9699,23 @@
         "yaw": 19
       }
     },
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 475,
+      "buy": [
+        {
+          "name": "Astro Armada",
+          "location": "Area18",
+          "price": 27231750
+        }
+      ],
+      "rent": [
+        {
+          "name": "Regal Luxury Rentals",
+          "location": "New Babbage"
+        }
+      ]
+    }
   },
   {
     "ref": "orig_600i_touring",
@@ -8491,10 +9758,6 @@
         "type": "Shield"
       }
     ],
-    "prices": {
-      "pledge": 435,
-      "inGame": 24938600
-    },
     "conceptDate": "2017-10-26",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -8506,7 +9769,18 @@
         "yaw": 19
       }
     },
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 435,
+      "buy": [
+        {
+          "name": "Astro Armada",
+          "location": "Area18",
+          "price": 24938550
+        }
+      ],
+      "rent": []
+    }
   },
   {
     "ref": "orig_85x",
@@ -8541,10 +9815,6 @@
         "type": "Shield"
       }
     ],
-    "prices": {
-      "pledge": 50,
-      "inGame": null
-    },
     "conceptDate": "2016-11-18",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -8557,7 +9827,18 @@
       }
     },
     "minCrew": 1,
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 50,
+      "buy": [
+        {
+          "name": "New Deal",
+          "location": "Lorville",
+          "price": 573300
+        }
+      ],
+      "rent": []
+    }
   },
   {
     "ref": "orig_890jump",
@@ -8593,10 +9874,6 @@
         "type": "Shield"
       }
     ],
-    "prices": {
-      "pledge": 950,
-      "inGame": 65356200
-    },
     "conceptDate": "2014-08-04",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -8608,7 +9885,23 @@
         "yaw": 10
       }
     },
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 950,
+      "buy": [
+        {
+          "name": "Astro Armada",
+          "location": "Area18",
+          "price": 65356200
+        },
+        {
+          "name": "New Deal",
+          "location": "Lorville",
+          "price": 65356200
+        }
+      ],
+      "rent": []
+    }
   },
   {
     "ref": "orig_g12",
@@ -8629,15 +9922,16 @@
     "qtFuel": null,
     "role": "Touring",
     "size": 1,
-    "prices": {
-      "pledge": 60,
-      "inGame": null
-    },
     "conceptDate": "2020-06-07",
     "state": "In Concept",
     "flightCharacteristics": null,
     "minCrew": 1,
-    "vehicleType": "Ground"
+    "vehicleType": "Ground",
+    "availability": {
+      "pledge": 60,
+      "buy": [],
+      "rent": []
+    }
   },
   {
     "ref": "orig_g12a",
@@ -8658,15 +9952,16 @@
     "qtFuel": null,
     "role": "Military",
     "size": 1,
-    "prices": {
-      "pledge": 60,
-      "inGame": null
-    },
     "conceptDate": "2020-06-07",
     "state": "In Concept",
     "flightCharacteristics": null,
     "minCrew": 1,
-    "vehicleType": "Ground"
+    "vehicleType": "Ground",
+    "availability": {
+      "pledge": 60,
+      "buy": [],
+      "rent": []
+    }
   },
   {
     "ref": "orig_g12r",
@@ -8687,15 +9982,16 @@
     "qtFuel": null,
     "role": "Racing",
     "size": 1,
-    "prices": {
-      "pledge": 60,
-      "inGame": null
-    },
     "conceptDate": "2020-06-07",
     "state": "In Concept",
     "flightCharacteristics": null,
     "minCrew": 1,
-    "vehicleType": "Ground"
+    "vehicleType": "Ground",
+    "availability": {
+      "pledge": 60,
+      "buy": [],
+      "rent": []
+    }
   },
   {
     "ref": "orig_m50",
@@ -8737,10 +10033,6 @@
         "type": "Shield"
       }
     ],
-    "prices": {
-      "pledge": 100,
-      "inGame": 1499400
-    },
     "conceptDate": "2012-11-18",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -8753,7 +10045,28 @@
       }
     },
     "minCrew": 1,
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 100,
+      "buy": [
+        {
+          "name": "Astro Armada",
+          "location": "Area18",
+          "price": 1499400
+        },
+        {
+          "name": "New Deal",
+          "location": "Lorville",
+          "price": 1499400
+        }
+      ],
+      "rent": [
+        {
+          "name": "Regal Luxury Rentals",
+          "location": "New Babbage"
+        }
+      ]
+    }
   },
   {
     "ref": "orig_x1",
@@ -8781,10 +10094,6 @@
         "type": "Laser"
       }
     ],
-    "prices": {
-      "pledge": 45,
-      "inGame": 105840
-    },
     "conceptDate": "2017-09-28",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -8797,7 +10106,18 @@
       }
     },
     "minCrew": 1,
-    "vehicleType": "Snub"
+    "vehicleType": "Snub",
+    "availability": {
+      "pledge": 45,
+      "buy": [
+        {
+          "name": "Astro Armada",
+          "location": "Area18",
+          "price": 105840
+        }
+      ],
+      "rent": []
+    }
   },
   {
     "ref": "orig_x1_force",
@@ -8832,10 +10152,6 @@
         "type": "Shield"
       }
     ],
-    "prices": {
-      "pledge": 55,
-      "inGame": 132300
-    },
     "conceptDate": "2017-09-28",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -8848,7 +10164,23 @@
       }
     },
     "minCrew": 1,
-    "vehicleType": "Snub"
+    "vehicleType": "Snub",
+    "availability": {
+      "pledge": 55,
+      "buy": [
+        {
+          "name": "Astro Armada",
+          "location": "Area18",
+          "price": 132300
+        },
+        {
+          "name": "New Deal",
+          "location": "Lorville",
+          "price": 132300
+        }
+      ],
+      "rent": []
+    }
   },
   {
     "ref": "orig_x1_velocity",
@@ -8869,10 +10201,6 @@
     "qtFuel": null,
     "role": "Racing",
     "size": 1,
-    "prices": {
-      "pledge": 50,
-      "inGame": 119070
-    },
     "conceptDate": "2017-09-28",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -8885,7 +10213,18 @@
       }
     },
     "minCrew": 1,
-    "vehicleType": "Snub"
+    "vehicleType": "Snub",
+    "availability": {
+      "pledge": 50,
+      "buy": [
+        {
+          "name": "Astro Armada",
+          "location": "Area18",
+          "price": 119070
+        }
+      ],
+      "rent": []
+    }
   },
   {
     "ref": "rsi_apollo_medivac",
@@ -8935,10 +10274,6 @@
         "size": 1
       }
     ],
-    "prices": {
-      "pledge": 290,
-      "inGame": null
-    },
     "conceptDate": "2018-07-19",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -8950,7 +10285,12 @@
         "roll": 65
       }
     },
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 290,
+      "buy": [],
+      "rent": []
+    }
   },
   {
     "ref": "rsi_apollo_triage",
@@ -9000,10 +10340,6 @@
         "size": 1
       }
     ],
-    "prices": {
-      "pledge": 260,
-      "inGame": null
-    },
     "conceptDate": "2018-07-19",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -9015,7 +10351,12 @@
         "roll": 65
       }
     },
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 260,
+      "buy": [],
+      "rent": []
+    }
   },
   {
     "ref": "rsi_arrastra",
@@ -9037,14 +10378,15 @@
     "qtFuel": null,
     "role": "Mining / Refining",
     "size": 4,
-    "prices": {
-      "pledge": 575,
-      "inGame": null
-    },
     "conceptDate": "2023-11-25",
     "state": "In Concept",
     "flightCharacteristics": null,
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 575,
+      "buy": [],
+      "rent": []
+    }
   },
   {
     "ref": "rsi_aurora_cl",
@@ -9086,10 +10428,6 @@
         "type": "Shield"
       }
     ],
-    "prices": {
-      "pledge": 45,
-      "inGame": 1020600
-    },
     "conceptDate": "2013-04-26",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -9102,7 +10440,31 @@
       }
     },
     "minCrew": 1,
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 45,
+      "buy": [
+        {
+          "name": "New Deal",
+          "location": "Lorville",
+          "price": 1020600
+        }
+      ],
+      "rent": [
+        {
+          "name": "Traveler Rentals",
+          "location": "Area18"
+        },
+        {
+          "name": "Traveler Rentals",
+          "location": "Orison"
+        },
+        {
+          "name": "Vantage Rentals",
+          "location": "Lorville"
+        }
+      ]
+    }
   },
   {
     "ref": "rsi_aurora_es",
@@ -9144,10 +10506,6 @@
         "type": "Shield"
       }
     ],
-    "prices": {
-      "pledge": 20,
-      "inGame": 423360
-    },
     "conceptDate": "2013-04-26",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -9160,7 +10518,31 @@
       }
     },
     "minCrew": 1,
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 20,
+      "buy": [
+        {
+          "name": "New Deal",
+          "location": "Lorville",
+          "price": 423360
+        }
+      ],
+      "rent": [
+        {
+          "name": "Traveler Rentals",
+          "location": "Area18"
+        },
+        {
+          "name": "Traveler Rentals",
+          "location": "Orison"
+        },
+        {
+          "name": "Vantage Rentals",
+          "location": "Lorville"
+        }
+      ]
+    }
   },
   {
     "ref": "rsi_aurora_ln",
@@ -9202,10 +10584,6 @@
         "type": "Shield"
       }
     ],
-    "prices": {
-      "pledge": 40,
-      "inGame": 907200
-    },
     "conceptDate": "2013-05-04",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -9218,7 +10596,31 @@
       }
     },
     "minCrew": 1,
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 40,
+      "buy": [
+        {
+          "name": "New Deal",
+          "location": "Lorville",
+          "price": 907200
+        }
+      ],
+      "rent": [
+        {
+          "name": "Traveler Rentals",
+          "location": "Area18"
+        },
+        {
+          "name": "Traveler Rentals",
+          "location": "Orison"
+        },
+        {
+          "name": "Vantage Rentals",
+          "location": "Lorville"
+        }
+      ]
+    }
   },
   {
     "ref": "rsi_aurora_lx",
@@ -9260,10 +10662,6 @@
         "type": "Shield"
       }
     ],
-    "prices": {
-      "pledge": 35,
-      "inGame": 687960
-    },
     "conceptDate": "2013-04-26",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -9276,7 +10674,18 @@
       }
     },
     "minCrew": 1,
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 35,
+      "buy": [
+        {
+          "name": "New Deal",
+          "location": "Lorville",
+          "price": 687960
+        }
+      ],
+      "rent": []
+    }
   },
   {
     "ref": "rsi_aurora_mr",
@@ -9318,10 +10727,6 @@
         "type": "Shield"
       }
     ],
-    "prices": {
-      "pledge": 30,
-      "inGame": 680400
-    },
     "conceptDate": "2012-10-18",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -9334,7 +10739,31 @@
       }
     },
     "minCrew": 1,
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 30,
+      "buy": [
+        {
+          "name": "New Deal",
+          "location": "Lorville",
+          "price": 680400
+        }
+      ],
+      "rent": [
+        {
+          "name": "Traveler Rentals",
+          "location": "Area18"
+        },
+        {
+          "name": "Traveler Rentals",
+          "location": "Orison"
+        },
+        {
+          "name": "Vantage Rentals",
+          "location": "Lorville"
+        }
+      ]
+    }
   },
   {
     "ref": "rsi_constellation_andromeda",
@@ -9382,10 +10811,6 @@
         "type": "Shield"
       }
     ],
-    "prices": {
-      "pledge": 240,
-      "inGame": 10160600
-    },
     "conceptDate": "2012-10-18",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -9397,7 +10822,23 @@
         "yaw": 21
       }
     },
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 240,
+      "buy": [
+        {
+          "name": "New Deal",
+          "location": "Lorville",
+          "price": 10160640
+        }
+      ],
+      "rent": [
+        {
+          "name": "Regal Luxury Rentals",
+          "location": "New Babbage"
+        }
+      ]
+    }
   },
   {
     "ref": "rsi_constellation_aquila",
@@ -9440,10 +10881,6 @@
         "type": "Shield"
       }
     ],
-    "prices": {
-      "pledge": 315,
-      "inGame": 12186700
-    },
     "conceptDate": "2014-08-15",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -9455,7 +10892,18 @@
         "yaw": 21
       }
     },
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 315,
+      "buy": [
+        {
+          "name": "New Deal",
+          "location": "Lorville",
+          "price": 12186720
+        }
+      ],
+      "rent": []
+    }
   },
   {
     "ref": "rsi_constellation_phoenix",
@@ -9498,10 +10946,6 @@
         "type": "Shield"
       }
     ],
-    "prices": {
-      "pledge": 350,
-      "inGame": 14817600
-    },
     "conceptDate": "2014-08-15",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -9513,7 +10957,18 @@
         "yaw": 21
       }
     },
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 350,
+      "buy": [
+        {
+          "name": "New Deal",
+          "location": "Lorville",
+          "price": 14817600
+        }
+      ],
+      "rent": []
+    }
   },
   {
     "ref": "rsi_constellation_taurus",
@@ -9563,10 +11018,6 @@
         "type": "Tractor"
       }
     ],
-    "prices": {
-      "pledge": 200,
-      "inGame": 8043840
-    },
     "conceptDate": "2014-08-15",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -9578,7 +11029,23 @@
         "yaw": 21
       }
     },
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 200,
+      "buy": [
+        {
+          "name": "New Deal",
+          "location": "Lorville",
+          "price": 8043840
+        }
+      ],
+      "rent": [
+        {
+          "name": "Regal Luxury Rentals",
+          "location": "New Babbage"
+        }
+      ]
+    }
   },
   {
     "ref": "rsi_galaxy",
@@ -9606,15 +11073,16 @@
         "type": "Shield"
       }
     ],
-    "prices": {
-      "pledge": 380,
-      "inGame": null
-    },
     "conceptDate": "2022-11-24",
     "state": "In Concept",
     "minCrew": 1,
     "flightCharacteristics": null,
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 380,
+      "buy": [],
+      "rent": []
+    }
   },
   {
     "ref": "rsi_mantis",
@@ -9663,10 +11131,6 @@
         "type": "QED"
       }
     ],
-    "prices": {
-      "pledge": 150,
-      "inGame": 3402000
-    },
     "conceptDate": "2019-10-11",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -9679,7 +11143,18 @@
       }
     },
     "minCrew": 1,
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 150,
+      "buy": [
+        {
+          "name": "New Deal",
+          "location": "Lorville",
+          "price": 3402000
+        }
+      ],
+      "rent": []
+    }
   },
   {
     "ref": "rsi_meteor",
@@ -9731,10 +11206,6 @@
         "type": "Shield"
       }
     ],
-    "prices": {
-      "pledge": 260,
-      "inGame": null
-    },
     "conceptDate": "2025-05-10",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -9747,7 +11218,12 @@
       }
     },
     "minCrew": 1,
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 260,
+      "buy": [],
+      "rent": []
+    }
   },
   {
     "ref": "rsi_orion",
@@ -9768,15 +11244,16 @@
     "qtFuel": null,
     "role": "Heavy Mining",
     "size": 6,
-    "prices": {
-      "pledge": 650,
-      "inGame": null
-    },
     "conceptDate": "2015-02-20",
     "state": "In Concept",
     "flightCharacteristics": null,
     "minCrew": 4,
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 650,
+      "buy": [],
+      "rent": []
+    }
   },
   {
     "ref": "rsi_perseus",
@@ -9805,14 +11282,15 @@
         "type": "Shield"
       }
     ],
-    "prices": {
-      "pledge": 675,
-      "inGame": null
-    },
     "conceptDate": "2020-11-28",
     "state": "In Concept",
     "flightCharacteristics": null,
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 675,
+      "buy": [],
+      "rent": []
+    }
   },
   {
     "ref": "rsi_polaris",
@@ -9848,10 +11326,6 @@
         "type": "Tractor"
       }
     ],
-    "prices": {
-      "pledge": 975,
-      "inGame": null
-    },
     "conceptDate": "2016-10-09",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -9863,7 +11337,12 @@
         "roll": 14
       }
     },
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 975,
+      "buy": [],
+      "rent": []
+    }
   },
   {
     "ref": "rsi_scorpius",
@@ -9905,10 +11384,6 @@
         "type": "Shield"
       }
     ],
-    "prices": {
-      "pledge": 240,
-      "inGame": 5443200
-    },
     "conceptDate": "2021-05-20",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -9921,7 +11396,18 @@
       }
     },
     "minCrew": 2,
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 240,
+      "buy": [
+        {
+          "name": "New Deal",
+          "location": "Lorville",
+          "price": 5443200
+        }
+      ],
+      "rent": []
+    }
   },
   {
     "ref": "rsi_scorpius_antares",
@@ -9975,10 +11461,6 @@
         "type": "QD"
       }
     ],
-    "prices": {
-      "pledge": 230,
-      "inGame": 5216400
-    },
     "conceptDate": "2023-02-12",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -9991,7 +11473,18 @@
       }
     },
     "minCrew": 2,
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 230,
+      "buy": [
+        {
+          "name": "New Deal",
+          "location": "Lorville",
+          "price": 5216400
+        }
+      ],
+      "rent": []
+    }
   },
   {
     "ref": "rsi_zeus_cl",
@@ -10041,10 +11534,6 @@
         "type": "Tractor"
       }
     ],
-    "prices": {
-      "pledge": 175,
-      "inGame": 6804000
-    },
     "conceptDate": "2023-10-21",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -10056,7 +11545,18 @@
         "yaw": 30
       }
     },
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 175,
+      "buy": [
+        {
+          "name": "New Deal",
+          "location": "Lorville",
+          "price": 6804000
+        }
+      ],
+      "rent": []
+    }
   },
   {
     "ref": "rsi_zeus_es",
@@ -10099,10 +11599,6 @@
         "type": "Shield"
       }
     ],
-    "prices": {
-      "pledge": 175,
-      "inGame": 4422600
-    },
     "conceptDate": "2023-10-21",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -10114,7 +11610,18 @@
         "yaw": 32.5
       }
     },
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 175,
+      "buy": [
+        {
+          "name": "New Deal",
+          "location": "Lorville",
+          "price": 4422600
+        }
+      ],
+      "rent": []
+    }
   },
   {
     "ref": "rsi_zeus_mr",
@@ -10136,14 +11643,15 @@
     "qtFuel": null,
     "role": "Bounty Hunter",
     "size": 3,
-    "prices": {
-      "pledge": 190,
-      "inGame": null
-    },
     "conceptDate": "2023-10-21",
     "state": "In Concept",
     "flightCharacteristics": null,
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 190,
+      "buy": [],
+      "rent": []
+    }
   },
   {
     "ref": "vncl_scythe",
@@ -10190,10 +11698,6 @@
         "type": "Shield"
       }
     ],
-    "prices": {
-      "pledge": 300,
-      "inGame": null
-    },
     "conceptDate": "2013-06-28",
     "state": "Flight Ready",
     "flightCharacteristics": {
@@ -10206,7 +11710,12 @@
       }
     },
     "minCrew": 1,
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 300,
+      "buy": [],
+      "rent": []
+    }
   },
   {
     "ref": "anvl_ballista",
@@ -10241,15 +11750,27 @@
         "count": 2
       }
     ],
-    "prices": {
-      "pledge": 140,
-      "inGame": 1481760
-    },
     "conceptDate": "2017-07-20",
     "state": "Flight Ready",
     "flightCharacteristics": null,
     "minCrew": 2,
-    "vehicleType": "Ground"
+    "vehicleType": "Ground",
+    "availability": {
+      "pledge": 140,
+      "buy": [
+        {
+          "name": "Astro Armada",
+          "location": "Area18",
+          "price": 1481760
+        },
+        {
+          "name": "New Deal",
+          "location": "Lorville",
+          "price": 1481760
+        }
+      ],
+      "rent": []
+    }
   },
   {
     "ref": "anvl_centurion",
@@ -10284,15 +11805,27 @@
         "count": 2
       }
     ],
-    "prices": {
-      "pledge": 110,
-      "inGame": 1164240
-    },
     "conceptDate": "2022-07-28",
     "state": "Flight Ready",
     "flightCharacteristics": null,
     "minCrew": 2,
-    "vehicleType": "Ground"
+    "vehicleType": "Ground",
+    "availability": {
+      "pledge": 110,
+      "buy": [
+        {
+          "name": "Astro Armada",
+          "location": "Area18",
+          "price": 1164240
+        },
+        {
+          "name": "New Deal",
+          "location": "Lorville",
+          "price": 1164240
+        }
+      ],
+      "rent": []
+    }
   },
   {
     "ref": "anvl_crucible",
@@ -10313,15 +11846,16 @@
     "qtFuel": null,
     "role": "Heavy Repair",
     "size": 4,
-    "prices": {
-      "pledge": 350,
-      "inGame": null
-    },
     "conceptDate": "2015-11-18",
     "state": "In Concept",
     "flightCharacteristics": null,
     "minCrew": 3,
-    "vehicleType": "Ship"
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 350,
+      "buy": [],
+      "rent": []
+    }
   },
   {
     "ref": "anvl_spartan",
@@ -10356,15 +11890,27 @@
         "count": 2
       }
     ],
-    "prices": {
-      "pledge": 80,
-      "inGame": 846720
-    },
     "conceptDate": "2021-11-18",
     "state": "Flight Ready",
     "flightCharacteristics": null,
     "minCrew": 1,
-    "vehicleType": "Ground"
+    "vehicleType": "Ground",
+    "availability": {
+      "pledge": 80,
+      "buy": [
+        {
+          "name": "Astro Armada",
+          "location": "Area18",
+          "price": 846720
+        },
+        {
+          "name": "New Deal",
+          "location": "Lorville",
+          "price": 846720
+        }
+      ],
+      "rent": []
+    }
   },
   {
     "ref": "argo_csv_cargo",
@@ -10392,15 +11938,37 @@
         "count": 1
       }
     ],
-    "prices": {
-      "pledge": 45,
-      "inGame": 378000
-    },
     "conceptDate": "2024-10-20",
     "state": "Flight Ready",
     "flightCharacteristics": null,
     "minCrew": 1,
-    "vehicleType": "Ground"
+    "vehicleType": "Ground",
+    "availability": {
+      "pledge": 45,
+      "buy": [
+        {
+          "name": "Astro Armada",
+          "location": "Area18",
+          "price": 378000
+        },
+        {
+          "name": "New Deal",
+          "location": "Lorville",
+          "price": 378000
+        },
+        {
+          "name": "Buy-&-Fly",
+          "location": "Checkmate",
+          "price": 378000
+        },
+        {
+          "name": "Buy-&-Fly",
+          "location": "Ruin Station",
+          "price": 378000
+        }
+      ],
+      "rent": []
+    }
   },
   {
     "ref": "drak_mule",
@@ -10421,15 +11989,22 @@
     "qtFuel": null,
     "role": "Ground",
     "size": 1,
-    "prices": {
-      "pledge": 45,
-      "inGame": 68040
-    },
     "conceptDate": "2022-05-26",
     "state": "Flight Ready",
     "flightCharacteristics": null,
     "minCrew": 1,
-    "vehicleType": "Ground"
+    "vehicleType": "Ground",
+    "availability": {
+      "pledge": 45,
+      "buy": [
+        {
+          "name": "New Deal",
+          "location": "Lorville",
+          "price": 68040
+        }
+      ],
+      "rent": []
+    }
   },
   {
     "ref": "grin_mtc",
@@ -10464,15 +12039,16 @@
         "type": "Shield"
       }
     ],
-    "prices": {
-      "pledge": 50,
-      "inGame": null
-    },
     "conceptDate": "2025-05-08",
     "state": "Flight Ready",
     "flightCharacteristics": null,
     "minCrew": 1,
-    "vehicleType": "Ground"
+    "vehicleType": "Ground",
+    "availability": {
+      "pledge": 50,
+      "buy": [],
+      "rent": []
+    }
   },
   {
     "ref": "grin_ptv",
@@ -10493,15 +12069,22 @@
     "qtFuel": null,
     "role": "Ground",
     "size": 1,
-    "prices": {
-      "pledge": 15,
-      "inGame": 28350
-    },
     "conceptDate": "2021-11-18",
     "state": "Flight Ready",
     "flightCharacteristics": null,
     "minCrew": 1,
-    "vehicleType": "Ground"
+    "vehicleType": "Ground",
+    "availability": {
+      "pledge": 15,
+      "buy": [
+        {
+          "name": "Astro Armada",
+          "location": "Area18",
+          "price": 28350
+        }
+      ],
+      "rent": []
+    }
   },
   {
     "ref": "grin_roc",
@@ -10529,15 +12112,31 @@
         "type": "Mining Beam"
       }
     ],
-    "prices": {
-      "pledge": 55,
-      "inGame": 103950
-    },
     "conceptDate": "2020-08-06",
     "state": "Flight Ready",
     "flightCharacteristics": null,
     "minCrew": 1,
-    "vehicleType": "Ground"
+    "vehicleType": "Ground",
+    "availability": {
+      "pledge": 55,
+      "buy": [
+        {
+          "name": "New Deal",
+          "location": "Lorville",
+          "price": 103950
+        }
+      ],
+      "rent": [
+        {
+          "name": "Vantage Rentals",
+          "location": "CRU L1"
+        },
+        {
+          "name": "Vantage Rentals",
+          "location": "Lorville"
+        }
+      ]
+    }
   },
   {
     "ref": "grin_roc_ds",
@@ -10565,15 +12164,22 @@
         "count": 1
       }
     ],
-    "prices": {
-      "pledge": 75,
-      "inGame": 141750
-    },
     "conceptDate": "2021-04-22",
     "state": "Flight Ready",
     "flightCharacteristics": null,
     "minCrew": 2,
-    "vehicleType": "Ground"
+    "vehicleType": "Ground",
+    "availability": {
+      "pledge": 75,
+      "buy": [
+        {
+          "name": "New Deal",
+          "location": "Lorville",
+          "price": 141750
+        }
+      ],
+      "rent": []
+    }
   },
   {
     "ref": "grin_stv",
@@ -10594,15 +12200,50 @@
     "qtFuel": null,
     "role": "Ground",
     "size": 1,
-    "prices": {
-      "pledge": 40,
-      "inGame": 75600
-    },
     "conceptDate": "2022-10-08",
     "state": "Flight Ready",
     "flightCharacteristics": null,
     "minCrew": 2,
-    "vehicleType": "Ground"
+    "vehicleType": "Ground",
+    "availability": {
+      "pledge": 40,
+      "buy": [
+        {
+          "name": "Astro Armada",
+          "location": "Area18",
+          "price": 75600
+        },
+        {
+          "name": "Buy-&-Fly",
+          "location": "Checkmate",
+          "price": 75600
+        },
+        {
+          "name": "Buy-&-Fly",
+          "location": "Orbituary",
+          "price": 75600
+        },
+        {
+          "name": "Buy-&-Fly",
+          "location": "Ruin Station",
+          "price": 75600
+        }
+      ],
+      "rent": [
+        {
+          "name": "Traveler Rentals",
+          "location": "Area18"
+        },
+        {
+          "name": "Traveler Rentals",
+          "location": "Orison"
+        },
+        {
+          "name": "Vantage Rentals",
+          "location": "Lorville"
+        }
+      ]
+    }
   },
   {
     "ref": "rsi_lynx",
@@ -10637,15 +12278,22 @@
         "type": "Shield"
       }
     ],
-    "prices": {
-      "pledge": 60,
-      "inGame": 136080
-    },
     "conceptDate": "2023-05-25",
     "state": "Flight Ready",
     "flightCharacteristics": null,
     "minCrew": 2,
-    "vehicleType": "Ground"
+    "vehicleType": "Ground",
+    "availability": {
+      "pledge": 60,
+      "buy": [
+        {
+          "name": "New Deal",
+          "location": "Lorville",
+          "price": 136080
+        }
+      ],
+      "rent": []
+    }
   },
   {
     "ref": "rsi_ursa_rover",
@@ -10681,14 +12329,34 @@
         "type": "Shield"
       }
     ],
-    "prices": {
-      "pledge": 50,
-      "inGame": 113400
-    },
     "conceptDate": "2017-12-23",
     "state": "Flight Ready",
     "flightCharacteristics": null,
-    "vehicleType": "Ground"
+    "vehicleType": "Ground",
+    "availability": {
+      "pledge": 50,
+      "buy": [
+        {
+          "name": "New Deal",
+          "location": "Lorville",
+          "price": 113400
+        }
+      ],
+      "rent": [
+        {
+          "name": "Regal Luxury Rentals",
+          "location": "New Babbage"
+        },
+        {
+          "name": "Traveler Rentals",
+          "location": "Area18"
+        },
+        {
+          "name": "Traveler Rentals",
+          "location": "Orison"
+        }
+      ]
+    }
   },
   {
     "ref": "rsi_ursa_medivac",
@@ -10731,14 +12399,21 @@
         "size": 3
       }
     ],
-    "prices": {
-      "pledge": 60,
-      "inGame": 124740
-    },
     "conceptDate": "2024-05-10",
     "state": "Flight Ready",
     "flightCharacteristics": null,
-    "vehicleType": "Ground"
+    "vehicleType": "Ground",
+    "availability": {
+      "pledge": 60,
+      "buy": [
+        {
+          "name": "New Deal",
+          "location": "Lorville",
+          "price": 124740
+        }
+      ],
+      "rent": []
+    }
   },
   {
     "ref": "tmbl_cyclone",
@@ -10767,14 +12442,49 @@
         "type": "Shield"
       }
     ],
-    "prices": {
-      "pledge": 55,
-      "inGame": 103950
-    },
     "conceptDate": "2017-07-14",
     "state": "Flight Ready",
     "flightCharacteristics": null,
-    "vehicleType": "Ground"
+    "vehicleType": "Ground",
+    "availability": {
+      "pledge": 55,
+      "buy": [
+        {
+          "name": "New Deal",
+          "location": "Lorville",
+          "price": 103950
+        },
+        {
+          "name": "Buy-&-Fly",
+          "location": "Checkmate",
+          "price": 103950
+        },
+        {
+          "name": "Buy-&-Fly",
+          "location": "Orbituary",
+          "price": 103950
+        },
+        {
+          "name": "Buy-&-Fly",
+          "location": "Ruin Station",
+          "price": 103950
+        }
+      ],
+      "rent": [
+        {
+          "name": "Traveler Rentals",
+          "location": "Area18"
+        },
+        {
+          "name": "Traveler Rentals",
+          "location": "Orison"
+        },
+        {
+          "name": "Vantage Rentals",
+          "location": "Lorville"
+        }
+      ]
+    }
   },
   {
     "ref": "tmbl_cyclone_aa",
@@ -10817,14 +12527,21 @@
         "type": "EMP"
       }
     ],
-    "prices": {
-      "pledge": 80,
-      "inGame": 151200
-    },
     "conceptDate": "2017-07-21",
     "state": "Flight Ready",
     "flightCharacteristics": null,
-    "vehicleType": "Ground"
+    "vehicleType": "Ground",
+    "availability": {
+      "pledge": 80,
+      "buy": [
+        {
+          "name": "New Deal",
+          "location": "Lorville",
+          "price": 151200
+        }
+      ],
+      "rent": []
+    }
   },
   {
     "ref": "tmbl_cyclone_mt",
@@ -10853,14 +12570,21 @@
         "type": "Shield"
       }
     ],
-    "prices": {
-      "pledge": 75,
-      "inGame": 141750
-    },
     "conceptDate": "2021-04-22",
     "state": "Flight Ready",
     "flightCharacteristics": null,
-    "vehicleType": "Ground"
+    "vehicleType": "Ground",
+    "availability": {
+      "pledge": 75,
+      "buy": [
+        {
+          "name": "New Deal",
+          "location": "Lorville",
+          "price": 141750
+        }
+      ],
+      "rent": []
+    }
   },
   {
     "ref": "tmbl_cyclone_rc",
@@ -10888,15 +12612,22 @@
         "type": "Shield"
       }
     ],
-    "prices": {
-      "pledge": 65,
-      "inGame": 122850
-    },
     "conceptDate": "2017-07-21",
     "state": "Flight Ready",
     "flightCharacteristics": null,
     "minCrew": 1,
-    "vehicleType": "Ground"
+    "vehicleType": "Ground",
+    "availability": {
+      "pledge": 65,
+      "buy": [
+        {
+          "name": "New Deal",
+          "location": "Lorville",
+          "price": 122850
+        }
+      ],
+      "rent": []
+    }
   },
   {
     "ref": "tmbl_cyclone_rn",
@@ -10924,15 +12655,22 @@
         "type": "Shield"
       }
     ],
-    "prices": {
-      "pledge": 65,
-      "inGame": 122850
-    },
     "conceptDate": "2017-07-21",
     "state": "Flight Ready",
     "flightCharacteristics": null,
     "minCrew": 1,
-    "vehicleType": "Ground"
+    "vehicleType": "Ground",
+    "availability": {
+      "pledge": 65,
+      "buy": [
+        {
+          "name": "New Deal",
+          "location": "Lorville",
+          "price": 122850
+        }
+      ],
+      "rent": []
+    }
   },
   {
     "ref": "tmbl_cyclone_tr",
@@ -10961,14 +12699,21 @@
         "type": "Shield"
       }
     ],
-    "prices": {
-      "pledge": 65,
-      "inGame": 122850
-    },
     "conceptDate": "2017-07-21",
     "state": "Flight Ready",
     "flightCharacteristics": null,
-    "vehicleType": "Ground"
+    "vehicleType": "Ground",
+    "availability": {
+      "pledge": 65,
+      "buy": [
+        {
+          "name": "New Deal",
+          "location": "Lorville",
+          "price": 122850
+        }
+      ],
+      "rent": []
+    }
   },
   {
     "ref": "tmbl_nova",
@@ -11011,14 +12756,36 @@
         "type": "Shield"
       }
     ],
-    "prices": {
-      "pledge": 120,
-      "inGame": 907200
-    },
     "conceptDate": "2017-12-22",
     "state": "Flight Ready",
     "flightCharacteristics": null,
-    "vehicleType": "Ground"
+    "vehicleType": "Ground",
+    "availability": {
+      "pledge": 120,
+      "buy": [
+        {
+          "name": "New Deal",
+          "location": "Lorville",
+          "price": 907200
+        },
+        {
+          "name": "Buy-&-Fly",
+          "location": "Checkmate",
+          "price": 907200
+        },
+        {
+          "name": "Buy-&-Fly",
+          "location": "Orbituary",
+          "price": 907200
+        },
+        {
+          "name": "Buy-&-Fly",
+          "location": "Ruin Station",
+          "price": 907200
+        }
+      ],
+      "rent": []
+    }
   },
   {
     "ref": "tmbl_ranger_cv",
@@ -11040,14 +12807,15 @@
     "qtFuel": null,
     "role": "Touring",
     "size": 1,
-    "prices": {
-      "pledge": 35,
-      "inGame": null
-    },
     "conceptDate": "2019-11-30",
     "state": "In Concept",
     "flightCharacteristics": null,
-    "vehicleType": "Ground"
+    "vehicleType": "Ground",
+    "availability": {
+      "pledge": 35,
+      "buy": [],
+      "rent": []
+    }
   },
   {
     "ref": "tmbl_ranger_tr",
@@ -11069,14 +12837,15 @@
     "qtFuel": null,
     "role": "Combat",
     "size": 1,
-    "prices": {
-      "pledge": 40,
-      "inGame": null
-    },
     "conceptDate": "2019-11-30",
     "state": "In Concept",
     "flightCharacteristics": null,
-    "vehicleType": "Ground"
+    "vehicleType": "Ground",
+    "availability": {
+      "pledge": 40,
+      "buy": [],
+      "rent": []
+    }
   },
   {
     "ref": "tmbl_ranger_rc",
@@ -11098,14 +12867,15 @@
     "qtFuel": null,
     "role": "Racing",
     "size": 1,
-    "prices": {
-      "pledge": 35,
-      "inGame": null
-    },
     "conceptDate": "2019-11-30",
     "state": "In Concept",
     "flightCharacteristics": null,
-    "vehicleType": "Ground"
+    "vehicleType": "Ground",
+    "availability": {
+      "pledge": 35,
+      "buy": [],
+      "rent": []
+    }
   },
   {
     "ref": "tmbl_storm",
@@ -11140,15 +12910,22 @@
         "type": "Shield"
       }
     ],
-    "prices": {
-      "pledge": 90,
-      "inGame": 453600
-    },
     "conceptDate": "2023-05-25",
     "state": "Flight Ready",
     "flightCharacteristics": null,
     "minCrew": 1,
-    "vehicleType": "Ground"
+    "vehicleType": "Ground",
+    "availability": {
+      "pledge": 90,
+      "buy": [
+        {
+          "name": "New Deal",
+          "location": "Lorville",
+          "price": 453600
+        }
+      ],
+      "rent": []
+    }
   },
   {
     "ref": "tmbl_storm_aa",
@@ -11195,14 +12972,21 @@
         "type": "Shield"
       }
     ],
-    "prices": {
-      "pledge": 100,
-      "inGame": 476280
-    },
     "conceptDate": "2023-11-16",
     "state": "Flight Ready",
     "flightCharacteristics": null,
     "minCrew": 1,
-    "vehicleType": "Ground"
+    "vehicleType": "Ground",
+    "availability": {
+      "pledge": 100,
+      "buy": [
+        {
+          "name": "New Deal",
+          "location": "Lorville",
+          "price": 476280
+        }
+      ],
+      "rent": []
+    }
   }
 ]
