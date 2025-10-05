@@ -2853,6 +2853,36 @@
     }
   },
   {
+    "ref": "anvl_liberator",
+    "career": "Light Carrier",
+    "cargo": 400,
+    "maxCrew": 2,
+    "description": "Anvil continues its tradition of excellence with the Liberator, an open-air vehicle carrier that applies the tradition of long-range transport to a smaller scale. Designed with the same quantum drive and long-distance capabilities of military-spec carriers and pathfinders but tailored to the civilian market, the Liberator puts your fleet on the front lines of any operation.",
+    "dimensions": {
+      "width": 67,
+      "length": 119,
+      "height": 25
+    },
+    "hp": null,
+    "hydrogenFuel": null,
+    "manufacturer": "ANVL",
+    "mass": null,
+    "name": "Liberator",
+    "qtFuel": null,
+    "role": "Light Carrier",
+    "size": 4,
+    "conceptDate": "2021-10-09",
+    "state": "In Concept",
+    "flightCharacteristics": null,
+    "minCrew": 1,
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 575,
+      "buy": [],
+      "rent": []
+    }
+  },
+  {
     "ref": "anvl_lightning_f8c",
     "career": "Combat",
     "cargo": 0,
