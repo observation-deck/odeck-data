@@ -3206,7 +3206,7 @@
   {
     "ref": "anvl_paladin",
     "career": "Combat",
-    "cargo": 0,
+    "cargo": 4,
     "minCrew": 1,
     "maxCrew": 4,
     "description": "Heavy gunship equipped to take down huge targets.",
