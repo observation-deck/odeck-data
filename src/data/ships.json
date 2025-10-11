@@ -13097,6 +13097,23 @@
         "size": 4,
         "count": 2,
         "type": "Ballistic"
+      },
+      {
+        "size": 3,
+        "count": 4,
+        "type": "Laser"
+      }
+    ],
+    "missiles":[
+      {
+        "size": 3,
+        "count": 4,
+        "type": "Missile"
+      },
+      {
+        "size": 2,
+        "count": 4,
+        "type": "Missile"
       }
     ],
     "conceptDate": "2025-10-11",
