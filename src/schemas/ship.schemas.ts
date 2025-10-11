@@ -4,7 +4,7 @@ import { z } from 'zod';
 export const ManufacturerRefSchema = z.enum([
   "AEGS", "ANVL", "XIAN", "XNAA", "ARGO", "BANU", "CNOU", "CRUS", 
   "DRAK", "ESPR", "GAMA", "KRIG", "MRAI", "MISC", "ORIG", "RSI", 
-  "VNCL", "GRIN", "TMBL"
+  "VNCL", "GRIN", "TMBL", "GREY"
 ]);
 
 // Hard Point Type Schema

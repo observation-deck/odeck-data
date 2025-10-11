@@ -88,5 +88,10 @@
     "description": "Tumbril Land Systems got its start manufacturing ultra-rugged land vehicles built to explore the strange and dangerous landscapes of newly discovered planets. With the onset of the First Tevarin War, Tumbril expanded their operations when they won a government contract to build tanks and other military vehicles for the UPE military. Over the centuries the company eventually folded. Today, the Tumbril brand has been revived to build land vehicles from tanks to exploration vehicles and personal HOVs in both the civilian and military market.",
     "name": "Tumbril Land Systems",
     "ref": "TMBL"
+  },
+  {
+    "description": "We go where the parts are, no matter how dangerous. If you want a ship fit for the most troublesome tyrant out there, then we’re the ones to hammer it together. The dirtiest hands make the coolest ships, and our hands are never clean. Guts and gear, that’s the Grey’s way. This market, we proudly present our latest space-ready build. Our blood, sweat, and oil; more than the sum of its stripped parts - the shuddersome Shiv. Use it wisely... or not.",
+    "name": "Grey's Market",
+    "ref": "GREY"
   }
 ]

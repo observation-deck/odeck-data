@@ -3249,7 +3249,7 @@
     "flightCharacteristics": null,
     "vehicleType": "Ship",
     "availability": {
-      "pledge": 300,
+      "pledge": 350,
       "buy": [],
       "rent": []
     }
@@ -6627,6 +6627,60 @@
     "vehicleType": "Ship",
     "availability": {
       "pledge": 350,
+      "buy": [],
+      "rent": []
+    }
+  },
+  {
+    "ref": "vncl_stinger",
+    "career": "Combat",
+    "cargo": 0,
+    "maxCrew": 1,
+    "description": "A closely replicated Vanduul ship, reworked for Human flight. As Esperia’s first Heavy Fighter, the Stinger prioritizes strong armor to sustain prolonged barrages while readying its attack.",
+    "dimensions": {
+      "width": 35,
+      "length": 32,
+      "height": 10
+    },
+    "hp": null,
+    "hydrogenFuel": null,
+    "manufacturer": "ESPR",
+    "mass": null,
+    "name": "Stinger",
+    "qtFuel": null,
+    "role": "Heavy Fighter",
+    "size": 3,
+    "weapons": [
+      {
+        "size": 5,
+        "count": 1,
+        "type": "Laser"
+      },
+      {
+        "size": 4,
+        "count": 4,
+        "type": "Laser"
+      },
+      {
+        "size": 2,
+        "count": 2,
+        "type": "Laser"
+      }
+    ],
+    "missiles": [
+      {
+        "count": 16,
+        "size": 2,
+        "type": "Missile"
+      }
+    ],
+    "conceptDate": "2025-10-11",
+    "state": "In Concept",
+    "minCrew": 1,
+    "vehicleType": "Ship",
+    "flightCharacteristics":null,
+    "availability": {
+      "pledge": 315,
       "buy": [],
       "rent": []
     }
@@ -13016,6 +13070,43 @@
           "price": 476280
         }
       ],
+      "rent": []
+    }
+  },
+  {
+    "ref": "grey_shiv",
+    "career": "Combat",
+    "cargo": 32,
+    "maxCrew": 2,
+    "description": "Don't ask how we got it, don't ask where it came from, just ask, 'Do you want it?'.",
+    "dimensions": {
+      "width": 28,
+      "length": 36,
+      "height": 14
+    },
+    "hp": null,
+    "hydrogenFuel": null,
+    "manufacturer": "GREY",
+    "mass": null,
+    "name": "Shiv",
+    "qtFuel": null,
+    "role": "Multi-role",
+    "size": 2,
+    "weapons": [
+      {
+        "size": 4,
+        "count": 2,
+        "type": "Ballistic"
+      }
+    ],
+    "conceptDate": "2025-10-11",
+    "state": "In Concept",
+    "flightCharacteristics": null,
+    "minCrew": 1,
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 150,
+      "buy": [],
       "rent": []
     }
   }
