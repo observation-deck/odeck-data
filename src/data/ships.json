@@ -3215,12 +3215,12 @@
       "length": 53,
       "height": 14.5
     },
-    "hp": null,
-    "hydrogenFuel": null,
+    "hp": 149819,
+    "hydrogenFuel": 61,
     "manufacturer": "ANVL",
-    "mass": null,
+    "mass": 500000,
     "name": "Paladin",
-    "qtFuel": null,
+    "qtFuel": 3.85,
     "role": "Gunship",
     "size": 4,
     "weapons": [
@@ -3239,14 +3239,22 @@
     ],
     "shields": [
       {
-        "size": 4,
+        "size": 3,
         "type": "Shield",
         "count": 1
       }
     ],
     "conceptDate": "2024-11-30",
-    "state": "In Concept",
-    "flightCharacteristics": null,
+    "state": "Flight Ready",
+    "flightCharacteristics": {
+      "maxSpeed": 950,
+      "scmSpeed": 175,
+      "rotation": {
+        "pitch": 23,
+        "roll": 45,
+        "yaw": 19
+      }
+    },
     "vehicleType": "Ship",
     "availability": {
       "pledge": 350,
@@ -6642,12 +6650,12 @@
       "length": 32,
       "height": 10
     },
-    "hp": null,
-    "hydrogenFuel": null,
+    "hp": 36814,
+    "hydrogenFuel": 36,
     "manufacturer": "ESPR",
-    "mass": null,
+    "mass": 247552,
     "name": "Stinger",
-    "qtFuel": null,
+    "qtFuel": 1.35,
     "role": "Heavy Fighter",
     "size": 3,
     "weapons": [
@@ -6674,11 +6682,26 @@
         "type": "Missile"
       }
     ],
+    "shields": [
+      {
+        "count": 2,
+        "size": 2,
+        "type": "Shield"
+      }
+    ],
     "conceptDate": "2025-10-11",
-    "state": "In Concept",
+    "state": "Flight Ready",
     "minCrew": 1,
     "vehicleType": "Ship",
-    "flightCharacteristics":null,
+    "flightCharacteristics":{
+      "maxSpeed": 1050,
+      "scmSpeed": 207,
+      "rotation": {
+        "pitch": 30,
+        "roll": 90,
+        "yaw": 26
+      }
+    },
     "availability": {
       "pledge": 315,
       "buy": [],
@@ -13078,19 +13101,19 @@
     "career": "Combat",
     "cargo": 32,
     "maxCrew": 2,
-    "description": "Don't ask how we got it, don't ask where it came from, just ask, 'Do you want it?'.",
+    "description": "Don't ask how we got it, don't ask where it came from, just ask, 'Do you want it?'",
     "dimensions": {
       "width": 28,
       "length": 36,
       "height": 14
     },
-    "hp": null,
-    "hydrogenFuel": null,
+    "hp": 34300,
+    "hydrogenFuel": 32,
     "manufacturer": "GREY",
-    "mass": null,
+    "mass": 206577,
     "name": "Shiv",
-    "qtFuel": null,
-    "role": "Multi-role",
+    "qtFuel": 1.65,
+    "role": "Heavy Fighter",
     "size": 3,
     "weapons": [
       {
@@ -13116,9 +13139,24 @@
         "type": "Missile"
       }
     ],
+    "shields": [
+      {
+        "size": 2,
+        "count": 1,
+        "type": "Shield"
+      }
+    ],
     "conceptDate": "2025-10-11",
-    "state": "In Concept",
-    "flightCharacteristics": null,
+    "state": "Flight Ready",
+    "flightCharacteristics": {
+      "maxSpeed": 1175,
+      "scmSpeed": 219,
+      "rotation": {
+        "pitch": 50,
+        "roll": 137,
+        "yaw": 42
+      }
+    },
     "minCrew": 1,
     "vehicleType": "Ship",
     "availability": {
