@@ -13107,12 +13107,12 @@
     "missiles":[
       {
         "size": 3,
-        "count": 4,
+        "count": 8,
         "type": "Missile"
       },
       {
         "size": 2,
-        "count": 4,
+        "count": 8,
         "type": "Missile"
       }
     ],
