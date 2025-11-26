@@ -4,7 +4,7 @@
     "career": "Combat",
     "cargo": 0,
     "maxCrew": 1,
-    "description": "Initially designed as Aegis’ frontline carrier ship for the military, the Avenger Stalker took a different path, ultimately having a long and storied career as the standard patrol craft of the UEE Advocacy. Utilizing its cargo hold for prisoner transport, the Avenger features a sturdy, reliable hull and the capacity for larger-than-expected engine mounts.",
+    "description": "Initially designed as Aegis' frontline carrier ship for the military, the Avenger Stalker took a different path, ultimately having a long and storied career as the standard patrol craft of the UEE Advocacy. Utilizing its cargo hold for prisoner transport, the Avenger features a sturdy, reliable hull and the capacity for larger-than-expected engine mounts.",
     "dimensions": {
       "width": 15,
       "length": 20,
@@ -74,7 +74,7 @@
     "career": "Transporter",
     "cargo": 8,
     "maxCrew": 1,
-    "description": "Lacking the Prisoner Cells of the Stalker or the EMP Generator of the Warlock, the Titan’s hold is free to carry cargo. Couple that available space with the Avenger’s tried and true combat abilities and you’ve got a light cargo hauler that’s more than capable of handling itself in a fight.",
+    "description": "Lacking the Prisoner Cells of the Stalker or the EMP Generator of the Warlock, the Titan's hold is free to carry cargo. Couple that available space with the Avenger's tried and true combat abilities and you've got a light cargo hauler that's more than capable of handling itself in a fight.",
     "dimensions": {
       "width": 15,
       "length": 20,
@@ -153,7 +153,7 @@
     "career": "Transporter",
     "cargo": 8,
     "maxCrew": 1,
-    "description": "Created as part of the ‘Masters of Flight’ series in conjunction with the flight-sim Arena Commander, the Renegade pays tribute to famed pilot Danny Solomon for his notable work with the Advocacy to bring justice to Bremen. This Avenger Titan comes equipped with a specialized dogfighting focused loadout and a custom special edition livery honoring this iconic ship.",
+    "description": "Created as part of the ‘Masters of Flight' series in conjunction with the flight-sim Arena Commander, the Renegade pays tribute to famed pilot Danny Solomon for his notable work with the Advocacy to bring justice to Bremen. This Avenger Titan comes equipped with a specialized dogfighting focused loadout and a custom special edition livery honoring this iconic ship.",
     "dimensions": {
       "width": 15,
       "length": 20,
@@ -223,7 +223,7 @@
     "career": "Combat",
     "cargo": 0,
     "maxCrew": 1,
-    "description": "The Avenger Warlock was built towards a single design philosophy: stop ships, don’t destroy them. Probably the closest to a non-lethal fighter, the Warlock is outfitted with a Behring REP-8 EMP Generator, capable of emitting a powerful electromagnetic wave to disable any electronics unfortunate enough to be within the blast radius.",
+    "description": "The Avenger Warlock was built towards a single design philosophy: stop ships, don't destroy them. Probably the closest to a non-lethal fighter, the Warlock is outfitted with a Behring REP-8 EMP Generator, capable of emitting a powerful electromagnetic wave to disable any electronics unfortunate enough to be within the blast radius.",
     "dimensions": {
       "width": 15,
       "length": 20,
@@ -440,7 +440,7 @@
     "career": "Combat",
     "cargo": 0,
     "maxCrew": 1,
-    "description": "Created as part of the ‘Masters of Flight’ series in conjunction with the flight-sim Arena Commander, the Valiant pays tribute to famed defense pilot Condi Hillard for being the first Human on record to defeat a Vanduul in combat. This Gladius comes equipped with a specialized dogfighting focused loadout and a custom special edition livery honoring her iconic ship.",
+    "description": "Created as part of the ‘Masters of Flight' series in conjunction with the flight-sim Arena Commander, the Valiant pays tribute to famed defense pilot Condi Hillard for being the first Human on record to defeat a Vanduul in combat. This Gladius comes equipped with a specialized dogfighting focused loadout and a custom special edition livery honoring her iconic ship.",
     "dimensions": {
       "width": 17.5,
       "length": 21,
@@ -927,7 +927,7 @@
     "career": "Combat",
     "cargo": 0,
     "maxCrew": 1,
-    "description": "Part of Aegis Dynamics’ Phase Two of new ship models, the Sabre was designed as a space superiority fighter for those situations where you need to leave a lighter footprint. Designed to be a rapid responder, the Sabre is more than capable of establishing battlefield dominance for any number of combat scenarios.",
+    "description": "Part of Aegis Dynamics' Phase Two of new ship models, the Sabre was designed as a space superiority fighter for those situations where you need to leave a lighter footprint. Designed to be a rapid responder, the Sabre is more than capable of establishing battlefield dominance for any number of combat scenarios.",
     "dimensions": {
       "width": 24.5,
       "length": 24.5,
@@ -992,7 +992,7 @@
     "career": "Combat",
     "cargo": 0,
     "maxCrew": 1,
-    "description": "Created as part of the ‘Masters of Flight’ series in conjunction with the flight-sim Arena Commander, the Comet pays tribute to famed pilot Captain Kamur Dalion for his work with Aegis to usher in a new era of combat ship design. This Sabre comes equipped with a specialized dogfighting focused loadout and a custom special edition livery honoring this iconic ship.",
+    "description": "Created as part of the ‘Masters of Flight' series in conjunction with the flight-sim Arena Commander, the Comet pays tribute to famed pilot Captain Kamur Dalion for his work with Aegis to usher in a new era of combat ship design. This Sabre comes equipped with a specialized dogfighting focused loadout and a custom special edition livery honoring this iconic ship.",
     "dimensions": {
       "width": 24.5,
       "length": 24.5,
@@ -1057,7 +1057,7 @@
     "career": "Combat",
     "cargo": 0,
     "maxCrew": 1,
-    "description": "Manufacturer: Aegis Dynamics\\nFocus: Medium Fighter\\n \\nWhen frontline skirmishes call for a swift and decisive offensive, the Sabre Firebird is the ideal medium fighter for any arsenal. Taking the already battle proven Sabre Raven, Aegis has designed the Firebird variant with an enhanced missile launcher capable of engaging with a wide array of threats.",
+    "description": "Manufacturer: Aegis Dynamics\nFocus: Medium Fighter\n \nWhen frontline skirmishes call for a swift and decisive offensive, the Sabre Firebird is the ideal medium fighter for any arsenal. Taking the already battle proven Sabre Raven, Aegis has designed the Firebird variant with an enhanced missile launcher capable of engaging with a wide array of threats.",
     "dimensions": {
       "width": 24.5,
       "length": 24.5,
@@ -1122,7 +1122,7 @@
     "career": "Competition",
     "cargo": 0,
     "maxCrew": 1,
-    "description": "Manufacturer: Aegis Dynamics\\nFocus: Racing\\n \\nAfter seeing what fans of the Sabre Raven were able to accomplish with the fighter on the racetrack, the design team at Aegis Dynamics were inspired to craft an official racing variant for the agile ship. Enter the Sabre Peregrine. Streamlined and featuring additional thruster boosts, this nimble bird is ready to fly across the finish line.",
+    "description": "Manufacturer: Aegis Dynamics\nFocus: Racing\n \nAfter seeing what fans of the Sabre Raven were able to accomplish with the fighter on the racetrack, the design team at Aegis Dynamics were inspired to craft an official racing variant for the agile ship. Enter the Sabre Peregrine. Streamlined and featuring additional thruster boosts, this nimble bird is ready to fly across the finish line.",
     "dimensions": {
       "width": 24.5,
       "length": 24.5,
@@ -1646,7 +1646,7 @@
     "career": "Combat",
     "cargo": 180,
     "maxCrew": 1,
-    "description": "Manufacturer: Anvil Aerospace\\nFocus: Vehicle Transport\\n \\nAs the battles of today continue to grow in scale and complexity, Anvil Aerospace understands the impact a single vehicle can have on the outcome. Enter the Asgard. The next generation in ground vehicle transport, the Anvil Asgard features a quick-load ramp, a sizeable hold to securely store your assault vehicle of choice, and hefty array of armaments to ensure access to even the most combat-heavy of drop sites.",
+    "description": "Manufacturer: Anvil Aerospace\n\n Focus: Vehicle Transport\n\n As the battles of today continue to grow in scale and complexity, Anvil Aerospace understands the impact a single vehicle can have on the outcome. Enter the Asgard. The next generation in ground vehicle transport, the Anvil Asgard features a quick-load ramp, a sizeable hold to securely store your assault vehicle of choice, and hefty array of armaments to ensure access to even the most combat-heavy of drop sites.",
     "dimensions": {
       "width": 38,
       "length": 48,
@@ -2050,7 +2050,7 @@
     "career": "Combat",
     "cargo": 0,
     "maxCrew": 1,
-    "description": "Manufacturer: Anvil Aerospace\\nFocus: Medium Fighter\\n \\nUshering in a new age of space superiority, Anvil Aerospace has re-engineered the celebrated Hornet for the next generation of fighter combat.  Purpose built for the UEE Navy, the F7A Hornet Mk II maintains the spirit of the original while incorporating even more powerful offensive capabilities.",
+    "description": "Manufacturer: Anvil Aerospace\nFocus: Medium Fighter\n \nUshering in a new age of space superiority, Anvil Aerospace has re-engineered the celebrated Hornet for the next generation of fighter combat.  Purpose built for the UEE Navy, the F7A Hornet Mk II maintains the spirit of the original while incorporating even more powerful offensive capabilities.",
     "dimensions": {
       "width": 22,
       "length": 22.5,
@@ -2194,7 +2194,7 @@
     "career": "Combat",
     "cargo": 2,
     "maxCrew": 1,
-    "description": "Manufacturer: Anvil Aerospace\\nFocus: Medium Fighter\\n \\nStraight from the front lines to your personal hangar, the re-engineered F7C Hornet Mk II takes the latest battlefield upgrades and makes them available to private pilots across the empire. The fighter features an improved power system utilized by an overhauled weapon and missile package",
+    "description": "Manufacturer: Anvil Aerospace\nFocus: Medium Fighter\n \nStraight from the front lines to your personal hangar, the re-engineered F7C Hornet Mk II takes the latest battlefield upgrades and makes them available to private pilots across the empire. The fighter features an improved power system utilized by an overhauled weapon and missile package",
     "dimensions": {
       "width": 22,
       "length": 22.5,
@@ -2269,7 +2269,7 @@
     "career": "Combat",
     "cargo": 0,
     "maxCrew": 1,
-    "description": "Created as part of the ‘Masters of Flight’ series in conjunction with the flight-sim Arena Commander, the Wildfire pays tribute to famed pilot Aria Reilly for her distinguished service with the legendary Squadron 42. This F7C Hornet Mk I comes equipped with her own personally selected loadout preferences and a custom special edition livery honoring her iconic ship.",
+    "description": "Created as part of the ‘Masters of Flight' series in conjunction with the flight-sim Arena Commander, the Wildfire pays tribute to famed pilot Aria Reilly for her distinguished service with the legendary Squadron 42. This F7C Hornet Mk I comes equipped with her own personally selected loadout preferences and a custom special edition livery honoring her iconic ship.",
     "dimensions": {
       "width": 25.5,
       "length": 28.25,
@@ -2494,7 +2494,7 @@
     "cargo": 0,
     "minCrew": 1,
     "maxCrew": 2,
-    "description": "Manufacturer: Anvil Aerospace\\nFocus: Medium Fighter\\n \\nRefining their renowned military-class superiority fighter with the most up-to-date technology, Anvil Aerospace has crafted the F7C-M Super Hornet Mk II,  retaining the second seat and ball turret that made the original a truly terrifying mark to engage.",
+    "description": "Manufacturer: Anvil Aerospace\nFocus: Medium Fighter\n \nRefining their renowned military-class superiority fighter with the most up-to-date technology, Anvil Aerospace has crafted the F7C-M Super Hornet Mk II,  retaining the second seat and ball turret that made the original a truly terrifying mark to engage.",
     "dimensions": {
       "width": 24,
       "length": 24,
@@ -2642,7 +2642,7 @@
     "career": "Combat",
     "cargo": 0,
     "maxCrew": 1,
-    "description": "Manufacturer: Anvil Aerospace\\nFocus: Pathfinder\\n \\nWhen seeking the next great frontier, who better to trust than a next-generation pathfinder? The F7C-R Hornet Tracker Mk II boasts an overhauled radar suite ideal for deep-space explorers who require depth and accuracy in their scan packages.",
+    "description": "Manufacturer: Anvil Aerospace\nFocus: Pathfinder\n \nWhen seeking the next great frontier, who better to trust than a next-generation pathfinder? The F7C-R Hornet Tracker Mk II boasts an overhauled radar suite ideal for deep-space explorers who require depth and accuracy in their scan packages.",
     "dimensions": {
       "width": 22,
       "length": 22.5,
@@ -2787,7 +2787,7 @@
     "career": "Combat",
     "cargo": 0,
     "maxCrew": 1,
-    "description": "Manufacturer: Anvil Aerospace\\nFocus: Stealth Fighter\\n \\nWhen approaching the Mk II redesign of the F7C-S Hornet Ghost, the engineers at Anvil Aerospace wanted to preserve what pilots loved about the low-emission drives, low-draw weapons, and Void Armor technology of the original, but refine them to an even higher level of performance for a whole new era of stealth operations.",
+    "description": "Manufacturer: Anvil Aerospace\nFocus: Stealth Fighter\n \nWhen approaching the Mk II redesign of the F7C-S Hornet Ghost, the engineers at Anvil Aerospace wanted to preserve what pilots loved about the low-emission drives, low-draw weapons, and Void Armor technology of the original, but refine them to an even higher level of performance for a whole new era of stealth operations.",
     "dimensions": {
       "width": 22,
       "length": 22.5,
@@ -3267,7 +3267,7 @@
     "career": "Support",
     "cargo": 0,
     "maxCrew": 1,
-    "description": "Presenting the Anvil Aerospace U4A-3 Terrapin-class Scanning/Exploration Ship. The Terrapin was developed near the end of the 28th century to serve as the first ship in the Empire’s defensive restructuring of the Navy. The Terrapin’s watchword is protection, with extensive shield systems and armor layers designed to provide the maximum possible defense for pilot and crew. While it lacks the maneuverability of a dedicated fighter, it does maintain an advanced, hard-hitting array of weapons intended to keep the most fearsome Vanduul raider at bay.",
+    "description": "Presenting the Anvil Aerospace U4A-3 Terrapin-class Scanning/Exploration Ship. The Terrapin was developed near the end of the 28th century to serve as the first ship in the Empire's defensive restructuring of the Navy. The Terrapin's watchword is protection, with extensive shield systems and armor layers designed to provide the maximum possible defense for pilot and crew. While it lacks the maneuverability of a dedicated fighter, it does maintain an advanced, hard-hitting array of weapons intended to keep the most fearsome Vanduul raider at bay.",
     "dimensions": {
       "width": 16.5,
       "length": 20,
@@ -3325,7 +3325,7 @@
     "career": "Support",
     "cargo": 0,
     "maxCrew": 1,
-    "description": "Maintaining the famed toughness of the original Terrapin, Anvil designers have crafted an optimal vehicle for rescue operations with the Terrapin Medic. Featuring a tier 2 medical bed, the Terrapin Medic can extract injured parties from even the most hazardous situations thanks to its powerful armor and shielding.\\n",
+    "description": "Maintaining the famed toughness of the original Terrapin, Anvil designers have crafted an optimal vehicle for rescue operations with the Terrapin Medic. Featuring a tier 2 medical bed, the Terrapin Medic can extract injured parties from even the most hazardous situations thanks to its powerful armor and shielding.\n",
     "dimensions": {
       "width": 16.5,
       "length": 20,
@@ -3630,7 +3630,7 @@
     "cargo": 96,
     "minCrew": 1,
     "maxCrew": 4,
-    "description": "Argo’s iconic multi-operator laser extractor, more commonly referred to as the MOLE, lets you work faster and more effectively than ever before, thanks to its patented trilateral mining system. Three independently controlled articulated extraction stations allow for maximum power and near-limitless versatility. The MOLE lives by the adage \"many hands make for light work\".",
+    "description": "Argo's iconic multi-operator laser extractor, more commonly referred to as the MOLE, lets you work faster and more effectively than ever before, thanks to its patented trilateral mining system. Three independently controlled articulated extraction stations allow for maximum power and near-limitless versatility. The MOLE lives by the adage \"many hands make for light work\".",
     "dimensions": {
       "width": 26,
       "length": 45,
@@ -3766,7 +3766,7 @@
     "career": "Transporter",
     "cargo": 0,
     "maxCrew": 1,
-    "description": "The Argo Astronautics MPUV-1P (commonly ‘Argo Personnel’). This version of the Argo is geared towards a simple but incredibly important responsibility: moving grounds of people from place to place. The UEE Navy uses MPUV-1Ps extensively, and any new recruit can likely recall those terrifying moments in which such a ship carried them to their first space assignment. In civilian hands, Argo Personnel ships are adapted for everything from standard taxi services to use as makeshift combat dropships. The Argo MPUV-1P is capable of carrying up to eight humans and their equipment.",
+    "description": "The Argo Astronautics MPUV-1P (commonly ‘Argo Personnel'). This version of the Argo is geared towards a simple but incredibly important responsibility: moving grounds of people from place to place. The UEE Navy uses MPUV-1Ps extensively, and any new recruit can likely recall those terrifying moments in which such a ship carried them to their first space assignment. In civilian hands, Argo Personnel ships are adapted for everything from standard taxi services to use as makeshift combat dropships. The Argo MPUV-1P is capable of carrying up to eight humans and their equipment.",
     "dimensions": {
       "width": 9,
       "length": 10.5,
@@ -3967,7 +3967,7 @@
     "career": "Support",
     "cargo": 12,
     "maxCrew": 1,
-    "description": "When it comes to getting the job done, Argo doesn’t mess around. From simple freight and cargo towing to harrowing search-and-rescue operations, the SRV handles whatever you can throw at it. The bespoke tractor system utilizes an innovative plate and arm combination, allowing for effortless solo use as well as precision team towing for bigger jobs. Your crew and passengers stay safe too thanks to durable shields and heavy-duty armor that keep the cockpit and components secure when the situation gets hairy.",
+    "description": "When it comes to getting the job done, Argo doesn't mess around. From simple freight and cargo towing to harrowing search-and-rescue operations, the SRV handles whatever you can throw at it. The bespoke tractor system utilizes an innovative plate and arm combination, allowing for effortless solo use as well as precision team towing for bigger jobs. Your crew and passengers stay safe too thanks to durable shields and heavy-duty armor that keep the cockpit and components secure when the situation gets hairy.",
     "dimensions": {
       "width": 21.5,
       "length": 31.5,
@@ -4181,7 +4181,7 @@
     "career": "Multi-Role",
     "cargo": 4,
     "maxCrew": 1,
-    "description": "Inspired by Consolidated Outland CEO Silas Koerner’s cutting edge vision, the Mustang Alpha is a sleek, stylish spacecraft that uses ultralight alloys to push power ratios to the limits, albeit sometimes unsafely. And now, with the optional Cargo Carrier, you can have the Alpha’s advantages without sacrificing carrying capacity.",
+    "description": "Inspired by Consolidated Outland CEO Silas Koerner's cutting edge vision, the Mustang Alpha is a sleek, stylish spacecraft that uses ultralight alloys to push power ratios to the limits, albeit sometimes unsafely. And now, with the optional Cargo Carrier, you can have the Alpha's advantages without sacrificing carrying capacity.",
     "dimensions": {
       "width": 18,
       "length": 21.5,
@@ -4257,7 +4257,7 @@
     "career": "Exploration",
     "cargo": 0,
     "maxCrew": 1,
-    "description": "The Mustang Beta, with its unprecedented range, is made for long duration flights. The factory standard Tarsus Leaper Jump Engine enables the Beta to travel to the galaxy’s farthest systems with ease, while the ship’s unique Com4T living quarters will make the journey feel like you never left home.",
+    "description": "The Mustang Beta, with its unprecedented range, is made for long duration flights. The factory standard Tarsus Leaper Jump Engine enables the Beta to travel to the galaxy's farthest systems with ease, while the ship's unique Com4T living quarters will make the journey feel like you never left home.",
     "dimensions": {
       "width": 18,
       "length": 21.5,
@@ -4320,7 +4320,7 @@
     "career": "Combat",
     "cargo": 0,
     "maxCrew": 1,
-    "description": "While it may not be able to go toe to toe with some of the military specific ships, by reinforcing the Mustang’s already strong hull construction with Consolidated Outland’s own line of Cavalry Class Mass Reduction Armor, the Delta has a reduced cross-sectional signature that evens the playing field.",
+    "description": "While it may not be able to go toe to toe with some of the military specific ships, by reinforcing the Mustang's already strong hull construction with Consolidated Outland's own line of Cavalry Class Mass Reduction Armor, the Delta has a reduced cross-sectional signature that evens the playing field.",
     "dimensions": {
       "width": 18,
       "length": 21.5,
@@ -4383,7 +4383,7 @@
     "career": "Competition",
     "cargo": 0,
     "maxCrew": 1,
-    "description": "Consolidated Outland’s design and engineering teams have managed to tweak and refine the Mustang into an admirable racer. The end result, the Mustang Gamma, has smooth acceleration, and power on demand thanks to an innovative package featuring three powerful Magma Jet engines for maximum thrust.",
+    "description": "Consolidated Outland's design and engineering teams have managed to tweak and refine the Mustang into an admirable racer. The end result, the Mustang Gamma, has smooth acceleration, and power on demand thanks to an innovative package featuring three powerful Magma Jet engines for maximum thrust.",
     "dimensions": {
       "width": 18,
       "length": 21.5,
@@ -4446,7 +4446,7 @@
     "career": "Competition",
     "cargo": 0,
     "maxCrew": 1,
-    "description": "Consolidated Outland teamed up with custom tuning company Accelerated Mass Design to create a limited edition racer that features a ramped up fuel intake for faster recycling of the ship’s already impressive boost system. To cap off the collaboration, AMD enlisted resident underground artist Sektor8 to design the dynamic paint job.",
+    "description": "Consolidated Outland teamed up with custom tuning company Accelerated Mass Design to create a limited edition racer that features a ramped up fuel intake for faster recycling of the ship's already impressive boost system. To cap off the collaboration, AMD enlisted resident underground artist Sektor8 to design the dynamic paint job.",
     "dimensions": {
       "width": 18,
       "length": 21.5,
@@ -4621,7 +4621,7 @@
     "career": "Passenger Transport",
     "cargo": 0,
     "maxCrew": 8,
-    "description": "The Genesis is yet another landmark in Crusader Industries’ proud history of transport designs. This ship utilizes award-winning manufacturing techniques and the highest quality parts to create one thing; a next-generation passenger ship at a price that won’t break your budget. Crusader Industries’ proprietary NeoG engine technology offers some of the most efficient flight for a ship of its size.",
+    "description": "The Genesis is yet another landmark in Crusader Industries' proud history of transport designs. This ship utilizes award-winning manufacturing techniques and the highest quality parts to create one thing; a next-generation passenger ship at a price that won't break your budget. Crusader Industries' proprietary NeoG engine technology offers some of the most efficient flight for a ship of its size.",
     "dimensions": {
       "width": 80,
       "length": 85,
@@ -5161,7 +5161,7 @@
     "cargo": 522,
     "minCrew": 1,
     "maxCrew": 3,
-    "description": "The M2 Hercules is the UEE's premier tactical starlifter. The large-scale transport's potent combination of capacity, maneuverability, durability, and robust weapons package assures your cargo and crew get to where they’re going in one piece.",
+    "description": "The M2 Hercules is the UEE's premier tactical starlifter. The large-scale transport's potent combination of capacity, maneuverability, durability, and robust weapons package assures your cargo and crew get to where they're going in one piece.",
     "dimensions": {
       "width": 94,
       "length": 70,
@@ -5795,7 +5795,7 @@
     "cargo": 0,
     "minCrew": 1,
     "maxCrew": 3,
-    "description": "With the Cutlass Steel, Drake Interplanetary has once again reinvented their classic design to create a next generation combat transport ship through the addition of dedicated jump seats and an expanded arsenal. It’s a dangerous ‘verse out there, and the Cutlass Steel is ready to cut a path through whatever stands in the way of you and your dedicated crew.",
+    "description": "With the Cutlass Steel, Drake Interplanetary has once again reinvented their classic design to create a next generation combat transport ship through the addition of dedicated jump seats and an expanded arsenal. It's a dangerous ‘verse out there, and the Cutlass Steel is ready to cut a path through whatever stands in the way of you and your dedicated crew.",
     "dimensions": {
       "width": 26.5,
       "length": 37.5,
@@ -6170,8 +6170,8 @@
     "maxCrew": 1,
     "description": "With the Golem, Drake designed the ideal ship for those interested in starting a mining career. The ship features a bespoke mining laser and the capacity to carry 32 SCU of valuable resources. In classic Drake fashion, the Golem is a purpose-built ship that prioritizes function over frills.",
     "dimensions": {
-      "width": 15.5,
-      "length": 7,
+      "width": 7,
+      "length": 15.5,
       "height": 5
     },
     "hp": 17300,
@@ -6236,11 +6236,158 @@
     }
   },
   {
+    "ref": "drak_golem_ox",
+    "career": "Light Freight",
+    "cargo": 64,
+    "maxCrew": 1,
+    "description": "A Drake workhorse for the hauling world. With a generous cargo capacity, external storage, and easy off-loading, the OX puts function and performance above all else for solo pilots. External 64 SCU storage that allows for quick on and off-loading and a faster job turnaround.  Maneuver your haul remotely with a deployable rear tractor beam for a smoother collection and delivery.",
+    "dimensions": {
+      "width": 10,
+      "length": 15.5,
+      "height": 5
+    },
+    "hp": 20700,
+    "hydrogenFuel": 24,
+    "manufacturer": "DRAK",
+    "mass": 76217,
+    "name": "Golem Ox",
+    "qtFuel": 1.1,
+    "role": "Light Freight",
+    "size": 2,
+    "weapons": [
+      {
+        "size": 1,
+        "count": 2,
+        "type": "Laser"
+      }
+    ],
+    "missiles": [
+      {
+        "size": 1,
+        "count": 2,
+        "type": "Missile"
+      }
+    ],
+    "shields": [
+      {
+        "size": 1,
+        "type": "Shield",
+        "count": 1
+      }
+    ],
+    "accessories": [
+      {
+        "count": 1,
+        "size": 1,
+        "type": "Tractor"
+      }
+    ],
+    "conceptDate": "2025-11-23",
+    "state": "Flight Ready",
+    "flightCharacteristics": {
+      "scmSpeed": 200,
+      "maxSpeed": 1000,
+      "rotation": {
+        "pitch": 40,
+        "roll": 135,
+        "yaw": 40
+      }
+    },
+    "minCrew": 1,
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 90,
+      "buy": [],
+      "rent": []
+    }
+  },
+  {
+    "ref": "drak_clipper",
+    "career": "Generalist",
+    "cargo": 12,
+    "maxCrew": 1,
+    "description": "A solo-flyable ship with multipurpose capabilities, built for freethinkers and lone travelers. Drake’s signature industrial design and evocative asymmetrical aesthetic make the Clipper a visual spectacle as well as a practical standout.",
+    "dimensions": {
+      "width": 18,
+      "length": 26.5,
+      "height": 21
+    },
+    "hp": 26350,
+    "hydrogenFuel": 15,
+    "manufacturer": "DRAK",
+    "mass": 130562,
+    "name": "Clipper",
+    "qtFuel": 1.7,
+    "role": "Generalist",
+    "size": 3,
+    "weapons": [
+      {
+        "size": 3,
+        "count": 2,
+        "type": "Laser"
+      },
+      {
+        "size": 3,
+        "count": 2,
+        "type": "Ballistic"
+      }
+    ],
+    "missiles": [
+      {
+        "size": 1,
+        "count": 12,
+        "type": "Missile"
+      },
+      {
+        "size": 2,
+        "count": 4,
+        "type": "Missile"
+      },
+      {
+        "size": 3,
+        "count": 3,
+        "type": "Missile"
+      }
+    ],
+    "shields": [
+      {
+        "size": 1,
+        "type": "Shield",
+        "count": 2
+      }
+    ],
+    "accessories": [
+      {
+        "count": 1,
+        "size": 3,
+        "type": "Medical"
+      }
+    ],
+    "conceptDate": "2025-11-23",
+    "state": "Flight Ready",
+    "flightCharacteristics": {
+      "scmSpeed": 205,
+      "maxSpeed": 1000,
+      "rotation": {
+        "pitch": 38,
+        "roll": 125,
+        "yaw": 38
+      }
+    },
+    "minCrew": 1,
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 150,
+      "buy": [],
+      "rent": []
+    }
+  },
+  {
     "ref": "drak_herald",
     "career": "Transporter",
     "cargo": 0,
     "maxCrew": 1,
-    "description": "The Drake Herald is a small, armored ship designed to safely get information from Point A to Point B. Featuring a powerful central engine (for high speed transit and generating the power needed for effective data encryption/containment), advanced encryption software and an armored computer core, the Herald is unique among personal spacecraft in that it is designed to be easily ‘cleaned’ when in danger of capture.",
+    "description": "The Drake Herald is a small, armored ship designed to safely get information from Point A to Point B. Featuring a powerful central engine (for high speed transit and generating the power needed for effective data encryption/containment), advanced encryption software and an armored computer core, the Herald is unique among personal spacecraft in that it is designed to be easily ‘cleaned' when in danger of capture.",
     "dimensions": {
       "width": 12.5,
       "length": 24.75,
@@ -6644,7 +6791,7 @@
     "career": "Combat",
     "cargo": 0,
     "maxCrew": 1,
-    "description": "A closely replicated Vanduul ship, reworked for Human flight. As Esperia’s first Heavy Fighter, the Stinger prioritizes strong armor to sustain prolonged barrages while readying its attack.",
+    "description": "A closely replicated Vanduul ship, reworked for Human flight. As Esperia's first Heavy Fighter, the Stinger prioritizes strong armor to sustain prolonged barrages while readying its attack.",
     "dimensions": {
       "width": 35,
       "length": 32,
@@ -6693,7 +6840,7 @@
     "state": "Flight Ready",
     "minCrew": 1,
     "vehicleType": "Ship",
-    "flightCharacteristics":{
+    "flightCharacteristics": {
       "maxSpeed": 1050,
       "scmSpeed": 207,
       "rotation": {
@@ -6713,7 +6860,7 @@
     "career": "Combat",
     "cargo": 0,
     "maxCrew": 1,
-    "description": "Named after the UPE military designation, the Prowler is a modernized version of the infamous Tevarin boarding craft from the First Tevarin War. The Prowler’s effectiveness as a rapid personnel deployment vehicle was mainly due to its silence. With the Prowler, you will find the perfect fusion of two cultures: the elegance and effectiveness of the Tevarin war machine combined with the reliability of modern UEE technology.",
+    "description": "Named after the UPE military designation, the Prowler is a modernized version of the infamous Tevarin boarding craft from the First Tevarin War. The Prowler's effectiveness as a rapid personnel deployment vehicle was mainly due to its silence. With the Prowler, you will find the perfect fusion of two cultures: the elegance and effectiveness of the Tevarin war machine combined with the reliability of modern UEE technology.",
     "dimensions": {
       "width": 32,
       "length": 34,
@@ -6772,7 +6919,7 @@
     "cargo": 32,
     "minCrew": 1,
     "maxCrew": 5,
-    "description": "While no known Tevarin-made examples of this historical ship exist, historians at Esperia studied contemporary UPE military field reports to reconstruct this modified Prowler. Used by the Tevarin military to deliver urgently needed supplies to the frontlines, the Prowler Utility pairs a tractor beam with a fully accessible hold, alongside the warship’s still significant armaments, to make the transfer of cargo in battlefield conditions a precision operation.",
+    "description": "While no known Tevarin-made examples of this historical ship exist, historians at Esperia studied contemporary UPE military field reports to reconstruct this modified Prowler. Used by the Tevarin military to deliver urgently needed supplies to the frontlines, the Prowler Utility pairs a tractor beam with a fully accessible hold, alongside the warship's still significant armaments, to make the transfer of cargo in battlefield conditions a precision operation.",
     "dimensions": {
       "width": 32,
       "length": 34,
@@ -6960,7 +7107,7 @@
     "career": "Medium Freight",
     "cargo": 320,
     "maxCrew": 4,
-    "description": "Gatac's first foray into the human market, the Railen is an elegant interspecies vessel perfect for any Human or Xi’an pilot looking for a safe, reliable solution for commercial-grade medium cargo hauling. Utilizing patented grav-lev technology, and time-tested designs updated for 2951 and beyond, the Railen is a prime example of why the Xi'an Empire has trusted House Gatac with production of its industrial vessels for centuries.",
+    "description": "Gatac's first foray into the human market, the Railen is an elegant interspecies vessel perfect for any Human or Xi'an pilot looking for a safe, reliable solution for commercial-grade medium cargo hauling. Utilizing patented grav-lev technology, and time-tested designs updated for 2951 and beyond, the Railen is a prime example of why the Xi'an Empire has trusted House Gatac with production of its industrial vessels for centuries.",
     "dimensions": {
       "width": 52,
       "length": 53,
@@ -6990,7 +7137,7 @@
     "career": "Starter",
     "cargo": 6,
     "maxCrew": 1,
-    "description": "The Syulen cargo vessel has been artfully crafted by the renowned House Gatac to be well suited for both Human and Xi’an pilots. With a refined agile frame, the Syulen lends itself to ferrying important deliveries across the universe, or as the ideal ship for those making their transport career debut.",
+    "description": "The Syulen cargo vessel has been artfully crafted by the renowned House Gatac to be well suited for both Human and Xi'an pilots. With a refined agile frame, the Syulen lends itself to ferrying important deliveries across the universe, or as the ideal ship for those making their transport career debut.",
     "dimensions": {
       "width": 28,
       "length": 25,
@@ -7079,7 +7226,7 @@
     "missiles": [
       {
         "size": 1,
-        "count": 4,
+        "count": 8,
         "type": "Missile"
       }
     ],
@@ -7105,6 +7252,65 @@
     "vehicleType": "Ship",
     "availability": {
       "pledge": 100,
+      "buy": [],
+      "rent": []
+    }
+  },
+  {
+    "ref": "krig_l22_alpha_wolf",
+    "career": "Combat",
+    "cargo": 0,
+    "maxCrew": 1,
+    "description": "Kruger swiftly returns following the stylish debut of its aesthetic masterpiece, the L-21 Wolf, with an altered variant. Modified and customizable for your desired offense in combat, the L-22 Alpha Wolf flies with agility and striking elegance, just like its predecessor, but with a new laser-driven style showing that sometimes, the new ways are the best.",
+    "dimensions": {
+      "width": 5.25,
+      "length": 12,
+      "height": 3
+    },
+    "hp": 7722,
+    "hydrogenFuel": 9,
+    "manufacturer": "KRIG",
+    "mass": 23350,
+    "name": "L-22 Alpha Wolf",
+    "qtFuel": 0.9,
+    "role": "Light Fighter",
+    "size": 2,
+    "weapons": [
+      {
+        "size": 4,
+        "count": 2,
+        "type": "Laser"
+      }
+    ],
+    "missiles": [
+      {
+        "size": 2,
+        "count": 6,
+        "type": "Missile"
+      }
+    ],
+    "shields": [
+      {
+        "size": 1,
+        "type": "Shield",
+        "count": 2
+      }
+    ],
+    "conceptDate": "2025-11-25",
+    "state": "Flight Ready",
+    "flightCharacteristics": {
+      "scmSpeed": 225,
+      "maxSpeed": 1225,
+      "rotation": {
+        "pitch": 74,
+        "roll": 210,
+        "yaw": 54
+      }
+    },
+    "minCrew": 1,
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 120,
       "buy": [],
       "rent": []
     }
@@ -7177,7 +7383,7 @@
     "career": "Competition",
     "cargo": 0,
     "maxCrew": 1,
-    "description": "Whether for added security, exploring a system or simply the joy of flying, the Kruger Intergalactic’s P-72 Archimedes snub craft was designed to deliver exceptional handling and nimble acceleration in a sleek and stylish package.",
+    "description": "Whether for added security, exploring a system or simply the joy of flying, the Kruger Intergalactic's P-72 Archimedes snub craft was designed to deliver exceptional handling and nimble acceleration in a sleek and stylish package.",
     "dimensions": {
       "width": 5.25,
       "length": 12,
@@ -7295,7 +7501,7 @@
     "career": "Combat",
     "cargo": 0,
     "maxCrew": 1,
-    "description": "Featuring best-in-class maneuverability and fully integrated, cutting-edge Xi’an tech, the next-generation Fury snub fighter from Mirai uses its four halo-mounted size 2 laser repeaters to redefine short-range space combat.",
+    "description": "Featuring best-in-class maneuverability and fully integrated, cutting-edge Xi'an tech, the next-generation Fury snub fighter from Mirai uses its four halo-mounted size 2 laser repeaters to redefine short-range space combat.",
     "dimensions": {
       "width": 5.4,
       "length": 7,
@@ -7365,7 +7571,7 @@
     "career": "Competition",
     "cargo": 0,
     "maxCrew": 1,
-    "description": "Featuring best-in-class maneuverability and fully integrated, cutting-edge Xi’an tech, the next-generation Fury LX racing ship from Mirai switches out the lithe ship’s offensive capabilities to make room for additional maneuvering thrusters perfect for getting across the finish line.",
+    "description": "Featuring best-in-class maneuverability and fully integrated, cutting-edge Xi'an tech, the next-generation Fury LX racing ship from Mirai switches out the lithe ship's offensive capabilities to make room for additional maneuvering thrusters perfect for getting across the finish line.",
     "dimensions": {
       "width": 5.4,
       "length": 7,
@@ -7416,7 +7622,7 @@
     "career": "Combat",
     "cargo": 0,
     "maxCrew": 1,
-    "description": "Featuring best-in-class maneuverability and fully integrated, cutting-edge Xi’an tech, the next-generation Fury MX snub bomber from Mirai uses its twenty halo-mounted missiles to devastate targets during short-range space combat.",
+    "description": "Featuring best-in-class maneuverability and fully integrated, cutting-edge Xi'an tech, the next-generation Fury MX snub bomber from Mirai uses its twenty halo-mounted missiles to devastate targets during short-range space combat.",
     "dimensions": {
       "width": 5.4,
       "length": 7,
@@ -7479,7 +7685,7 @@
     "career": "Combat",
     "cargo": 0,
     "maxCrew": 1,
-    "description": "Taking the adage that the best defense is a good offense, Mirai engineers have brought their expertise in performance and maneuverability to the Guardian long range fighter.  Fly circles around your opponents with the Mirai Guardian while establishing your space superiority. \\n",
+    "description": "Taking the adage that the best defense is a good offense, Mirai engineers have brought their expertise in performance and maneuverability to the Guardian long range fighter.  Fly circles around your opponents with the Mirai Guardian while establishing your space superiority. \n",
     "dimensions": {
       "width": 16.3,
       "length": 24.3,
@@ -7549,7 +7755,7 @@
     "career": "Combat",
     "cargo": 0,
     "maxCrew": 1,
-    "description": "Taking the framework of the Guardian fighter and adding even more offensive options, the Mirai Guardian MX packs additional firepower and armor ideal for overwhelming opponents. While not as nimble as the base Guardian, this heavy fighter is still more agile than many other ships in its class.\\n",
+    "description": "Taking the framework of the Guardian fighter and adding even more offensive options, the Mirai Guardian MX packs additional firepower and armor ideal for overwhelming opponents. While not as nimble as the base Guardian, this heavy fighter is still more agile than many other ships in its class.\n",
     "dimensions": {
       "width": 17,
       "length": 26,
@@ -7608,7 +7814,7 @@
     "career": "Combat",
     "cargo": 0,
     "maxCrew": 1,
-    "description": "It’s not too surprising that hostiles may run when confronted with a powerful opponent, but thanks to its quantum dampening capabilities, the Mirai Guardian QI ensures that your enemies won’t be able to fight another day. Taking the best features of the base Guardian, the engineers at Mirai have made the QI variant the ideal complement to any protective forces.\\n",
+    "description": "It's not too surprising that hostiles may run when confronted with a powerful opponent, but thanks to its quantum dampening capabilities, the Mirai Guardian QI ensures that your enemies won't be able to fight another day. Taking the best features of the base Guardian, the engineers at Mirai have made the QI variant the ideal complement to any protective forces.\n",
     "dimensions": {
       "width": 16.3,
       "length": 24.3,
@@ -7674,7 +7880,7 @@
     "career": "Ground",
     "cargo": 0,
     "maxCrew": 1,
-    "description": "Manufacturer: Mirai\\nFocus: Combat\\n \\nThe engineers at Mirai set out to craft an open-canopy bike capable of more. A more intimate connection between pilot and performance with a form-fitting silhouette. A more intuitive way to tame formidable landscapes with a responsive grav-lev system. A more intelligent combat experience with a custom weapon fully integrated into the spirit of the vehicle. The end result? The Mirai Pulse.\\n",
+    "description": "Manufacturer: Mirai\nFocus: Combat\n \nThe engineers at Mirai set out to craft an open-canopy bike capable of more. A more intimate connection between pilot and performance with a form-fitting silhouette. A more intuitive way to tame formidable landscapes with a responsive grav-lev system. A more intelligent combat experience with a custom weapon fully integrated into the spirit of the vehicle. The end result? The Mirai Pulse.\n",
     "dimensions": {
       "width": 1.5,
       "length": 3.5,
@@ -7730,7 +7936,7 @@
     "career": "Ground",
     "cargo": 0,
     "maxCrew": 1,
-    "description": "Manufacturer: Mirai\\nFocus: Racing\\n \\nSeamlessly pairing pilot and pure speed, the Mirai Pulse LX grav-lev bike soars over terrain like no open-canopy racer before. Feel your heartrate quicken as you experience first-hand the Pulse’s ground-breaking responsiveness and form-fitting silhouette.   \\n",
+    "description": "Manufacturer: Mirai\nFocus: Racing\n \nSeamlessly pairing pilot and pure speed, the Mirai Pulse LX grav-lev bike soars over terrain like no open-canopy racer before. Feel your heartrate quicken as you experience first-hand the Pulse's ground-breaking responsiveness and form-fitting silhouette.   \n",
     "dimensions": {
       "width": 1.5,
       "length": 3.5,
@@ -7909,7 +8115,7 @@
     "career": "Competition",
     "cargo": 0,
     "maxCrew": 1,
-    "description": "The Razor gets supercharged. The LX features an overclocked engine to unleash blazing top speeds. This power comes at a cost with reduced maneuverability and armaments making it ideal for straight-shot racing. But who needs weapons when you’re leaving your competition in the dust.",
+    "description": "The Razor gets supercharged. The LX features an overclocked engine to unleash blazing top speeds. This power comes at a cost with reduced maneuverability and armaments making it ideal for straight-shot racing. But who needs weapons when you're leaving your competition in the dust.",
     "dimensions": {
       "width": 9,
       "length": 12.5,
@@ -7972,7 +8178,7 @@
     "career": "Industrial",
     "cargo": 16,
     "maxCrew": 1,
-    "description": "For those ready to elevate their profession to the next level, the engineers at MISC have carefully crafted the Fortune as a best-in-class small reclamation vessel. Equipped with a versatile salvage arm and a cargo lift, the MISC Fortune is built from the struts up to turn trash into treasure.\\n",
+    "description": "For those ready to elevate their profession to the next level, the engineers at MISC have carefully crafted the Fortune as a best-in-class small reclamation vessel. Equipped with a versatile salvage arm and a cargo lift, the MISC Fortune is built from the struts up to turn trash into treasure.\n",
     "dimensions": {
       "width": 16.5,
       "length": 26.5,
@@ -8339,7 +8545,7 @@
     "career": "Transporter",
     "cargo": 64,
     "maxCrew": 1,
-    "description": "The smallest, most affordable Hull. The Hull A is great for those just striking out in the galaxy on their own. The Hull A is most similar to the Aurora and Mustang, but lacks the ‘jack of all trades’ nature. Where the others trade cargo capacity for firepower or speed, the Hull A is 100% on-mission transport.",
+    "description": "The smallest, most affordable Hull. The Hull A is great for those just striking out in the galaxy on their own. The Hull A is most similar to the Aurora and Mustang, but lacks the ‘jack of all trades' nature. Where the others trade cargo capacity for firepower or speed, the Hull A is 100% on-mission transport.",
     "dimensions": {
       "width": 12.5,
       "length": 30,
@@ -8414,7 +8620,7 @@
     "career": "Heavy Freight",
     "cargo": 384,
     "maxCrew": 1,
-    "description": "The Hull B is a more rugged option most often compared to MISC’s own Freelancer. But where the Freelancer is equipped for long range exploration and other roles, the Hull B is a pure cargo transport. Hull B are often used as corporate support ships, and it is not uncommon to spot several in different liveries during a single flight.",
+    "description": "The Hull B is a more rugged option most often compared to MISC's own Freelancer. But where the Freelancer is equipped for long range exploration and other roles, the Hull B is a pure cargo transport. Hull B are often used as corporate support ships, and it is not uncommon to spot several in different liveries during a single flight.",
     "dimensions": {
       "width": 15.5,
       "length": 49,
@@ -8445,7 +8651,7 @@
     "cargo": 4608,
     "minCrew": 2,
     "maxCrew": 4,
-    "description": "Often called the most common ship in the galaxy, the Hull C is the most-produced of the range and is considered by many to be the most versatile. Intended to hit the ‘sweet spot’ between the smaller single-person transports and the massive superfreighters that make up the rest of the range, the Hull C offers the expansive modularity of the larger ships while still retaining a modicum of the maneuverability allowed the low end of the range.",
+    "description": "Often called the most common ship in the galaxy, the Hull C is the most-produced of the range and is considered by many to be the most versatile. Intended to hit the ‘sweet spot' between the smaller single-person transports and the massive superfreighters that make up the rest of the range, the Hull C offers the expansive modularity of the larger ships while still retaining a modicum of the maneuverability allowed the low end of the range.",
     "dimensions": {
       "width": 36.05,
       "length": 91.17,
@@ -8569,7 +8775,7 @@
     "career": "Industrial",
     "cargo": 32,
     "maxCrew": 1,
-    "description": "For years, the Prospector has been the universe’s preferred mining vessel for solo operators. Featuring MISC’s sleek design sensibility and a bevy of upgraded high-tech mining tools, the 2947 Prospector perfectly balances form and functionality.",
+    "description": "For years, the Prospector has been the universe's preferred mining vessel for solo operators. Featuring MISC's sleek design sensibility and a bevy of upgraded high-tech mining tools, the 2947 Prospector perfectly balances form and functionality.",
     "dimensions": {
       "width": 16.5,
       "length": 26.5,
@@ -8671,7 +8877,7 @@
     "cargo": 6,
     "minCrew": 1,
     "maxCrew": 2,
-    "description": "With the Reliant Kore, MISC adds to its already impressive lineup of ships, a smaller introductory-class spacecraft. Utilizing advanced Xi’An designs, the Reliant features broad, sleek wings, omni-directional thrusters and a fully-articulated two-seat cockpit that supports horizontal and vertical flight modes. All of this combines with a larger carrying capacity than many ships in its class to make the Kore a natural choice for short-range hauling, or with the simple addition of a few optional components, this can-do ship can do anything you dream of.",
+    "description": "With the Reliant Kore, MISC adds to its already impressive lineup of ships, a smaller introductory-class spacecraft. Utilizing advanced Xi'An designs, the Reliant features broad, sleek wings, omni-directional thrusters and a fully-articulated two-seat cockpit that supports horizontal and vertical flight modes. All of this combines with a larger carrying capacity than many ships in its class to make the Kore a natural choice for short-range hauling, or with the simple addition of a few optional components, this can-do ship can do anything you dream of.",
     "dimensions": {
       "width": 28.5,
       "length": 14.75,
@@ -9006,7 +9212,7 @@
     "cargo": 291,
     "minCrew": 4,
     "maxCrew": 6,
-    "description": "The United Empire of Earth military uses an adapted ‘rough and tumble’ variant of the Starfarer for their front line operations. The G2M Gemini, more commonly the Starfarer Gemini or ‘Star G,’ trades some cargo capacity and maneuverability in exchange for reinforced armor, increased shielding, more powerful engines and stronger versions of the three manned turrets.",
+    "description": "The United Empire of Earth military uses an adapted ‘rough and tumble' variant of the Starfarer for their front line operations. The G2M Gemini, more commonly the Starfarer Gemini or ‘Star G,' trades some cargo capacity and maneuverability in exchange for reinforced armor, increased shielding, more powerful engines and stronger versions of the three manned turrets.",
     "dimensions": {
       "width": 48.5,
       "length": 102,
@@ -9071,7 +9277,7 @@
     "cargo": 224,
     "minCrew": 1,
     "maxCrew": 4,
-    "description": "Manufacturer: MISC\\nFocus: Cargo\\n \\nFor those looking to expand their hauling operations, the engineers at MISC have upgraded the Starlancer MAX with an extra spacious hold ready to transport cargo and vehicles. Paired with comfortable accommodations for longer trips and a full defensive package for when you go off the beaten path, it’s easy to see why the Starlancer MAX is the hauler of choice for industrious pilots across the ‘verse.",
+    "description": "Manufacturer: MISC\nFocus: Cargo\n \nFor those looking to expand their hauling operations, the engineers at MISC have upgraded the Starlancer MAX with an extra spacious hold ready to transport cargo and vehicles. Paired with comfortable accommodations for longer trips and a full defensive package for when you go off the beaten path, it's easy to see why the Starlancer MAX is the hauler of choice for industrious pilots across the ‘verse.",
     "dimensions": {
       "width": 60,
       "length": 90,
@@ -9140,7 +9346,7 @@
     "career": "Combat",
     "cargo": 96,
     "maxCrew": 1,
-    "description": "Manufacturer: MISC\\nFocus: Combat\\n \\nFor those looking to for a versatile ship that can stand on its own in a fight, the engineers have upgraded the Starlancer TAC with an aggressive offensive package ready to face down the fiercest of foes. When you take on a high risk, high reward job, the Starlancer TAC is there to make sure you and your crew are able to see it through to the very end.",
+    "description": "Manufacturer: MISC\nFocus: Combat\n \nFor those looking to for a versatile ship that can stand on its own in a fight, the engineers have upgraded the Starlancer TAC with an aggressive offensive package ready to face down the fiercest of foes. When you take on a high risk, high reward job, the Starlancer TAC is there to make sure you and your crew are able to see it through to the very end.",
     "dimensions": {
       "width": 60,
       "length": 90,
@@ -9894,7 +10100,7 @@
     "career": "Exploration",
     "cargo": 0,
     "maxCrew": 1,
-    "description": "Elegantly styled and meticulously constructed, the 85X is a versatile and comprehensive away-vessel that features precision control in and out of atmosphere. Utilizing much of the same thruster technology as the 300 series, it has the power of a racer with the reliability of a touring ship. Whether descending down to the planet surface or taking in the sights of your system, this runabout continues Origin’s proud tradition of turning heads.",
+    "description": "Elegantly styled and meticulously constructed, the 85X is a versatile and comprehensive away-vessel that features precision control in and out of atmosphere. Utilizing much of the same thruster technology as the 300 series, it has the power of a racer with the reliability of a touring ship. Whether descending down to the planet surface or taking in the sights of your system, this runabout continues Origin's proud tradition of turning heads.",
     "dimensions": {
       "width": 14,
       "length": 13.5,
@@ -10015,7 +10221,7 @@
     "career": "Touring",
     "cargo": 2,
     "maxCrew": 2,
-    "description": "Trek to the edge of the galaxy with confidence thanks to Origin’s trademark build quality and design. Built with the most extreme environments in mind, the G12 suits all types of planetary travel, from traversing tundras to sightseeing.",
+    "description": "Trek to the edge of the galaxy with confidence thanks to Origin's trademark build quality and design. Built with the most extreme environments in mind, the G12 suits all types of planetary travel, from traversing tundras to sightseeing.",
     "dimensions": {
       "width": 5.8,
       "length": 7.2,
@@ -10045,7 +10251,7 @@
     "career": "Military",
     "cargo": 0,
     "maxCrew": 2,
-    "description": "The G12a combines military might with Origin’s unique approach to high-end engineering. Designed for all offensive ground-based operations, it’s the ideal partner for long-range perimeter patrols, intercepting assailants, and exploring dangerous new locales.",
+    "description": "The G12a combines military might with Origin's unique approach to high-end engineering. Designed for all offensive ground-based operations, it's the ideal partner for long-range perimeter patrols, intercepting assailants, and exploring dangerous new locales.",
     "dimensions": {
       "width": 5.8,
       "length": 7.2,
@@ -10075,7 +10281,7 @@
     "career": "Racing",
     "cargo": 0,
     "maxCrew": 2,
-    "description": "Stripped back and meticulously engineering for performance, Origin has taken everything learned from preparing the 350r and M50 ships for competition and added it to the ubiquitous ground racer. Lighter, faster, and with a built-in EMP for protection, it’s ready for anything the outlands can throw at it.",
+    "description": "Stripped back and meticulously engineering for performance, Origin has taken everything learned from preparing the 350r and M50 ships for competition and added it to the ubiquitous ground racer. Lighter, faster, and with a built-in EMP for protection, it's ready for anything the outlands can throw at it.",
     "dimensions": {
       "width": 5.8,
       "length": 7.2,
@@ -10339,7 +10545,7 @@
     "cargo": 32,
     "minCrew": 1,
     "maxCrew": 2,
-    "description": "A life-saving ship with enhanced armor and missile racks, capable of responding to calls in the heaviest combat. A product of RSI’s proven history in critical aid, the Medivac provides robust, adaptable medical support under fire, keeping crews alive in the most dangerous situations.",
+    "description": "A life-saving ship with enhanced armor and missile racks, capable of responding to calls in the heaviest combat. A product of RSI's proven history in critical aid, the Medivac provides robust, adaptable medical support under fire, keeping crews alive in the most dangerous situations.",
     "dimensions": {
       "width": 54,
       "length": 73,
@@ -10405,7 +10611,7 @@
     "cargo": 32,
     "minCrew": 1,
     "maxCrew": 2,
-    "description": "A life-saving ship for rapid response and emergency medical assistance. A product of RSI’s proven history in critical aid, the Triage delivers highly configurable, professional-level medical care anywhere in the galaxy.",
+    "description": "A life-saving ship for rapid response and emergency medical assistance. A product of RSI's proven history in critical aid, the Triage delivers highly configurable, professional-level medical care anywhere in the galaxy.",
     "dimensions": {
       "width": 54,
       "length": 73,
@@ -11083,7 +11289,7 @@
     "cargo": 174,
     "minCrew": 3,
     "maxCrew": 4,
-    "description": "Paired down to fully focus on hauling, the Taurus provides the most cargo space of any ship in RSI’s Constellation line-up. What it loses in versatility it more than makes up for in potential profits thanks to its tractor beams, a cargo release system for quick unloading, and a security hold reinforced with tech plating.",
+    "description": "Paired down to fully focus on hauling, the Taurus provides the most cargo space of any ship in RSI's Constellation line-up. What it loses in versatility it more than makes up for in potential profits thanks to its tractor beams, a cargo release system for quick unloading, and a security hold reinforced with tech plating.",
     "dimensions": {
       "width": 27.75,
       "length": 70,
@@ -11196,7 +11402,7 @@
     "career": "Combat",
     "cargo": 0,
     "maxCrew": 1,
-    "description": "Stop ships dead in their tracks with RSI’s premier Quantum Enforcement ship. The Mantis features a tailor-made Quantum Enforcement Device from Wei-Tek, capable of ripping ships out of QT with its Quantum Snare and preventing hasty escapes with its Quantum Dampener.",
+    "description": "Stop ships dead in their tracks with RSI's premier Quantum Enforcement ship. The Mantis features a tailor-made Quantum Enforcement Device from Wei-Tek, capable of ripping ships out of QT with its Quantum Snare and preventing hasty escapes with its Quantum Dampener.",
     "dimensions": {
       "width": 17,
       "length": 30,
@@ -11337,7 +11543,7 @@
     "career": "Heavy Mining",
     "cargo": 384,
     "maxCrew": 7,
-    "description": "Roberts Space Industries’ goal has always been to make the stars available to individual Citizens. Now, with the RSI Orion mining platform, RSI is letting individuals take over a process formerly controlled by mega-corporations. The Orion’s features include high-grade turret-mounted tractor beam arrays, plenty of mineral storage and a cabin designed by the team that brought you the Aurora and Constellation! The listed Cargo Capacity is only for the dedicated Cargo Room and does not account for the mined material capacity in the storage pods which will be detailed later.",
+    "description": "Roberts Space Industries' goal has always been to make the stars available to individual Citizens. Now, with the RSI Orion mining platform, RSI is letting individuals take over a process formerly controlled by mega-corporations. The Orion's features include high-grade turret-mounted tractor beam arrays, plenty of mineral storage and a cabin designed by the team that brought you the Aurora and Constellation! The listed Cargo Capacity is only for the dedicated Cargo Room and does not account for the mined material capacity in the storage pods which will be detailed later.",
     "dimensions": {
       "width": 50,
       "length": 170,
@@ -11365,21 +11571,21 @@
   {
     "ref": "rsi_perseus",
     "career": "Militia / Patrol",
-    "cargo": 50,
+    "cargo": 96,
     "minCrew": 6,
-    "maxCrew": 6,
+    "maxCrew": 7,
     "description": "Thanks to fringe expansion and the ongoing Vanduul War, security breaches and incidents at high-traffic jump points are more common than ever. When considering a modern solution for civilian and paramilitary operations, we looked to our past; to the historic Perseus gunship. Capable of shredding sub-capital-class goliaths, the mere presence of a Perseus in a blockade or patrol squad is enough to make your most aggressive enemies think twice before engaging… just like its vintage namesake.",
     "dimensions": {
       "width": 50,
       "length": 100,
-      "height": 21
+      "height": 25
     },
-    "hp": null,
-    "hydrogenFuel": null,
+    "hp": 389204,
+    "hydrogenFuel": 400,
     "manufacturer": "RSI",
-    "mass": null,
+    "mass": 4037000,
     "name": "Perseus",
-    "qtFuel": null,
+    "qtFuel": 7,
     "role": "Heavy Gunship",
     "size": 5,
     "shields": [
@@ -11390,11 +11596,78 @@
       }
     ],
     "conceptDate": "2020-11-28",
-    "state": "In Concept",
-    "flightCharacteristics": null,
+    "state": "Flight Ready",
+    "flightCharacteristics": {
+      "maxSpeed": 1050,
+      "scmSpeed": 150,
+      "rotation": {
+        "pitch": 15,
+        "roll": 25,
+        "yaw": 13
+      }
+    },
     "vehicleType": "Ship",
     "availability": {
-      "pledge": 675,
+      "pledge": 800,
+      "buy": [],
+      "rent": []
+    }
+  },
+  {
+    "ref": "rsi_salvation",
+    "career": "Light Salvage",
+    "cargo": 6,
+    "minCrew": 1,
+    "maxCrew": 1,
+    "description": "A beginner-friendly ship that brings a career in salvaging within everyone's grasp. With a compact design and easy-to-use functionality, RSI's newest offering upholds its legacy of hope for the future. The Salvation is capable of carrying 12 scu of salvage - 6 scu on the grid and a further 6 in the buffer.",
+    "dimensions": {
+      "width": 8.5,
+      "length": 14.5,
+      "height": 4
+    },
+    "hp": 5503,
+    "hydrogenFuel": 25,
+    "manufacturer": "RSI",
+    "mass": 62245,
+    "name": "Salvation",
+    "qtFuel": 1,
+    "role": "Starter Salvage",
+    "size": 2,
+    "shields": [
+      {
+        "size": 1,
+        "count": 2,
+        "type": "Shield"
+      }
+    ],
+    "weapons": [
+      {
+        "size": 1,
+        "count": 2,
+        "type": "Laser"
+      }
+    ],
+    "accessories": [
+      {
+        "size": 1,
+        "count": 2,
+        "type": "Salvage Head"
+      }
+    ],
+    "conceptDate": "2025-11-20",
+    "state": "Flight Ready",
+    "flightCharacteristics": {
+      "maxSpeed": 1150,
+      "scmSpeed": 205,
+      "rotation": {
+        "pitch": 45,
+        "yaw": 45,
+        "roll": 140
+      }
+    },
+    "vehicleType": "Ship",
+    "availability": {
+      "pledge": 60,
       "buy": [],
       "rent": []
     }
@@ -11671,7 +11944,7 @@
     "cargo": 32,
     "minCrew": 1,
     "maxCrew": 3,
-    "description": "Ready to ferry a whole new generation of travelers across the universe, Roberts Space Industries is proud to introduce a starship eight centuries in the making - the all-new Zeus Mk II spacecraft. Paying homage to the classic design that launched Humanity to the stars in 2140, the Zeus Mk II has been updated to exceed modern standards while retaining the heart of this beloved spacefaring icon.  With a focus on exploration, the Zeus Mk II ES edition features a robust radar package for finding new discoveries, and enhanced weaponry and shielding to help bring them back home.\\n",
+    "description": "Ready to ferry a whole new generation of travelers across the universe, Roberts Space Industries is proud to introduce a starship eight centuries in the making - the all-new Zeus Mk II spacecraft. Paying homage to the classic design that launched Humanity to the stars in 2140, the Zeus Mk II has been updated to exceed modern standards while retaining the heart of this beloved spacefaring icon.  With a focus on exploration, the Zeus Mk II ES edition features a robust radar package for finding new discoveries, and enhanced weaponry and shielding to help bring them back home.\n",
     "dimensions": {
       "width": 35,
       "length": 46,
@@ -11884,7 +12157,7 @@
     "career": "Ground",
     "cargo": 0,
     "maxCrew": 2,
-    "description": "Built on Anvil's popular Atlas Platform, the Centurion presents a tactical solution for short-range anti-aircraft operations. Thanks to the Centurion’s custom energy-based AA turret, your forces can establish ground superiority by assuring immediate threats from above are dealt with quickly and efficiently.",
+    "description": "Built on Anvil's popular Atlas Platform, the Centurion presents a tactical solution for short-range anti-aircraft operations. Thanks to the Centurion's custom energy-based AA turret, your forces can establish ground superiority by assuring immediate threats from above are dealt with quickly and efficiently.",
     "dimensions": {
       "width": 7,
       "length": 17,
@@ -11969,7 +12242,7 @@
     "career": "Ground",
     "cargo": 0,
     "maxCrew": 1,
-    "description": "Built on Anvil’s robust Atlas Platform, the same chassis used for their devastating Ballista air defense system, the Spartan is a fully armored transport outfitted with eight jump seats. The Spartan’s rugged frame makes it perfect for all kinds of terrain, and its remote Gatling turret helps clear the area for easier deployment.",
+    "description": "Built on Anvil's robust Atlas Platform, the same chassis used for their devastating Ballista air defense system, the Spartan is a fully armored transport outfitted with eight jump seats. The Spartan's rugged frame makes it perfect for all kinds of terrain, and its remote Gatling turret helps clear the area for easier deployment.",
     "dimensions": {
       "width": 7,
       "length": 17,
@@ -12024,7 +12297,7 @@
     "career": "Ground",
     "cargo": 4,
     "maxCrew": 1,
-    "description": "You got your plot of land, you’ve got the right construction materials, and now you’re ready to watch your dreams take shape. The ideal companion to the CSV-FM, the CSV Supply Model provides additional storage for all the resources required to build your next settlement.\\n",
+    "description": "You got your plot of land, you've got the right construction materials, and now you're ready to watch your dreams take shape. The ideal companion to the CSV-FM, the CSV Supply Model provides additional storage for all the resources required to build your next settlement.\n",
     "dimensions": {
       "width": 8.75,
       "length": 6,
@@ -12118,16 +12391,16 @@
     "career": "Ground",
     "cargo": 0,
     "maxCrew": 1,
-    "description": "As an expert in industrial operations, Greycat understands that jobsite security is a vital part of any successful business venture. Not only that, but to be fully effective, you need to be able to get your security personnel and their equipment to wherever they’re needed most. That’s why the MTC Mobile Tactical Center is such an important addition to your next venture. Nimble enough to access the difficult terrain encountered at remote operations and equipped with enough suit lockers, weapon racks, and storage to tackle a wide host of issues, the Greycat MTC could make all the difference when it comes to turning a potential problem into potential profit.",
+    "description": "As an expert in industrial operations, Greycat understands that jobsite security is a vital part of any successful business venture. Not only that, but to be fully effective, you need to be able to get your security personnel and their equipment to wherever they're needed most. That's why the MTC Mobile Tactical Center is such an important addition to your next venture. Nimble enough to access the difficult terrain encountered at remote operations and equipped with enough suit lockers, weapon racks, and storage to tackle a wide host of issues, the Greycat MTC could make all the difference when it comes to turning a potential problem into potential profit.",
     "dimensions": {
       "width": 8.75,
       "length": 6,
       "height": 5
     },
-    "hp": 16990,
-    "hydrogenFuel": 23.625,
+    "hp": 22991,
+    "hydrogenFuel": null,
     "manufacturer": "GRIN",
-    "mass": 53700,
+    "mass": 18700,
     "name": "MTC",
     "qtFuel": null,
     "role": "Ground",
@@ -12147,6 +12420,50 @@
       }
     ],
     "conceptDate": "2025-05-08",
+    "state": "Flight Ready",
+    "flightCharacteristics": null,
+    "minCrew": 1,
+    "vehicleType": "Ground",
+    "availability": {
+      "pledge": 50,
+      "buy": [],
+      "rent": []
+    }
+  },
+  {
+    "ref": "grin_mdc",
+    "career": "Ground",
+    "cargo": 0,
+    "maxCrew": 1,
+    "description": "Building upon a robust and sturdy industrial frame, Greycat has crafted the MDC Mobile Defense Center into an effective combat vehicle ready to protect your interests from remote mining sites to patrolling high-value processing centers thanks to its mounted PDS turret.",
+    "dimensions": {
+      "width": 8.75,
+      "length": 6,
+      "height": 5
+    },
+    "hp": 22991,
+    "hydrogenFuel": null,
+    "manufacturer": "GRIN",
+    "mass": 18700,
+    "name": "MDC",
+    "qtFuel": null,
+    "role": "Anti-Air",
+    "size": 1,
+    "weapons": [
+      {
+        "size": 1,
+        "count": 1,
+        "type": "Ballistic"
+      }
+    ],
+    "shields": [
+      {
+        "size": 0,
+        "count": 1,
+        "type": "Shield"
+      }
+    ],
+    "conceptDate": "2025-11-27",
     "state": "Flight Ready",
     "flightCharacteristics": null,
     "minCrew": 1,
@@ -12471,7 +12788,7 @@
     "cargo": 0,
     "minCrew": 1,
     "maxCrew": 2,
-    "description": "Manufacturer: RSI\\nFocus: Medical\\n \\nEven in the most remote of planetside destinations, there are people who could use a helping hand. Designed by RSI to cross even the most rugged terrain, the Ursa Medivac features a Tier 3 Medical Bed ideal for offering aid wherever its needed most.",
+    "description": "Manufacturer: RSI\nFocus: Medical\n \nEven in the most remote of planetside destinations, there are people who could use a helping hand. Designed by RSI to cross even the most rugged terrain, the Ursa Medivac features a Tier 3 Medical Bed ideal for offering aid wherever its needed most.",
     "dimensions": {
       "width": 8.75,
       "length": 6,
@@ -12989,7 +13306,7 @@
     "career": "Ground Combat",
     "cargo": 0,
     "maxCrew": 1,
-    "description": "Manufacturer: Tumbril Land Systems\\nFocus: Combat\\n \\nOriginally introduced in 2606 during the Second Tevarin War, the Tumbril Storm single-operator mini-tank was built to blitz battlefields and take out enemy artillery. Reimagined from the ground up to be faster, stronger, and more impactful than ever, the latest Storm is a true force of nature, well-suited to the frenetic landscape of modern warfare.",
+    "description": "Manufacturer: Tumbril Land Systems\nFocus: Combat\n \nOriginally introduced in 2606 during the Second Tevarin War, the Tumbril Storm single-operator mini-tank was built to blitz battlefields and take out enemy artillery. Reimagined from the ground up to be faster, stronger, and more impactful than ever, the latest Storm is a true force of nature, well-suited to the frenetic landscape of modern warfare.",
     "dimensions": {
       "width": 10.25,
       "length": 7.65,
@@ -13097,11 +13414,11 @@
     }
   },
   {
-    "ref": "grey_shiv",
+    "ref": "glsn_shiv",
     "career": "Combat",
     "cargo": 32,
     "maxCrew": 2,
-    "description": "Don't ask how we got it, don't ask where it came from, just ask, 'Do you want it?'",
+    "description": "Don't ask how we got it, don't ask where it came from, just ask, 'Do you want it?' \n\n The Shiv is a prison cocktail of parts salvaged from other ships - the hull of a Cutlass, the turret from a Hurricane and the vtols from a Valkyrie come together.",
     "dimensions": {
       "width": 28,
       "length": 36,
@@ -13109,7 +13426,7 @@
     },
     "hp": 34300,
     "hydrogenFuel": 32,
-    "manufacturer": "GREY",
+    "manufacturer": "GLSN",
     "mass": 206577,
     "name": "Shiv",
     "qtFuel": 1.65,
@@ -13127,7 +13444,7 @@
         "type": "Laser"
       }
     ],
-    "missiles":[
+    "missiles": [
       {
         "size": 3,
         "count": 8,
